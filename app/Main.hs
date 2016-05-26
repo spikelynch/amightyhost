@@ -1,18 +1,18 @@
-module Main where 
-
 import TextGen ( TextGen, runTextGen, word, choose, list, randrep, perhaps, smartjoin, upcase, loadOptions)
 
 import Control.Monad (forM)
+import Control.Monad.Loops (iterateUntil)
 import Data.List (intercalate)
 import Data.Char (toUpper)
 import System.Random
+import System.Environment (getArgs)
 import qualified Data.Text as T
 import qualified Data.Text.IO as Tio
 
 outfile = "hosts.txt"
 
 nlines = 200
-
+max_length = 140
 
 abode a = list [ sof, a ] 
   where sof = choose $ map word [ "abode of", "haunt of", "country of", "land of", "home of", "place of", "realm of" ]
@@ -57,25 +57,30 @@ host place warriors waters arms = choose [ f1, f2, f3 ]
 
 phr phrase = list [ word ",", phrase, word "," ]
   
+getDir (x:xs) = x
+getDir _      = "./"
+
   
 main :: IO ()
-main = do   
-  places <- loadOptions "data/places.txt"
-  water <- loadOptions "data/waterways.txt"
-  wadj <- loadOptions "data/water_adj.txt"
-  animal <- loadOptions "data/animals_sing.txt"
-  animals <- loadOptions "data/animals_plural.txt"
-  weapons <- loadOptions "data/weapons.txt"
-  heroes <- loadOptions "data/heroes.txt"
-  hero_adj <- loadOptions "data/hero_adj.txt"
-  hero_noun <- loadOptions "data/hero_noun.txt"
+main = do
+  args <- getArgs
+  dataDir <- return $ getDir args
+  places <- loadOptions (dataDir ++ "places.txt")
+  water <- loadOptions (dataDir ++ "waterways.txt")
+  wadj <- loadOptions (dataDir ++ "water_adj.txt")
+  animal <- loadOptions (dataDir ++ "animals_sing.txt")
+  animals <- loadOptions (dataDir ++ "animals_plural.txt")
+  weapons <- loadOptions (dataDir ++ "weapons.txt")
+  heroes <- loadOptions (dataDir ++ "heroes.txt")
+  hero_adj <- loadOptions (dataDir ++ "hero_adj.txt")
+  hero_noun <- loadOptions (dataDir ++ "hero_noun.txt")
   warriors <- return $ list [ epithet hero_adj hero_noun, heroes ]
   topoi <- return $ topos places animal animals
   waters <- return $ whodrink wadj water
   armedwith <- return $ wavingtheir weapons
-  nf <- return $ runTextGen $ host topoi warriors waters armedwith
-  outlines <- forM [1..nlines] $ \i -> do 
-    band <- getStdRandom nf
+  bandf <- return $ runTextGen $ host topoi warriors waters armedwith
+  
+  result <- iterateUntil (\s -> length s <= max_length) $ do 
+    band <- getStdRandom bandf
     return $ upcase $ smartjoin band
-  fout <- return $ filter (\x -> length x < 141 ) outlines
-  Tio.writeFile outfile $ T.intercalate (T.pack "\n") $ map T.pack fout
+  putStrLn result

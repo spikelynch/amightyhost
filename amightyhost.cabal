@@ -29,6 +29,7 @@ executable amightyhost-exe
                      , amightyhost
                      , text
                      , random
+                     , monad-loops
   default-language:    Haskell2010
 
 test-suite amightyhost-test
