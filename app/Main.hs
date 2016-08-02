@@ -30,6 +30,13 @@ flourish = choose $ map word [ "brandishing", "waving", "flourishing", "carrying
 
 wavingtheir weapons = list [ flourish, perhaps (3, 5 ) $ word "their", weapons ]
 
+dressedin colours clothes = list [ participle, perhaps ( 1, 2 ) colours, clothes ]
+  where participle = choose $ map word [ "wearing", "clad in", "dressed in" ]
+
+
+shininglike armour shinies = list [ word "their", armour, participle, shinies ]
+  where participle = choose $ map word [ "shining like", "gleaming like", "glinting like", "glistening like" ]
+
 topos p sing plural = list [ p, randrep (0, 1) adjecclause ]
   where adjecclause = list [ word ",", opts, word "," ]
         opts = choose [ abode plural, abode plural, theyhunt sing ]
@@ -44,15 +51,15 @@ howmany = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
 epithet a n = randrep ( 0, 2 ) $ list [ a, word "-", n ]
 
 
-host place warriors waters arms = choose [ f1, f2, f3 ]
+host place warriors waters arms dress simile = choose [ f1, f2, f3 ]
   where f1 = list [ word "From", place, word "came", howmany, warriors, eitherattr ]
         f2 = list [ place, word "sent", howmany, warriors, eitherattr ] 
-        f3 = list [ howmany, warriors, mwaters, word "came from", place, marms ]
-        mwaters = perhaps ( 1, 3 ) $ wphrase 
-        marms = perhaps ( 1, 3 ) $ aphrase
-        eitherattr = perhaps ( 2, 5 ) $ choose [ wphrase, aphrase ]
-        wphrase = phr waters
-        aphrase = phr arms
+        f3 = list [ howmany, warriors, mwaters, word "came from", place, eitherattr ]
+        mwaters = perhaps ( 1, 3 ) $ phr waters 
+        marms = perhaps ( 1, 3 ) $ phr arms
+        mdress = perhaps ( 1, 3 ) $ phr dress
+        msimile = perhaps ( 1, 3 ) $ phr simile
+        eitherattr = perhaps ( 2, 5 ) $ choose [ phr waters, phr arms, phr dress, phr simile ]
 
 
 phr phrase = list [ word ",", phrase, word "," ]
@@ -74,12 +81,17 @@ main = do
   heroes <- loadOptions (dataDir ++ "heroes.txt")
   hero_adj <- loadOptions (dataDir ++ "hero_adj.txt")
   hero_noun <- loadOptions (dataDir ++ "hero_noun.txt")
+  colours <- loadOptions (dataDir ++ "colours.txt")
+  clothes <- loadOptions (dataDir ++ "clothes.txt")
+  armour <- loadOptions (dataDir ++ "armour.txt")
+  shining <- loadOptions (dataDir ++ "shining.txt")
   warriors <- return $ list [ epithet hero_adj hero_noun, heroes ]
   topoi <- return $ topos places animal animals
   waters <- return $ whodrink wadj water
   armedwith <- return $ wavingtheir weapons
-  bandf <- return $ runTextGen $ host topoi warriors waters armedwith
-  
+  dress <- return $ dressedin colours clothes
+  shinelike <- return $ shininglike armour shining 
+  bandf <- return $ runTextGen $ host topoi warriors waters armedwith dress shinelike
   result <- iterateUntil (\s -> length s <= max_length) $ do 
     band <- getStdRandom bandf
     return $ upcase $ smartjoin band
