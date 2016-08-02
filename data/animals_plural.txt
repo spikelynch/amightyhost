@@ -1,0 +1,3218 @@
+acrodonts
+adults
+bipeds
+captives
+lancelets
+appendicularias
+sea squirts
+doliolums
+larvaceans
+salps
+Amniotas
+amniotes
+caecilians
+barking frogs
+crapauds
+eastern narrow-mouthed toads
+fire-bellied toads
+leptodactylid frogs
+Liopelma hamiltonis
+midwife toads
+obstetrical toads
+robber frogs
+sheep frogs
+South American poison toads
+plains spadefeet
+southern spadefeet
+western spadefeet
+tailed frogs
+African clawed frogs
+Surinam toads
+tree frogs
+canyon treefrogs
+chameleon tree frogs
+chorus frogs
+eastern cricket frogs
+northern cricket frogs
+lowland burrowing treefrogs
+Pacific tree toads
+spring peepers
+bullfrogs
+cascades frogs
+goliath frogs
+grass frogs
+green frogs
+leopard frogs
+pickerel frogs
+tarahumara frogs
+wood-frogs
+aguas
+American green toads
+American toads
+bufos
+Eurasian green toads
+European toads
+natterjacks
+southwestern toads
+Texas toads
+western toads
+Yosemite toads
+western narrow-mouthed toads
+Hynerpeton bassettis
+Ichyostegas
+labyrinthodonts
+alpine salamanders
+axolotls
+mole salamanders
+spotted salamanders
+tiger salamanders
+waterdogs
+amphiumas
+arboreal salamanders
+dicamptodons
+dusky salamanders
+eastern red-backed salamanders
+European fire salamanders
+giant salamanders
+hellbenders
+lungless salamanders
+mud puppies
+common newts
+efts
+California newts
+rough-skinned newts
+red efts
+olms
+olympic salamanders
+Pacific giant salamanders
+sirens
+slender salamanders
+spotted salamanders
+limestone salamanders
+Shasta salamanders
+western red-backed salamanders
+urodeles
+coelacanths
+ceratoduses
+cornetfish
+biplane flying fish
+monoplane flying fish
+bowfins
+Chinese paddlefish
+gars
+paddlefish
+belugas
+Pacific sturgeons
+halfbeaks
+timucus
+deepwater pipefish
+dwarf pipefish
+seahorses
+sauries
+shrimpfish
+snipefish
+mediterranean anchovies
+argentines
+beaked salmons
+bonefish
+armored catfish
+brown bullheads
+horned pouts
+blue catfish
+flathead catfish
+crucifix fish
+electric catfish
+European catfish
+alewives
+Atlantic herrings
+Pacific herrings
+menhadens
+Pacific sardines
+brislings
+silds
+allice shads
+common American shads
+river shads
+black buffaloes
+hog suckers
+redhorses
+cardinal tetras
+piranhas
+tetras
+leather carps
+mirror carps
+chubs
+crucian carps
+daces
+silverfish
+gudgeons
+minnows
+roaches
+rudds
+common shiners
+emerald shiners
+golden shiners
+tenches
+guppies
+flagfish
+mummichogs
+rivuluses
+striped killifish
+swordtails
+electric eels
+loaches
+mollies
+mosquitofish
+platies
+common eels
+congers
+elvers
+morays
+tuna
+Atlantic cods
+burbots
+codlings
+Pacific cods
+scrods
+cusks
+grenadiers
+haddocks
+lings
+silver hakes
+lings
+pollacks
+whiting
+greeneyes
+handsaw fish
+lancetfish
+lanternfish
+lizardfish
+New World opahs
+oarfish
+opahs
+Ostariophysis
+dealfish
+Arctic chars
+landlocked salmons
+blackfish
+chinooks
+chum salmons
+cohoes
+redfish
+sockeyes
+brook trouts
+sea trouts
+lake trouts
+rainbow trouts
+capelins
+rainbow smelts
+sparlings
+ladyfish
+ciscoes
+lake whitefish
+Rocky Mountain whitefish
+round whitefish
+anomalop
+great barracudas
+batfish
+boarfish
+boarfish
+John Dorys
+dragonets
+flashlight fish
+flounder
+halibuts
+brills
+grey flounders
+sand dabs
+southern flounders
+summer flounders
+turbots
+horned whiffs
+windowpanes
+American plaices
+Atlantic halibuts
+European flatfish
+lemon soles
+Pacific halibuts
+plaices
+winter flounders
+yellowtail flounders
+English soles
+European soles
+hogchokers
+lemon soles
+sand soles
+tonguefish
+frogfish
+goosefish
+archerfish
+freshwater basses
+bigeyes
+blanquilloes
+Molly Millers
+shannies
+clinids
+fish doctors
+ocean pouts
+viviparous eelpouts
+rock gunnels
+bluethroat pikeblennies
+eelblennies
+snakeblennies
+wolffish
+wrymouths
+bluefish
+brotulas
+barrelfish
+dollarfish
+driftfish
+driftfish
+harvestfish
+palometas
+angelfish
+chaetodons
+rock beauties
+amberjacks
+crevalle jacks
+kingfish
+leatherjackets
+rainbow runners
+rudderfish
+runners
+threadfish
+yellow jacks
+yellowtails
+lookdowns
+pilotfish
+Florida pompanoes
+permits
+bigeye scads
+horse mackerels
+horse mackerels
+mackerel scads
+round scads
+conchfish
+flame fish
+catalufas
+boltis
+skillet fish
+cobias
+cusk-eels
+cutlassfish
+clown anemone fish
+beaugregories
+sergeant majors
+Coryphaena equisetiss
+Coryphaena hippuruses
+flatheads
+escolars
+oilfish
+snake mackerels
+mudskippers
+cottonwicks
+margates
+pigfish
+pompons
+porkfish
+sailor's-choices
+Spanish grunts
+tomtates
+jawfish
+silver jennies
+yellowfin mojarras
+lizas
+striped mullets
+white mullets
+red goatfish
+yellow goatfish
+parrotfish
+pearlfish
+European perches
+blue pikes
+snail darters
+yellow perches
+perches
+muskellunges
+northern pikes
+chain pickerels
+redfin pickerels
+snooks
+sand stargazers
+sandfish
+Atlantic croakers
+white croakers
+white croakers
+yellowfin croakers
+jackknife-fish
+red drums
+silver perches
+striped drums
+maigres
+mulloways
+spotted weakfish
+weakfish
+corbinas
+king whitings
+kingfish
+northern whitings
+silver whitings
+black marlins
+blue marlins
+striped marlins
+white marlins
+spearfish
+bonitoes
+Chile bonitoes
+skipjacks
+louvars
+chub mackerels
+common mackerels
+ceroes
+king mackerels
+Scomberomorus maculatuses
+sierras
+Spanish mackerels
+wahoos
+Atlantic sailfish
+skipjacks
+squaretails
+swordfish
+albacores
+bluefins
+yellowfins
+Atlantic sea breams
+black breams
+European sea breams
+pomfrets
+red porgies
+scups
+scups
+sheepshead porgies
+Bermuda chubs
+belted sandfish
+black sea basses
+blackmouth basses
+coneys
+creole-fish
+rock hinds
+jewfish
+rock sea basses
+stone basses
+striped basses
+soapfish
+white perches
+yellow basses
+sleepers
+grey snappers
+mutton snappers
+red snappers
+schoolmasters
+yellowtails
+spadefish
+pinfish
+sheepsheads
+snappers
+stargazers
+Kentucky black basses
+largemouths
+smallmouths
+black crappies
+white crappies
+bluegills
+European breams
+spotted sunfish
+pumpkinseeds
+rock basses
+rainbow seaperches
+doctorfish
+barbus
+tilefish
+Atlantic tripletails
+Pacific tripletails
+whiting
+worm fish
+blueheads
+cunners
+hogfish
+pigfish
+puddingwives
+pearly razorfish
+slippery dicks
+tautogs
+cowfish
+leatherjackets
+sharptail molas
+puffers
+balloonfish
+burrfish
+porcupinefish
+queen triggerfish
+sharksuckers
+whale suckers
+sand lances
+sargassum fish
+flatheads
+flying gurnards
+kelp greenlings
+painted greenlings
+armored searobins
+northern sea robins
+tub gurnards
+lingcods
+lumpsuckers
+alligatorfish
+pogges
+lionfish
+copper rockfish
+red rockfish
+rosefish
+vermillion rockfish
+plumed scorpionfish
+stonefish
+bullheads
+grubbies
+miller's-thumbs
+sea ravens
+snailfish
+jacksmelts
+deepwater squirrelfish
+Holocentrus ascensioniss
+reef squirrelfish
+soldierfish
+ten-spined sticklebacks
+three-spined sticklebacks
+oyster fish
+sweepers
+trumpetfish
+red goatfish
+yellow goatfish
+bottom lurker
+cownose rays
+spotted eagle rays
+electric rays
+guitarfish
+Atlantic mantas
+devil rays
+smalltooth sawfish
+barndoor skates
+grey skates
+little skates
+thorny skates
+butterfly rays
+roughtail stingrays
+angel sharks
+carpet sharks
+cat sharks
+cow sharks
+American smooth dogfish
+Florida smoothhounds
+smoothhounds
+whitetip sharks
+Atlantic spiny dogfish
+Pacific spiny dogfish
+shovelheads
+smalleye hammerheads
+smooth hammerheads
+basking sharks
+great white sharks
+bonito sharks
+longfin makoes
+shortfin makoes
+porbeagles
+nurse sharks
+blacktip sharks
+blue sharks
+bull sharks
+dusky sharks
+lemon sharks
+sandbar sharks
+soupfin sharks
+tiger sharks
+whitetip sharks
+sand tigers
+threshers
+whale sharks
+rabbitfish
+climbing perches
+fingerlings
+barracoutas
+groundfish
+Atlantic herrings
+Pacific herrings
+landlocked salmons
+blackfish
+chinooks
+chum salmons
+cohoes
+redfish
+sockeyes
+brislings
+silds
+belted sandfish
+black sea basses
+blackmouth basses
+coneys
+creole-fish
+rock hinds
+jewfish
+rock sea basses
+stone basses
+striped basses
+allice shads
+common American shads
+river shads
+grey snappers
+mutton snappers
+red snappers
+schoolmasters
+yellowtails
+English soles
+European soles
+hogchokers
+lemon soles
+sand soles
+brook trouts
+sea trouts
+lake trouts
+rainbow trouts
+albacores
+bluefins
+yellowfins
+ciscoes
+lake whitefish
+Rocky Mountain whitefish
+round whitefish
+game fish
+mouthbreeders
+northern snakeheads
+rough fish
+spawners
+brits
+parrs
+parrs
+whitebaits
+anaspids
+conodonts
+cyclostomes
+eptatretuses
+Myxine glutinosas
+Myxinikela sirokas
+heterostracans
+sea lampreys
+osteostracans
+ostracoderms
+placoderms
+Archilochus colubriss
+thornbills
+chimney swifts
+European swifts
+swiftlets
+tree swifts
+Florida gallinules
+moorhens
+American gallinules
+European gallinules
+auklets
+great auks
+black guillemots
+common murres
+thick-billed murres
+pigeon guillemots
+little auks
+razorbills
+parasitic jaegers
+great skuas
+black-backed gulls
+herring gulls
+ivory gulls
+kittiwakes
+laughing gulls
+mews
+sea swallows
+skimmers
+loons
+black-footed albatrosses
+wandering albatrosses
+diving petrels
+fulmars
+giant petrels
+Manx shearwaters
+Mother Carey's chickens
+stormy petrels
+white-chinned petrels
+procellariiform seabirds
+cormorants
+frigate birds
+boobies
+solans
+Old world white pelicans
+white pelicans
+water turkeys
+tropic birds
+black-necked grebes
+dabchicks
+great crested grebes
+pied-billed grebes
+red-necked grebes
+Atlantic puffins
+horned puffins
+tufted puffins
+Adelies
+emperor penguins
+jackass penguins
+king penguins
+rock hoppers
+black swans
+cobs
+coscorobas
+cygnets
+mute swans
+pens
+trumpeters
+Bewick's swans
+whistling swans
+whoopers
+great bustards
+plain turkeys
+striped button quails
+chungas
+courlans
+whooping cranes
+crested cariamas
+flamingoes
+American bitterns
+European bitterns
+least bitterns
+boatbills
+American egrets
+cattle egrets
+great white herons
+little egrets
+snowy egrets
+great blue herons
+great white herons
+little blue herons
+black-crowned night herons
+yellow-crowned night herons
+sacred ibi
+wood ibi
+limpkins
+ortygans
+plain wanderers
+American coots
+Old World coots
+corncrakes
+spotted crakes
+notorni
+wekas
+shoebills
+avocets
+cream-colored coursers
+crocodile birds
+Eskimo curlews
+European curlews
+Hudsonian godwits
+oystercatchers
+northern phalaropes
+red phalaropes
+Wilson's phalaropes
+dotterels
+golden plovers
+killdeer
+lapwings
+piping plovers
+black turnstones
+ruddy turnstones
+pratincoles
+curlew sandpipers
+European sandpipers
+greenshanks
+knots
+least sandpipers
+pectoral sandpipers
+red-backed sandpipers
+redshanks
+reeves
+sanderlings
+spotted sandpipers
+Polynesian tattlers
+willets
+upland sandpipers
+greater yellowleg
+lesser yellowleg
+greybacks
+red-breasted snipes
+great snipes
+jacksnipes
+whole snipes
+Wilson's snipes
+banded stilts
+black-necked stilts
+black-winged stilts
+kakis
+white-headed stilts
+stone curlews
+surfbirds
+American woodcocks
+Eurasian woodcocks
+common spoonbills
+roseate spoonbills
+adjutant birds
+black storks
+jabirus
+marabous
+openbills
+policeman birds
+saddlebills
+white storks
+wood ibi
+Brazilian trumpeters
+black ducks
+buffleheads
+canvasbacks
+dabbling ducks
+diving ducks
+drakes
+ducklings
+Barrow's goldeneyes
+mallards
+mandarin ducks
+muscovy ducks
+pintails
+pochards
+quack-quacks
+redheads
+ruddy ducks
+greater scaups
+lesser scaups
+eiders
+American mergansers
+goosanders
+hooded mergansers
+red-breasted mergansers
+smews
+old squaws
+common scoters
+shelducks
+shovelers
+bluewings
+garganeys
+greenwings
+American widgeons
+wild ducks
+wood drakes
+barnacle geese
+snow geese
+common brant geese
+Chinese geese
+ganders
+goslings
+greylags
+honkers
+chajas
+horned screamers
+archaeopteryxes
+archaeorni
+bird of passages
+Accipitriformeses
+bald eagles
+eaglets
+ringtails
+harpies
+erns
+fishing eagles
+Kamchatkan sea eagles
+tawny eagles
+buteonines
+buzzards
+chicken hawks
+Cooper's hawks
+eyases
+Audubon's caracaras
+caranchas
+gyrfalcons
+hobbies
+kestrels
+falcon-gentles
+pigeon hawks
+sparrow hawks
+goshawks
+marsh harriers
+marsh hawks
+Montagu's harriers
+harrier eagles
+honey buzzards
+black kites
+swallow-tailed kites
+white-tailed kites
+ospreys
+red-shouldered hawks
+redtails
+rough-legged hawks
+sparrow hawks
+tiercels
+barn owls
+barred owls
+great grey owls
+hawk owls
+hoot owls
+great horned owls
+laughing owls
+little owls
+long-eared owls
+owlets
+Old World scops owls
+Oriental scops owls
+screech owls
+screech owls
+spotted owls
+tawny owls
+secretary birds
+Aegypiidaes
+black vultures
+buzzards
+Andean condors
+California condors
+king vultures
+bearded vultures
+black vultures
+Egyptian vultures
+griffon vultures
+frogmouths
+chuck-will's-widows
+European goatsuckers
+nighthawks
+poorwills
+whippoorwills
+oilbirds
+carinates
+gamecocks
+bee eaters
+Euopean hoopoes
+hornbills
+belted kingfishers
+Eurasian kingfishers
+kookaburras
+motmots
+European rollers
+ground rollers
+todies
+wood hoopoes
+anis
+black-billed cuckoos
+crow pheasants
+pheasant coucals
+European cuckoos
+roadrunners
+touracoes
+dickeybirds
+Texas chachalacas
+dodoes
+band-tailed pigeons
+fairy swallows
+carrier pigeons
+rollers
+Australian turtledoves
+mourning doves
+ringdoves
+Streptopelia turturs
+passenger pigeons
+pouter pigeons
+rock doves
+squabs
+wood pigeons
+painted sandgrouses
+pallas's sandgrouses
+pin-tailed sandgrouses
+solitaires
+curassows
+bantams
+capons
+chicks
+cockerels
+Dominiques
+brood hens
+cacklers
+layers
+mother hens
+pullets
+Orpingtons
+Rhode Island reds
+spring chickens
+cochins
+Cornishes
+Dorkings
+game fowls
+guinea hens
+Plymouth Rocks
+Rock Cornishes
+turkey cocks
+Asian black grouses
+blackcocks
+European black grouses
+greyhens
+capercaillies
+greater prairie chickens
+heath hens
+lesser prairie chickens
+moorcocks
+moorhens
+ruffed grouses
+sage grouses
+sharp-tailed grouses
+spruce grouses
+Greek partridges
+Hungarian partridges
+mountain quails
+red-legged partridges
+afropavoes
+arguses
+golden pheasants
+monals
+blue peafowls
+green peafowls
+peachicks
+peacocks
+peahens
+ring-necked pheasants
+tragopans
+northern bobwhites
+California quails
+migratory quails
+tinamous
+piping guans
+hoatzins
+jungle cocks
+jungle hens
+red jungle fowls
+brush turkeys
+maleos
+mallee hens
+ocellated turkeys
+hens
+Ibero-mesorniss
+nesters
+night ravens
+nonpasserine birds
+African greys
+amazons
+cockateels
+pink cockatoos
+sulphur-crested cockatoos
+keas
+rainbow lorikeets
+varied Lorikeets
+lovebirds
+macaws
+budgerigars
+Carolina parakeets
+ring-necked parakeets
+polls
+popinjays
+broadbills
+lyrebirds
+hedge sparrows
+butcherbirds
+currawongs
+piping crows
+babblers
+riflebirds
+blue mockingbirds
+great bowerbirds
+satin bowerbirds
+catbirds
+choughs
+American crows
+jackdaws
+Rocky Mountain jays
+blue jays
+common European jays
+American magpies
+European magpies
+Clark's nutcrackers
+common nutcrackers
+ravens
+rooks
+brown creepers
+European creepers
+wall creepers
+fairy bluebirds
+bramblings
+bullfinches
+indigo buntings
+ortolans
+reed buntings
+snow buntings
+yellow-breasted buntings
+yellowhammers
+common canaries
+cardinals
+chaffinches
+crossbills
+goldfinches
+evening grosbeaks
+hawfinches
+pine grosbeaks
+mamoes
+house finches
+dark-eyed juncoes
+linnets
+New World goldfinches
+chipping sparrows
+field sparrows
+song sparrows
+swamp sparrows
+tree sparrows
+vesper sparrows
+white-crowned sparrows
+white-throated sparrows
+pine siskins
+purple finches
+pyrrhuloxias
+red siskins
+redpolls
+redpolls
+serins
+siskins
+chewinks
+green-tailed towhees
+honey eaters
+banana quits
+skylarks
+mockingbirds
+bobolinks
+caciques
+eastern meadowlarks
+western meadowlarks
+cowbirds
+purple grackles
+red-winged blackbirds
+rusty blackbirds
+Baltimore orioles
+Bullock's orioles
+orchard orioles
+rifleman birds
+rock wrens
+European nuthatches
+red-breasted nuthatches
+white-breasted nuthatches
+spotted flycatchers
+thickheads
+fig-birds
+golden orioles
+meadow pipits
+black-fronted bush shrikes
+European shrikes
+northern shrikes
+white-rumped shrikes
+loggerhead shrikes
+migrant shrikes
+songbirds
+common starlings
+crested mynas
+hill mynas
+rose-colored starlings
+barn swallows
+cliff swallows
+bank martins
+house martins
+purple martins
+tree swallows
+white-bellied swallows
+hepatic tanagers
+scarlet tanagers
+summer tanagers
+western tanagers
+brown thrashers
+blackbirds
+bluebirds
+bluethroats
+clay-colored robins
+fieldfares
+hermit thrushes
+missel thrushes
+bulbuls
+stonechats
+whinchats
+redstarts
+redwings
+ring ouzels
+robins
+robins
+solitaires
+song thrushes
+thrush nightingales
+veeries
+wheatears
+wood thrushes
+blue tits
+bushtits
+black-capped chickadees
+Carolina chickadees
+tufted titmice
+verdins
+wren-tits
+blue-headed vireos
+red-eyed vireos
+solitary vireos
+wagtails
+gnatcatchers
+greater whitethroats
+gold-crowned kinglets
+goldcrests
+ruby-crowned kinglets
+lesser whitethroats
+Audubon's warblers
+Blackburns
+blackpolls
+Cape May warblers
+American redstarts
+myrtle warblers
+yellow-breasted chats
+ovenbirds
+parula warblers
+water thrushes
+Wilson's warblers
+yellow warblers
+common yellowthroats
+blackcaps
+sedge warblers
+tailorbirds
+wood warblers
+wren warblers
+American water ouzels
+European water ouzels
+Bohemian waxwings
+cedar waxwings
+avadavats
+bayas
+zebra finches
+Java sparrows
+whydahs
+wood swallows
+scrubbirds
+English sparrows
+tree sparrows
+ant shrikes
+ant thrushes
+spotted antbirds
+manakins
+bellbirds
+cock of the rocks
+cock of the rocks
+umbrella birds
+Arkansas kingbirds
+Cassin's kingbirds
+eastern kingbirds
+grey kingbirds
+western wood pewees
+phoebes
+scissortails
+vermillion flycatchers
+ovenbirds
+pittas
+woodhewers
+cactus wrens
+Carolina wrens
+house wrens
+long-billed marsh wrens
+sedge wrens
+rock wrens
+winter wrens
+barbets
+honey guides
+jacamars
+puffbirds
+toucanets
+downy woodpeckers
+gilded flickers
+red-shafted flickers
+yellow-shafted flickers
+green woodpeckers
+ivorybills
+piculets
+redheaded woodpeckers
+red-breasted sapsuckers
+yellow-bellied sapsuckers
+wrynecks
+protoavi
+cassowaries
+elephant birds
+emus
+kiwis
+anomalopteryxes
+giant moas
+ostriches
+rheas
+rheas
+Sinorniss
+resplendent quetzels
+twitterers
+abortuses
+babies
+monsters
+gnathostomes
+female mammals
+Damaraland mole rats
+queens
+rabbit-eared bandicoots
+eastern dasyures
+native cats
+numbats
+pouched mice
+Tasmanian devils
+thylacines
+giant kangaroos
+musk kangaroos
+bettongs
+jerboa kangaroos
+potoroos
+common wallabies
+hare wallabies
+nail-tailed wallabies
+pademelons
+rock wallabies
+tree wallabies
+common opossums
+crab-eating opossums
+opossum rats
+brush-tailed phalangers
+cuscuses
+flying mice
+koalas
+pouched moles
+wombats
+aardvarks
+blue whales
+bowheads
+grey whales
+humpbacks
+right whales
+finbacks
+lesser rorquals
+sei whales
+narwhals
+spouters
+bottle-nosed whales
+Atlantic bottlenose dolphins
+Pacific bottlenose dolphins
+common dolphins
+grampuses
+killer whales
+pilot whales
+harbor porpoises
+vaquitas
+river dolphins
+white whales
+dwarf sperm whales
+pygmy sperm whales
+sperm whales
+crabeater seals
+Alaska fur seals
+guadalupe fur seals
+Australian sea lions
+California sea lions
+South American sea lions
+Steller sea lions
+bearded seals
+elephant seals
+harbor seals
+harp seals
+hooded seals
+Atlantic walruses
+Pacific walruses
+dugongs
+manatees
+Steller's sea cows
+brown bats
+guano bats
+pocketed bats
+big-eared bats
+hognose bats
+horseshoe bats
+horseshoe bats
+macrotuses
+orange bats
+Phyllostomus hastatuses
+spearnose bats
+mastiff bats
+mouse-eared bats
+Desmodus rotunduses
+hairy-legged vampire bats
+big brown bats
+cave myoti
+eastern pipistrels
+frosted bats
+jackass bats
+little brown bats
+western big-eared bats
+pallid bats
+pipistrelles
+red bats
+serotines
+western pipistrels
+Cynopterus sphinxes
+flying foxes
+harpies
+Pteropus capestratuses
+Pteropus hypomelanuses
+royals
+bulls
+cinnamon bears
+Asiatic black bears
+bear cubs
+Alaskan brown bears
+grizzlies
+Syrian bears
+bruins
+ice bears
+sloth bears
+brood bitches
+basenjis
+Cardigans
+Pembrokes
+feists
+pariah dogs
+liver-spotted dalmatians
+Great Pyreneeses
+Brabancon griffons
+coursers
+sausage dogs
+Afghan hounds
+bassets
+beagles
+bloodhounds
+blueticks
+boarhounds
+black-and-tan coonhounds
+coondogs
+American foxhounds
+English foxhounds
+Walker hounds
+Italian greyhounds
+whippets
+harriers
+Ibizan hounds
+Norwegian elkhounds
+otterhounds
+Plott hounds
+redbones
+Salukis
+Scottish deerhounds
+staghounds
+Weimaraners
+borzois
+Irish wolfhounds
+Rhodesian ridgebacks
+bird dogs
+griffons
+German short-haired pointers
+vizslas
+Chesapeake Bay retrievers
+curly-coated retrievers
+flat-coated retrievers
+golden retrievers
+Labrador retrievers
+English setters
+Gordon setters
+Irish setters
+Brittany spaniels
+clumbers
+cocker spaniels
+field spaniels
+English springers
+Welsh springer spaniels
+Sussex spaniels
+American water spaniels
+Irish water spaniels
+water dogs
+Airedales
+Australian terriers
+Bedlington terriers
+Border terriers
+Boston bulls
+American Staffordshire terriers
+Staffordshire bullterriers
+cairns
+Dandie Dinmonts
+smooth-haired fox terriers
+wire-haired fox terriers
+Irish terriers
+Kerry blue terriers
+Lhasas
+Norfolk terriers
+Norwich terriers
+toy Manchesters
+giant schnauzers
+miniature schnauzers
+standard schnauzers
+Scotch terriers
+silky terriers
+Clydesdale terriers
+soft-coated wheaten terriers
+Tibetan terriers
+West Highland white terriers
+Lakeland terriers
+Sealyham terriers
+Yorkshire terriers
+lapdogs
+Leonbergs
+Mexican hairlesses
+Newfoundlands
+pooches
+large poodles
+miniature poodles
+standard poodles
+toy poodles
+pugs
+puppies
+chows
+keeshonds
+Pomeranians
+Samoyeds
+Chihuahuas
+Japanese spaniels
+Maltese dogs
+Pekinese
+Shih-Tzus
+Blenheim spaniels
+King Charles spaniels
+papillons
+toy terriers
+boxers
+bull mastiffs
+French bulldogs
+Eskimo dogs
+Great Danes
+Seeing Eye dogs
+hearing dogs
+Tibetan mastiffs
+police dogs
+Saint Bernards
+seizure-alert dogs
+Appenzellers
+Bernese mountain dogs
+EntleBuchers
+Greater Swiss Mountain dogs
+groenendaels
+malinois
+Border collies
+Bouvier des Flandreses
+briards
+collies
+German shepherds
+kelpies
+komondors
+Old English sheepdogs
+Rottweilers
+Shetland sheepdogs
+malamutes
+Siberian huskys
+attack dogs
+housedogs
+kuvaszzes
+affenpinschers
+Dobermen
+miniature pinschers
+schipperkes
+blue foxes
+grey foxes
+kit foxes
+kit foxes
+red foxes
+black foxes
+silver foxes
+Reynards
+vixens
+aardwolves
+brown hyenas
+spotted hyenas
+striped hyenas
+jackals
+African hunting dogs
+crab-eating dogs
+dholes
+dingoes
+raccoon dogs
+coydogs
+red wolves
+timber wolves
+white wolves
+wolf pups
+cheetahs
+jaguars
+leopardesses
+panthers
+ligers
+lion cubs
+lionesses
+lionets
+false saber-toothed tigers
+Smiledon californicuses
+snow leopards
+Bengal tigers
+tiger cubs
+tigresses
+tiglons
+Abyssinians
+alley cats
+Angoras
+Burmese cats
+Egyptian cats
+kitties
+Maltese
+Manxes
+mousers
+Persian cats
+blue point Siamese
+tabbies
+tabbies
+tiger cats
+gibs
+tortoiseshells
+cougars
+European wildcats
+jaguarundis
+jungle cats
+kaffir cats
+leopard cats
+bobcats
+Canada lynxes
+caracals
+common lynxes
+spotted lynxes
+manuls
+margays
+ocelots
+sand cats
+servals
+tiger cats
+fissiped mammals
+American badgers
+Eurasian badgers
+ferret badgers
+hog badgers
+black-footed ferrets
+gluttons
+grisons
+American martens
+fishers
+pine martens
+sables
+stone martens
+yellow-throated martens
+American minks
+Eurasian otters
+river otters
+ferrets
+ratels
+sea otters
+hog-nosed skunks
+hooded skunks
+spotted skunks
+striped skunks
+tayras
+stoats
+longtail weasels
+snake muishonds
+striped muishonds
+zorils
+New World least weasels
+Old World least weasels
+wolverines
+bassarisks
+coatis
+giant pandas
+kinkajous
+lesser pandas
+common raccoons
+crab-eating raccoons
+banded palm civets
+binturongs
+Cryptoproctas
+fanalokas
+large civets
+palm cats
+small civets
+fossas
+genets
+slender-tailed meerkats
+suricates
+ichneumons
+Indian mongeese
+cows
+digitigrade mammals
+does
+ant bears
+silky anteaters
+tamanduas
+apars
+giant armadillos
+greater pichiciegoes
+pebas
+peludoes
+pichiciagoes
+tatouays
+ground sloths
+mylodons
+mapinguaris
+three-toed sloths
+two-toed sloths
+two-toed sloths
+Fissipedias
+Cynocephalus variegatuses
+rock hyraxes
+hedgehogs
+brewer's moles
+golden moles
+American shrew moles
+Asiatic shrew moles
+starnose moles
+otter shrews
+common shrews
+least shrews
+masked shrews
+short-tailed shrews
+American water shrews
+European water shrews
+Mediterranean water shrews
+tailless tenrecs
+Duplicidentatas
+European hares
+blacktail jackrabbits
+white-tailed jackrabbits
+leverets
+polar hares
+snowshoe hares
+Angoras
+Belgian hares
+bunnies
+European rabbits
+lapins
+rabbit ear
+eastern cottontails
+marsh hares
+swamp rabbits
+collared pikas
+little chief hares
+livestocks
+African elephants
+gomphotheres
+white elephants
+columbian mammoths
+imperial mammoths
+woolly mammoths
+rogue elephants
+pangolins
+plantigrade mammals
+anthropoids
+central chimpanzees
+eastern chimpanzees
+pygmy chimpanzees
+western chimpanzees
+eastern lowland gorillas
+mountain gorillas
+silverbacks
+western lowland gorillas
+orangutans
+gibbons
+siamangs
+Australopithecus afarenses
+Australopithecus africanuses
+Australopithecus boiseis
+Australopithecus robustuses
+Paranthropuses
+Zinjanthropuses
+rudapithecuses
+Java men
+Peking men
+Homo habiliss
+Boskop men
+Cro-magnons
+Homo sapiens sapienss
+Solo men
+Neandertal men
+Rhodesian men
+worlds
+Javanthropuses
+Pithecanthropuses
+Sinanthropuses
+Sivapithecuses
+Aegyptopithecuses
+Algeripithecus minutuses
+proconsuls
+angwantiboes
+aye-ayes
+galagoes
+indris
+Madagascar cats
+pottoes
+slender lori
+slow lori
+woolly indri
+capuchins
+douroucoulis
+howler monkeys
+pygmy marmosets
+pinches
+silky tamarins
+true marmosets
+sakis
+spider monkeys
+squirrel monkeys
+titis
+uakaris
+woolly monkeys
+chacmas
+drills
+mandrills
+guerezas
+green monkeys
+grivets
+talapoins
+vervets
+entelluses
+Barbary apes
+bonnet macaques
+crab-eating macaques
+rhesuses
+mangabeys
+pata
+proboscis monkeys
+prosimians
+simians
+Tarsius gliss
+Tarsius syrichtas
+African elephants
+gomphotheres
+white elephants
+columbian mammoths
+imperial mammoths
+woolly mammoths
+rogue elephants
+American mastodons
+abrocomes
+agoutis
+New World beavers
+Old World beavers
+capybaras
+apereas
+guinea pigs
+chinchillas
+cotton rats
+coypus
+hazel mice
+lerots
+loirs
+jirds
+sand rats
+tamarisk gerbils
+Eurasian hamsters
+golden hamsters
+Jaculus jaculuses
+typical jerboas
+meadow jumping mice
+brown lemmings
+European lemmings
+grey lemmings
+northern bog lemmings
+Hudson bay collared lemmings
+southern bog lemmings
+maras
+groundhogs
+hoary marmots
+yellowbelly marmots
+mole rats
+mole rats
+mountain beavers
+mountain chinchillas
+mountain pacas
+European wood mice
+harvest mice
+house mice
+nude mice
+cactus mice
+cotton mice
+deer mice
+pygmy mice
+white-footed mice
+murines
+muskrats
+American harvest mice
+pacas
+Canada porcupines
+brush-tailed porcupines
+long-tailed porcupines
+blacktail prairie dogs
+whitetail prairie dogs
+bandicoot rats
+black rats
+sewer rats
+wharf rats
+kangaroo mice
+northern pocket gophers
+plains pocket gophers
+southeastern pocket gophers
+valley pocket gophers
+kangaroo mice
+Ord kangaroo rats
+hispid pocket mice
+Mexican pocket mice
+plains pocket mice
+silky pocket mice
+rice rats
+round-tailed muskrats
+sand rats
+northern flying squirrels
+southern flying squirrels
+taguans
+barondukis
+chipmunks
+eastern chipmunks
+antelope squirrels
+Arctic ground squirrels
+flickertails
+mantled ground squirrels
+rock squirrels
+susliks
+American red squirrels
+black squirrels
+chickerees
+eastern grey squirrels
+fox squirrels
+red squirrels
+western grey squirrels
+viscachas
+beaver rats
+dusky-footed wood rats
+eastern woodrats
+dusky-footed woodrats
+grasshopper mice
+meadow voles
+phenacomy
+pine voles
+prairie voles
+red-backed mice
+water voles
+water voles
+pentails
+Unguiculatas
+unguiculates
+Ungulatas
+dinocera
+Arabian camels
+Bactrian camels
+hippopotamuses
+alpacas
+domestic llamas
+guanacoes
+Chiacoan peccarys
+collared peccaries
+white-lipped peccaries
+addaxes
+blackbucks
+bongos
+dik-diks
+common elands
+giant elands
+Gazella subgutturosas
+springboks
+Thomson's gazelles
+gerenuks
+gnus
+bushbucks
+nyalas
+hartebeests
+impalas
+greater kudus
+lesser kudus
+mountain nyalas
+nilgais
+gemsboks
+pukus
+sable antelopes
+saigas
+sassabies
+steenboks
+kobs
+lechwes
+American bisons
+wisents
+zebus
+Africanders
+Aberdeen Anguses
+cattaloes
+Charolaiss
+Durhams
+Galloways
+Herefords
+longhorns
+Santa Gertrudiss
+bullocks
+bullocks
+heifers
+springers
+Ayrshires
+Brown Swisses
+Friesians
+Guernseys
+Jerseys
+milking shorthorns
+Devons
+grades
+oxen
+red polls
+stirks
+Welshes
+gaurs
+gayals
+auroch
+bantengs
+yaks
+forest goats
+billies
+Angoras
+Cashmere goats
+kids
+nannies
+bezoar goats
+ibexes
+markhors
+chamois
+gorals
+mountain goats
+serows
+takins
+musk oxes
+anoas
+Cape buffaloes
+tamaraus
+carabaos
+Indian buffaloes
+black sheep
+broadtails
+Cheviots
+Cotswolds
+Exmoors
+Hampshires
+Lincolns
+longwools
+merinoes
+Rambouillets
+ewes
+rams
+bellwethers
+aoudads
+argalis
+Dall sheep
+Marco Polo sheep
+bighorns
+mouflons
+urials
+kanchils
+napus
+water chevrotains
+brockets
+barren ground caribous
+woodland caribous
+elks
+fallow deer
+fawns
+Japanese deer
+black-tailed deer
+muntjacs
+musk deer
+pere david's deer
+prickets
+brockets
+harts
+hinds
+roebucks
+sambars
+Virginia deer
+wapitis
+okapis
+pollards
+pronghorns
+babirusas
+boars
+porkers
+razorbacks
+sows
+warthogs
+wild boars
+vicunas
+burros
+mokes
+jacks
+jennets
+African wild asses
+kiangs
+chigetais
+hinnies
+bays
+chestnuts
+eohippuses
+gee-gees
+hacks
+hacks
+cobs
+hackneys
+liver chestnuts
+geldings
+studs
+broodmares
+mesohippuses
+pacers
+palominoes
+pintos
+polo ponies
+cayuses
+bucking broncoes
+Exmoors
+Shetland ponys
+Welsh ponys
+post horses
+protohippuses
+dark horses
+mudders
+nonstarters
+pacers
+ponies
+thoroughbreds
+three-year-old horses
+pole horses
+two-year-old horses
+yearlings
+roans
+American saddle horses
+Appaloosas
+Arabians
+buckskins
+cow ponies
+crowbaits
+duns
+greys
+hacks
+Lippizans
+Morgans
+palfreys
+prancers
+quarter horses
+remounts
+Tennessee walkers
+cavalry horses
+chargers
+steeds
+sorrels
+stablemates
+stalking-horses
+steeplechasers
+steppers
+Przewalski's horses
+tarpans
+warrigals
+carthorses
+Clydesdales
+coach horses
+Percherons
+pole horses
+shires
+wheel horses
+farm horses
+packhorses
+plow horses
+mules
+quaggas
+common zebras
+grevy's zebras
+mountain zebras
+black rhinocero
+Indian rhinoceross
+white rhinocero
+woolly rhinocero
+Malayan tapirs
+New World tapirs
+yearlings
+echidnas
+echidnas
+platypuses
+tuskers
+Western box turtles
+cooters
+musk turtles
+painted turtles
+red-bellied terrapins
+green turtles
+hawksbill turtles
+leatherback turtles
+loggerheads
+Atlantic ridleys
+Pacific ridleys
+sliders
+alligator snapping turtles
+common snapping turtles
+smooth softshells
+spiny softshells
+diamondback terrapins
+desert tortoises
+European tortoises
+giant tortoises
+gopher tortoises
+Texas tortoises
+argentinosaurs
+diplodocuses
+ground-shakers
+iguanodons
+Edmontonias
+stegosaurs
+pachycephalosaurs
+protoceratop
+psittacosaurs
+styracosaurs
+triceratop
+anatotitans
+corythosaurs
+edmontosauruses
+trachodons
+ornithopods
+pisanosaurs
+staurikosaurs
+apatosaurs
+barosaurs
+allosaurs
+carnosaurs
+coelophyses
+compsognathuses
+eoraptors
+herrerasaurs
+deinonychuses
+dromaeosaurs
+Mononychus olecranuses
+oviraptorids
+utahraptors
+velociraptors
+megalosaurs
+deinocheiruses
+struthiomimuses
+tyrannosaurs
+genus Argentinosauruses
+ichthyosauruses
+stenopterygiuses
+nothosaurs
+plesiosaurs
+pterodactyls
+thecodonts
+American alligators
+Chinese alligators
+spectacled caimans
+African crocodiles
+Asian crocodiles
+Morlett's crocodiles
+false gavials
+gavials
+agamas
+dragons
+frilled lizards
+mountain devils
+alligator lizards
+blindworms
+glass lizards
+African chameleons
+horned chameleons
+banded geckoes
+flying geckoes
+American chameleons
+basilisks
+chuckwallas
+collared lizards
+common iguanas
+desert iguanas
+earless lizards
+fringe-toed lizards
+Texas horned lizards
+leopard lizards
+marine iguanas
+side-blotched lizards
+eastern fence lizards
+western fence lizards
+sagebrush lizards
+tree lizards
+zebra-tailed lizards
+green lizards
+sand lizards
+Lanthanotus borneenses
+legless lizards
+African monitors
+Komodo dragons
+night lizards
+mountain skinks
+western skinks
+caiman lizards
+tejus
+checkered whiptails
+Chihuahuan spotted whiptails
+plateau striped whiptails
+racerunners
+western whiptails
+beaded lizards
+Gila monsters
+worm lizards
+western blind snakes
+black-headed snakes
+gopher snakes
+pine snakes
+eastern ground snakes
+common garter snakes
+ribbon snakes
+Western ribbon snakes
+glossy snakes
+green snakes
+rough green snakes
+smooth green snakes
+ground snakes
+hognose snakes
+hoop snakes
+eastern indigo snakes
+common kingsnakes
+milk snakes
+leaf-nosed snakes
+lined snakes
+Sonoran lyre snakes
+night snakes
+blue racers
+horseshoe whipsnakes
+black rat snakes
+chicken snakes
+corn snakes
+Indian rat snakes
+red-bellied snakes
+ringneck snakes
+banded sand snakes
+thunder snakes
+vine snakes
+common water snakes
+viperine grass snakes
+water moccasins
+California whipsnakes
+coachwhips
+Sonoran whipsnakes
+anacondas
+boa constrictors
+amethystine pythons
+carpet snakes
+Indian pythons
+reticulated pythons
+rock pythons
+rosy boas
+rubber boas
+Australian blacksnakes
+asps
+black-necked cobras
+hamadryads
+Indian cobras
+copperheads
+African coral snakes
+Asian coral snakes
+Australian coral snakes
+eastern coral snakes
+western coral snakes
+death adders
+banded kraits
+green mambas
+ringhal
+taipans
+tiger snakes
+sea snakes
+adders
+asps
+gaboon vipers
+horned vipers
+copperheads
+fers-de-lance
+diamondbacks
+ground rattlers
+massasaugas
+Mojave rattlesnakes
+prairie rattlesnakes
+rock rattlesnakes
+sidewinders
+speckled rattlesnakes
+tiger rattlesnakes
+canebrake rattlesnakes
+Western diamondbacks
+water moccasins
+puff adders
+tuataras
+Diapsidas
+dimetrodons
+edaphosauruses
+ictodosaurs
+pelycosaurs
+Chronoperates paradoxuses
+cynodonts
+dicynodonts
+quadrupeds
+creepy-crawlies
+critters
+darters
+basenjis
+Cardigans
+Pembrokes
+feists
+pariah dogs
+liver-spotted dalmatians
+Great Pyreneeses
+Brabancon griffons
+coursers
+sausage dogs
+Afghan hounds
+bassets
+beagles
+bloodhounds
+blueticks
+boarhounds
+black-and-tan coonhounds
+coondogs
+American foxhounds
+English foxhounds
+Walker hounds
+Italian greyhounds
+whippets
+harriers
+Ibizan hounds
+Norwegian elkhounds
+otterhounds
+Plott hounds
+redbones
+Salukis
+Scottish deerhounds
+staghounds
+Weimaraners
+borzois
+Irish wolfhounds
+Rhodesian ridgebacks
+bird dogs
+griffons
+German short-haired pointers
+vizslas
+Chesapeake Bay retrievers
+curly-coated retrievers
+flat-coated retrievers
+golden retrievers
+Labrador retrievers
+English setters
+Gordon setters
+Irish setters
+Brittany spaniels
+clumbers
+cocker spaniels
+field spaniels
+English springers
+Welsh springer spaniels
+Sussex spaniels
+American water spaniels
+Irish water spaniels
+water dogs
+Airedales
+Australian terriers
+Bedlington terriers
+Border terriers
+Boston bulls
+American Staffordshire terriers
+Staffordshire bullterriers
+cairns
+Dandie Dinmonts
+smooth-haired fox terriers
+wire-haired fox terriers
+Irish terriers
+Kerry blue terriers
+Lhasas
+Norfolk terriers
+Norwich terriers
+toy Manchesters
+giant schnauzers
+miniature schnauzers
+standard schnauzers
+Scotch terriers
+silky terriers
+Clydesdale terriers
+soft-coated wheaten terriers
+Tibetan terriers
+West Highland white terriers
+Lakeland terriers
+Sealyham terriers
+Yorkshire terriers
+lapdogs
+Leonbergs
+Mexican hairlesses
+Newfoundlands
+pooches
+large poodles
+miniature poodles
+standard poodles
+toy poodles
+pugs
+puppies
+chows
+keeshonds
+Pomeranians
+Samoyeds
+Chihuahuas
+Japanese spaniels
+Maltese dogs
+Pekinese
+Shih-Tzus
+Blenheim spaniels
+King Charles spaniels
+papillons
+toy terriers
+boxers
+bull mastiffs
+French bulldogs
+Eskimo dogs
+Great Danes
+Seeing Eye dogs
+hearing dogs
+Tibetan mastiffs
+police dogs
+Saint Bernards
+seizure-alert dogs
+Appenzellers
+Bernese mountain dogs
+EntleBuchers
+Greater Swiss Mountain dogs
+groenendaels
+malinois
+Border collies
+Bouvier des Flandreses
+briards
+collies
+German shepherds
+kelpies
+komondors
+Old English sheepdogs
+Rottweilers
+Shetland sheepdogs
+malamutes
+Siberian huskys
+attack dogs
+housedogs
+kuvaszzes
+affenpinschers
+Dobermen
+miniature pinschers
+schipperkes
+Abyssinians
+alley cats
+Angoras
+Burmese cats
+Egyptian cats
+kitties
+Maltese
+Manxes
+mousers
+Persian cats
+blue point Siamese
+tabbies
+tabbies
+tiger cats
+gibs
+tortoiseshells
+feeders
+heads
+stockers
+strays
+blastocysts
+gastrulas
+morulas
+feeders
+dams
+female mammals
+fillies
+hens
+fictional animals
+big games
+Asian black grouses
+blackcocks
+European black grouses
+greyhens
+capercaillies
+greater prairie chickens
+heath hens
+lesser prairie chickens
+moorcocks
+moorhens
+ruffed grouses
+sage grouses
+sharp-tailed grouses
+spruce grouses
+Greek partridges
+Hungarian partridges
+mountain quails
+red-legged partridges
+afropavoes
+arguses
+golden pheasants
+monals
+blue peafowls
+green peafowls
+peachicks
+peacocks
+peahens
+ring-necked pheasants
+tragopans
+northern bobwhites
+California quails
+migratory quails
+tinamous
+giants
+herbivores
+hexapods
+homeotherms
+insectivores
+acarids
+acaruses
+itch mites
+rust mites
+red spiders
+harvest mites
+trombidiids
+web-spinning mites
+Ixodes damminis
+Ixodes dentatuses
+Ixodes neotomaes
+Ixodes pacificuses
+Ixodes persulcatuses
+Ixodes scapulariss
+Ixodes spinipalpiss
+sheep-ticks
+wood ticks
+soft ticks
+book scorpions
+harvestmen
+scorpions
+barn spiders
+black and gold garden spiders
+black widows
+comb-footed spiders
+garden spiders
+orb-weaving spiders
+tarantulas
+trap-door spiders
+European wolf spiders
+vinegarroons
+Asian horseshoe crabs
+house centipedes
+acorn barnacles
+goose barnacles
+brachyurans
+brine shrimps
+daphnias
+fairy shrimps
+tadpole shrimps
+brits
+cyclop
+fish lice
+Dungeness crabs
+fiddler crabs
+hard-shell crabs
+Jonah crabs
+king crabs
+oyster crabs
+rock crabs
+soft-shell crabs
+European spider crabs
+giant crabs
+stone crabs
+American lady crabs
+blue crabs
+English lady crabs
+American crayfish
+Old World crayfish
+hermit crabs
+Norway lobsters
+spiny lobsters
+American lobsters
+Cape lobsters
+European lobsters
+long-clawed prawns
+snapping shrimps
+tropical prawns
+beach fleas
+skeleton shrimps
+whale lice
+sea lice
+pill bugs
+sow bugs
+Euphausia pacificas
+opossum shrimps
+seed shrimps
+squillas
+eurypterids
+garden centipedes
+horseshoe crabs
+Asian longhorned beetles
+Dutch-elm beetles
+spruce bark beetles
+oil beetles
+Spanish flys
+black carpet beetles
+buffalo carpet beetles
+bee beetles
+deathwatch beetles
+click beetles
+fireflies
+glowworms
+bombardier beetles
+searchers
+Hippodamia convergenss
+Mexican bean beetles
+two-spotted ladybugs
+vedalias
+dorbeetles
+scarabs
+tumblebugs
+Japanese beetles
+green June beetles
+cockchafers
+rose chafers
+Oriental beetles
+rhinoceros beetles
+rose chafers
+stag beetles
+Colorado potato beetles
+flea beetles
+pine sawyers
+rove beetles
+tiger beetles
+water beetles
+boll weevils
+flour beetles
+rice weevils
+bean weevils
+pea weevils
+snout beetles
+whirligig beetles
+chicken lice
+bugs
+collembolans
+defoliators
+American cockroaches
+Australian cockroaches
+German cockroaches
+giant cockroaches
+oriental cockroaches
+praying manti
+crane flies
+bee flies
+bluebottles
+greenbottles
+flesh flies
+horse botflies
+human botflies
+sheep botflies
+horseflies
+warble flies
+horn flies
+houseflies
+tachina flies
+tsetse flies
+apple maggots
+drosophilas
+Mediterranean fruit flys
+vinegar flies
+armyworms
+fungus gnats
+Hessian flys
+blackflies
+midges
+psychodids
+punkies
+sand flies
+horse ticks
+sheep keds
+anophelines
+Asian tiger mosquitoes
+common mosquitoes
+Culex quinquefasciatuses
+gnats
+malarial mosquitoes
+yellow-fever mosquitoes
+robber flies
+common European earwigs
+mayflies
+Plectopheras
+ephemerons
+cat fleas
+chigoes
+dog fleas
+Pulex irritanss
+sticktights
+gallflies
+backswimmers
+bedbugs
+leaf-footed bugs
+squash bugs
+lace bugs
+four-lined plant bugs
+tarnished plant bugs
+chinch bugs
+true bugs
+conenoses
+wheel bugs
+cotton stainers
+firebugs
+giant water bugs
+water boatmen
+water scorpions
+common pond-skaters
+holometabolas
+dog-day cicadas
+seventeen-year locusts
+citrophilous mealybugs
+citrus mealybugs
+Comstock mealybugs
+San Jose scales
+cochineal insects
+brown soft scales
+wax insects
+jassids
+lantern flies
+treehoppers
+balsam woolly aphids
+pine leaf aphids
+spruce gall aphids
+woolly adelgids
+ant cows
+apple aphids
+blackflies
+green peach aphids
+pale chrysanthemum aphids
+woolly alder aphids
+woolly apple aphids
+grape lice
+jumping plant lice
+oak blights
+froghoppers
+meadow spittlebugs
+pine spittlebugs
+Saratoga spittlebugs
+citrus whiteflies
+greenhouse whiteflies
+cotton strains
+superbugs
+army ants
+bulldog ants
+carpenter ants
+fire ants
+little black ants
+pharaoh ants
+Amazon ants
+sanguinary ants
+Formica fuscas
+wood ants
+andrenas
+bumblebees
+carpenter bees
+cuckoo-bumblebees
+drones
+Africanized bees
+black bees
+Carniolan bees
+Italian bees
+leaf-cutting bees
+mason bees
+Nomia melanderis
+potter bees
+chalcis flies
+ichneumon flies
+Mutillidaes
+birch leaf miners
+gall wasps
+cicada killers
+mason wasps
+mud daubers
+velvet ants
+common wasps
+bald-faced hornets
+giant hornets
+yellow jackets
+mason wasps
+Polistes annulariss
+potter wasps
+imagoes
+leaf miners
+monarches
+blues
+American coppers
+Strymon melinuses
+admirals
+anglewings
+banded purples
+commas
+purple emperors
+silverspots
+mourning cloaks
+painted beauties
+peacocks
+red-spotted purples
+red admirals
+tortoiseshells
+viceroys
+white admirals
+large whites
+small whites
+southern cabbage butterflies
+ringlets
+sulphur butterflies
+cinnabars
+tiger moths
+domestic silkworm moths
+Gelechia gossypiellas
+angoumois moths
+potato moths
+Alsophila pometarias
+Paleacrita vernatas
+death's-head moths
+Manduca quinquemaculatas
+Manduca sextas
+eggars
+lappets
+tent-caterpillar moths
+Hyphantria cuneas
+Loxostege similaliss
+browntails
+gold-tail moths
+gypsy moths
+moth millers
+antler moths
+armyworms
+heliothis moths
+Spodoptera exiguas
+Spodoptera frugiperdas
+red underwings
+almond moths
+bee moths
+corn borers
+Mediterranean flour moths
+raisin moths
+tobacco moths
+cecropias
+emperors
+atlas moths
+cynthia moths
+imperial moths
+io moths
+luna moths
+pernyi moths
+polyphemus moths
+tussahs
+tent-caterpillar moths
+gracilariids
+carpet moths
+casemaking clothes moths
+webbing clothes moths
+codling moths
+leaf rollers
+orange tortrixes
+tea tortrixes
+body lice
+common lice
+crab lice
+head lice
+hanging flies
+scorpion flies
+alderflies
+ant lions
+dobsons
+fish flies
+brown lacewings
+goldeneyes
+mantispids
+snakeflies
+spongeflies
+damselflies
+dragonflies
+European house crickets
+field crickets
+mole crickets
+snowy tree crickets
+mormon crickets
+sand crickets
+migratory grasshoppers
+migratory locusts
+walking leaves
+diapheromeras
+pollinators
+proturans
+common booklice
+bark-lice
+chrysalises
+queen bees
+social insects
+stoneflies
+powder-post termites
+Mastotermes darwinienses
+Mastotermes electrodominicuses
+Mastotermes electromexicuses
+Reticulitermes flanipeses
+Reticulitermes lucifuguses
+onion thrip
+tobacco thrip
+firebrats
+jumping bristletails
+silverfish
+caddis flies
+web spinners
+soldiers
+worker bees
+instars
+Merostomatas
+millipedes
+myriapods
+Plicatoperipatus jamaicenses
+sea spiders
+tardigrades
+tongue worms
+trilobites
+brachiopods
+bryozoans
+red corals
+sea fans
+sea feathers
+brain corals
+mushroom corals
+staghorn corals
+actinias
+sea pens
+hydras
+planulas
+sertularians
+apolemias
+nanomias
+Portuguese men-of-war
+prayas
+Aeginas
+Chrysaora quinquecirrhas
+medusas
+polyps
+scyphozoans
+beroes
+platycteneans
+sea gooseberries
+Venus's girdles
+Astrophyton muricatums
+brittle stars
+feather stars
+sea lilies
+trepangs
+edible sea urchins
+heart urchins
+sand dollars
+starfish
+ectoprocts
+entoprocts
+ark shells
+blood clams
+geoducks
+giant clams
+cherrystones
+littlenecks
+razor clams
+giant northwest shipworms
+teredoes
+soft-shell clams
+edible cockles
+pearly-shelled mussels
+thin-shelled mussels
+zebra mussels
+edible mussels
+bluepoints
+Japanese oysters
+pearl oysters
+saddle oysters
+seed oysters
+Virginia oysters
+window oysters
+piddocks
+bay scallops
+sea scallops
+chambered nautiluses
+cuttlefish
+spirulas
+architeuthi
+loligoes
+ommastrephe
+dibranchiates
+octopuses
+paper nautiluses
+chitons
+ormers
+bubble shells
+giant conches
+money cowries
+tiger cowries
+physas
+river limpets
+sea hares
+Hermissenda crassicorniss
+common limpets
+keyhole limpets
+moon shells
+bleeding teeth
+neritas
+neritinas
+periwinkles
+tritons
+whelks
+slugs
+edible snails
+brown snails
+Helix hortenses
+scorpion shells
+solenogasters
+tooth shells
+peanut worms
+phoronids
+rotifers
+Venus's flower baskets
+Symbion pandoras
+woodborers
+acanthocephalans
+archiannelids
+horseleeches
+medicinal leeches
+earthworms
+bloodworms
+lugworms
+sea mice
+sagittas
+beard worms
+Fasciolopsis buskis
+liver flukes
+schistosomes
+planarians
+echinococcuses
+taenias
+helminths
+chicken roundworms
+common roundworms
+vinegar eels
+filarias
+Guinea worms
+hookworms
+pinworms
+trichinas
+wheatworms
+ribbon worms
+woodworms
+zoophytes
+aphid lions
+ascidian tadpoles
+bladder worms
+bots
+caddisworms
+armyworms
+beet armyworms
+corn earworms
+pink bollworms
+cabbageworms
+fall cankerworms
+spring cankerworms
+corn borers
+army cutworms
+fall armyworms
+lappet caterpillars
+measuring worms
+potato tuberworms
+silkworms
+ailanthus silkworms
+forest tent caterpillars
+tobacco hornworms
+tomato hornworms
+tussock caterpillars
+fall webworms
+garden webworms
+woolly bear moths
+cercarias
+doodlebugs
+leatherjackets
+maggots
+hellgrammiates
+leptocephaluses
+mealworms
+nymphs
+strawworms
+tadpoles
+wigglers
+wireworms
+bullocks
+ridgelings
+geldings
+studs
+sires
+by-catches
+mates
+metazoans
+migrators
+molters
+mutants
+omnivores
+peepers
+vermins
+pets
+pleurodonts
+poikilotherms
+carnivores
+preys
+finishers
+Italian greyhounds
+whippets
+steeplechasers
+range animals
+bottom-feeders
+stayers
+stunts
+survivors
+thoroughbreds
+varmints
+packhorses
+draft animals
+hatchlings
+orphans
+spats
+chicks
+cygnets
+eaglets
+fledglings
+nestlings
+brits
+parrs
+parrs
+whitebaits
+babies
+bullocks
+dogies
+mavericks
+calves
+bear cubs
+lion cubs
+tiger cubs
+fawns
+ridgelings
+fillies
+heifers
+kits
+kittens
+baa-lambs
+hogs
+lambkins
+Persian lambs
+tegs
+sucking pigs
+puppies
+sucklings
+wolf pups
+zooplanktons
