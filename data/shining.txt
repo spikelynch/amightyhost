@@ -1,4 +1,5 @@
 diamonds
+mackerel
 the stars
 brilliants
 nonpareils
@@ -7,10 +8,16 @@ pearls
 dewdrops
 the sun
 the moon
-rubys
+rubies
 fireflies
+flames
+embers
+silver
+gold
 sparks from a bonfire
 emeralds
+garnets
+cachous
 spangles
 tinsel
 glitter
