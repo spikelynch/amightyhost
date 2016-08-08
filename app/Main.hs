@@ -31,7 +31,7 @@ flourish = choose $ map word [ "brandishing", "waving", "flourishing", "carrying
 wavingtheir weapons = list [ flourish, perhaps (3, 5 ) $ word "their", weapons ]
 
 dressedin colours clothes = list [ participle, perhaps ( 1, 2 ) colours, clothes ]
-  where participle = choose $ map word [ "wearing", "clad in", "dressed in" ]
+  where participle = choose $ map word [ "wearing", "clad in", "dressed in", "sporting" ]
 
 
 shininglike armour shinies = list [ word "their", armour, participle, shinies ]
@@ -51,18 +51,30 @@ howmany = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
 epithet a n = randrep ( 0, 2 ) $ list [ a, word "-", n ]
 
 
-host place warriors waters arms dress simile = choose [ f1, f2, f3 ]
-  where f1 = list [ word "From", place, word "came", howmany, warriors, eitherattr ]
-        f2 = list [ place, word "sent", howmany, warriors, eitherattr ] 
-        f3 = list [ howmany, warriors, mwaters, word "came from", place, eitherattr ]
-        mwaters = perhaps ( 1, 3 ) $ phr waters 
-        marms = perhaps ( 1, 3 ) $ phr arms
-        mdress = perhaps ( 1, 3 ) $ phr dress
-        msimile = perhaps ( 1, 3 ) $ phr simile
-        eitherattr = perhaps ( 2, 5 ) $ choose [ phr waters, phr arms, phr dress, phr simile ]
+-- From PLACE came N WARRIORS, DOING
+-- PLACE sent N WARRIORS, DOING
+-- N WARRIORS WHODRINK CAME FROM PLACE DOING
+
+-- N WARRIORS DOING CAME FROM PLACE
+
+-- DOING, WARRIORS, WHODRINK, CAME FROM PLACE
+
+host place warriors waters arms dress simile = choose [ s1, s2, s3, s4 ]
+  where s1 = list [ word "From", place, word "came", band ]
+        s2 = list [ place, word "sent", band ] 
+        s3 = list [ band, word "came from", place ]
+        s4 = list [ action, howmany, warriors, attr, word "arrived from", place ]
+        band = list [ howmany, warriors, whodo ]
+        whodo = perhaps ( 3, 5 ) $ choose $ map phr [ waters, arms, dress, simile ]
+        action = perhaps ( 2, 5 ) $ choose $ map prephr [ arms, dress ]
+        attr = perhaps ( 2, 5 ) $ phr waters
+
+
 
 
 phr phrase = list [ word ",", phrase, word "," ]
+
+prephr phrase = list [ phrase, word "," ]
   
 getDir (x:xs) = x
 getDir _      = "./"
