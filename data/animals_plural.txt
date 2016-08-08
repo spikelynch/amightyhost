@@ -695,8 +695,8 @@ great white herons
 little blue herons
 black-crowned night herons
 yellow-crowned night herons
-sacred ibi
-wood ibi
+sacred ibises
+wood ibises
 limpkins
 ortygans
 plain wanderers
@@ -704,7 +704,7 @@ American coots
 Old World coots
 corncrakes
 spotted crakes
-notorni
+notornises
 wekas
 shoebills
 avocets
