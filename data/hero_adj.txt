@@ -12,6 +12,7 @@ brave
 breast
 bright
 broad
+chest
 clear
 claw
 cold
@@ -35,6 +36,7 @@ god
 golden
 great
 hairy
+hand
 hawk
 hero
 heavy
@@ -61,6 +63,7 @@ open
 owl
 noble
 pale
+pork
 quick
 red
 rosy
@@ -78,12 +81,16 @@ strong
 sun
 sure
 surly
+swart
 swarthy
 swift
+tall
 tawny
 thick
 thin
-well
+tight
 warm
+well
+whey
 wine
 world
