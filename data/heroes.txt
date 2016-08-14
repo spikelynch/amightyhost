@@ -8,25 +8,31 @@ rebels
 rough riders
 WACs
 WAVEs
+abreks
 acolytes
 artillerymen
 assassins
 auxilliaries
+b-boys
 bacchantes
 bandits
 barbarians
 bashi-bazouks
 bastards
+beaux
 beldames
 bowmen
+boxers
 braves
 bravos
 brigands
+brutes
 buccaneers
 bucks
 buggers
 burglars
 bushwhackers
+caitiffs
 camisards
 camp followers
 carbineer
@@ -35,12 +41,16 @@ centurions
 cheerleaders
 churls
 colour bearers
+coxcombs
 commandos
 condottieri
 cornerboys
 corybantes
 cuirassiers
+dacoits
 dames
+dandies
+dastards
 demons
 dervishes
 diggers
@@ -53,6 +63,7 @@ fighters
 fishwives
 flankers
 foederati
+fops
 foresters
 freebooters
 freemen
@@ -65,7 +76,7 @@ grognards
 guardsmen
 guerillas
 gunners
-hadjuks
+hajduks
 hags
 heldentenors
 hellions
@@ -73,6 +84,7 @@ helots
 henchmen
 heroes
 hobbledehoys
+honghuzi
 hoodlums
 hooligans
 hoplites
@@ -80,6 +92,7 @@ hoydens
 hunters
 hussars
 hussies
+illuminati
 invincibles
 irregulars
 janissaries
@@ -95,7 +108,9 @@ lancers
 legionnaires
 levellers
 levies
+libertines
 loyalists
+maccaronies
 mamelukes
 marauders
 marines
@@ -103,6 +118,8 @@ mehmetçiks
 men
 men-at-arms
 mercenaries
+militiamen
+miscreants
 monsters
 murderers
 musketeers
@@ -111,6 +128,7 @@ ninjas
 nobles
 ogres
 orderlies
+outlaws
 paladins
 paratroopers
 partisans
@@ -120,6 +138,8 @@ pirates
 pistoleers
 poilus
 point men
+poltroons
+popinjays
 princes
 privateers
 privates
@@ -128,24 +148,33 @@ rakehells
 rangers
 rankers
 rapscallions
+raparees
+rascals
+recidivists
 redcoats
 regulars
+reprobates
 rogues
 ronin
+rude boys
 ruffians
 sappers
 scamps
 scapegraces
+scalawags
 scofflaws
 scoundrels
 scouts
 sepoys
 she-devils
 shield-maidens
+shifta
+skaters
 soldiers
 spear-carriers
 spitfires
 spotters
+sweethearts
 swords
 tankers
 termagants
@@ -153,17 +182,22 @@ territorials
 thieves
 thugs
 tommies
+tóraithe
 trainbandsmen
 trappers
 tribunes
+upstarts
 varlets
 vassals
+vigilantes
 villains
 villeins
 viragos
 warriors
 weekend warriors
+whiggamores
 wildmen
 women
+wrestlers
 yeomen
 zouaves
