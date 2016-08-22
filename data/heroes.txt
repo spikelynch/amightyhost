@@ -10,6 +10,7 @@ WACs
 WAVEs
 abreks
 acolytes
+armchair activists
 artillerymen
 assassins
 astronauts
@@ -24,6 +25,7 @@ beaux
 beldames
 bowmen
 boxers
+boys
 braves
 bravos
 brigands
@@ -31,6 +33,7 @@ brutes
 buccaneers
 bucks
 buffalo gals
+buffalo soldiers
 buggers
 burglars
 bushwhackers
@@ -43,6 +46,7 @@ centurions
 cheerleaders
 churls
 colour bearers
+cold warriors
 coxcombs
 commandos
 condottieri
@@ -60,6 +64,7 @@ diggers
 doughboys
 dragoons
 ensigns
+eunuchs
 exquisites
 fellows
 fighters
@@ -73,6 +78,8 @@ freemen
 furies
 fusiliers
 gallants
+gangsters
+girls
 goldbricks
 grenadiers
 grognards
@@ -86,6 +93,7 @@ hellions
 helots
 henchmen
 heroes
+hillbillies
 hobbledehoys
 honghuzi
 hoodlums
@@ -108,6 +116,7 @@ klephts
 knights
 lancepesades
 lancers
+leathermen
 legionnaires
 levellers
 levies
@@ -173,6 +182,7 @@ sepoys
 she-devils
 shield-maidens
 shifta
+shitkickers
 skaters
 soldiers
 spear-carriers
@@ -204,4 +214,5 @@ wildmen
 women
 wrestlers
 yeomen
+yobbos
 zouaves
