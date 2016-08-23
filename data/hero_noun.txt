@@ -19,6 +19,7 @@ dark
 doomed
 drenched
 dressed
+drinking
 eating
 eyed
 faced
@@ -36,6 +37,7 @@ headed
 hearted
 hewn
 hung
+hungry
 jawed
 kempt
 kissed
@@ -59,6 +61,7 @@ sworn
 talking
 thewed
 thighed
+thirsty
 throated
 tongued
 vowed

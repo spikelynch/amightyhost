@@ -2,7 +2,9 @@ agile
 bad
 bandy
 beef
+beer
 big
+blood
 bloody
 bold
 bottom
@@ -36,6 +38,7 @@ god
 golden
 great
 hairy
+ham
 hand
 hawk
 hero
@@ -54,6 +57,7 @@ light
 lithe
 live
 long
+loose
 low
 mean
 meat
@@ -71,6 +75,7 @@ ruddy
 sad
 shaggy
 slack
+small
 silk
 spindle
 star
@@ -90,6 +95,7 @@ thick
 thin
 tight
 warm
+water
 well
 whey
 wine
