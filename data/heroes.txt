@@ -40,7 +40,7 @@ bushwhackers
 caitiffs
 camisards
 camp followers
-carbineer
+carabinieri
 cavalrymen
 centurions
 cheerleaders
@@ -79,6 +79,7 @@ furies
 fusiliers
 gallants
 gangsters
+gendarmes
 girls
 goldbricks
 grenadiers
