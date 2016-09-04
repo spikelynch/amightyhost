@@ -21,6 +21,7 @@ cold
 cool
 cross
 curly
+dank
 dark
 dour
 deep
@@ -41,6 +42,7 @@ hairy
 ham
 hand
 hawk
+hate
 hero
 heavy
 high
@@ -58,6 +60,7 @@ lithe
 live
 long
 loose
+love
 low
 mean
 meat
@@ -68,6 +71,7 @@ owl
 noble
 pale
 pork
+proud
 quick
 red
 rosy
@@ -84,6 +88,7 @@ stout
 straight
 strong
 sun
+super
 sure
 surly
 swart

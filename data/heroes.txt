@@ -5,7 +5,7 @@ Gurkhas
 highlanders
 minutemen
 rebels
-rough riders
+Rough Riders
 WACs
 WAVEs
 abreks
@@ -28,6 +28,7 @@ boxers
 boys
 braves
 bravos
+brawlers
 brigands
 brutes
 buccaneers
@@ -75,6 +76,7 @@ fops
 foresters
 freebooters
 freemen
+fuglemen
 furies
 fusiliers
 gallants
@@ -83,18 +85,21 @@ gendarmes
 girls
 goldbricks
 grenadiers
+greenhorns
 grognards
 guardsmen
 guerillas
 gunners
 hajduks
 hags
+harpooneers
 heldentenors
 hellions
 helots
 henchmen
 heroes
 hillbillies
+hinds
 hobbledehoys
 honghuzi
 hoodlums
@@ -105,6 +110,7 @@ hunters
 hussars
 hussies
 illuminati
+initiates
 invincibles
 irregulars
 janissaries
@@ -131,11 +137,13 @@ mehmetçiks
 men
 men-at-arms
 mercenaries
+militants
 militiamen
 miscreants
 monsters
 murderers
 musketeers
+myrmidons
 ne'er-do-wells
 ninjas
 nobles
@@ -153,6 +161,7 @@ poilus
 point men
 poltroons
 popinjays
+postulants
 princes
 privateers
 privates
@@ -179,6 +188,7 @@ scalawags
 scofflaws
 scoundrels
 scouts
+scrappers
 sepoys
 she-devils
 shield-maidens
@@ -187,8 +197,10 @@ shitkickers
 skaters
 soldiers
 spear-carriers
+spies
 spitfires
 spotters
+swains
 sweethearts
 swords
 tankers
@@ -201,6 +213,7 @@ tóraithe
 trainbandsmen
 trappers
 tribunes
+tyros
 upstarts
 varlets
 vassals
