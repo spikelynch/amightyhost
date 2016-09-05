@@ -50,7 +50,7 @@ topos_forest tree tree_adj = list [ word "the", adj, tree, grove, word "of the" 
         grove = choose $ map word [ "forests", "woods", "groves", "copses", "thickets", "wildwoods", "jungles" ]
 
 
-topos_mountains m m_adj peaks = list [ word "the", adj, peaks, word "of the", m ]
+topos_mountains m m_adj peaks = list [ word "the", adj, peaks, word "of", m ]
   where adj = perhaps ( 0, 1 ) m_adj
 
 

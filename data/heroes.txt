@@ -51,6 +51,7 @@ cold warriors
 coxcombs
 commandos
 condottieri
+consultants
 cornerboys
 corybantes
 cosmonauts
@@ -67,6 +68,7 @@ dragoons
 ensigns
 eunuchs
 exquisites
+fact-finders
 fellows
 fighters
 fishwives
@@ -147,6 +149,7 @@ myrmidons
 ne'er-do-wells
 ninjas
 nobles
+observers
 ogres
 orderlies
 outlaws
@@ -181,6 +184,8 @@ rogues
 ronin
 rude boys
 ruffians
+salarymen
+samurai
 sappers
 scamps
 scapegraces
@@ -189,6 +194,7 @@ scofflaws
 scoundrels
 scouts
 scrappers
+secretaries
 sepoys
 she-devils
 shield-maidens
