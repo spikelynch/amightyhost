@@ -5,9 +5,11 @@ bitter
 black
 blue
 blessed
+brooding
 cloudy
 cold
 deadly
+deep
 desolate
 dread
 dusky
@@ -37,8 +39,10 @@ rocky
 sacred
 sky-piercing
 snowy
+solitary
 star-high
 stark
+steep
 stern
 stony
 stormy

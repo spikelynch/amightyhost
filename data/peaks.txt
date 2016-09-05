@@ -9,7 +9,9 @@ domes
 drumlins
 eskers
 fells
+foothills
 glaciers
+hills
 moraines
 mountains
 nunataks
