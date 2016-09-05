@@ -1,6 +1,9 @@
+amber
+amethysts
+beacons
 brilliants
 cachous
-cat's eyes
+cat’s eyes
 crystal
 dewdrops
 diamonds
@@ -13,12 +16,14 @@ galaxies
 garnets
 glitter
 gold
+the heavens
 ice
 icicles
 mackerel
-moonlight on the waves
+moonlight
 nonpareils
 pearls
+raindrops
 rubies
 silver
 spangles

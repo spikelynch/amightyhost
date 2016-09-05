@@ -7,7 +7,7 @@ Brens
 Browning automatic rifles
 Browning machine guns
 Colts
-Cupid's bows
+Cupid’s bows
 Dragunovs
 English longbows
 Exocets
@@ -111,7 +111,7 @@ cannes de combat
 cannonballs
 cannons
 carbines
-cats o' nine tails
+cats o’ nine tails
 chacing staves
 chain whips
 chakrams
@@ -164,7 +164,7 @@ epees
 eskrima sticks
 espadas roperas
 estocs
-executioner's swords
+executioner’s swords
 falaricas
 falcatas
 falchions
@@ -220,7 +220,7 @@ heater shields
 hoko yaris
 hook swords
 horse pistols
-horseman's picks
+horseman’s picks
 hunga mungas
 hunting swords
 huochongs
@@ -309,7 +309,7 @@ migration period spears
 military forks
 minute guns
 misericordes
-monk's spades
+monk’s spades
 morning stars
 musket balls
 muskets
@@ -397,7 +397,7 @@ shakens
 shamshirs
 shareeravadis
 shashkas
-shepherd's axes
+shepherd’s axes
 shikomizues
 shillelaghs
 shivs
