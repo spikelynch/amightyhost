@@ -50,9 +50,8 @@ topos_forest tree tree_adj = list [ word "the", adj, tree, grove, word "of the" 
         grove = choose $ map word [ "forests", "woods", "groves", "copses", "thickets", "wildwoods", "jungles" ]
 
 
-topos_mountains m m_adj = list [ word "the", adj, peaks, word "of the", m ]
+topos_mountains m m_adj peaks = list [ word "the", adj, peaks, word "of the", m ]
   where adj = perhaps ( 0, 1 ) m_adj
-        peaks = choose $ map word [ "peaks", "fells", "cliffs", "passes", "slopes", "rocks", "stones", "snows", "mountains" ]
 
 
 numbers = choose $ map word [ "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" ]
@@ -107,6 +106,7 @@ main = do
   forests <- loadOptions (dataDir ++ "forests.txt")
   mountains <- loadOptions (dataDir ++ "mountains.txt")
   mountain_adj <- loadOptions (dataDir ++ "mountain_adj.txt")
+  peaks <- loadOptions (dataDir ++ "peaks.txt")
   weapons <- loadOptions (dataDir ++ "weapons.txt")
   heroes <- loadOptions (dataDir ++ "heroes.txt")
   hero_adj <- loadOptions (dataDir ++ "hero_adj.txt")
@@ -118,7 +118,7 @@ main = do
   warriors <- return $ list [ epithet hero_adj hero_noun, heroes ]
   p_animal <- return $ list [ places, topos_animal animal animals ]
   p_forest <- return $ list [ topos_forest trees tree_adj, forests ]
-  p_mountains <- return $ topos_mountains mountains mountain_adj
+  p_mountains <- return $ topos_mountains mountains mountain_adj peaks
   topoi <- return $ choose [ places, p_animal, p_forest, p_mountains ]
   waters <- return $ whodrink wadj water
   armedwith <- return $ wavingtheir weapons
