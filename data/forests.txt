@@ -1158,8 +1158,8 @@ Virée des Croix
 Virée de Schevauche
 Bois de la Virée de la Doucette
 Virée de Gaudru
-Bois de la Virée d'Arnies
-Virée d'Almache
+Bois de la Virée d’Arnies
+Virée d’Almache
 Virée Coquinet
 Virée aux Scies
 Virée aux Loups
@@ -1289,8 +1289,8 @@ Sint-Jans-Hart
 Bois de Silly
 Sillebos
 ’s Hertogenbos
-'s Herenhei
-'s Herenbos
+’s Herenhei
+’s Herenbos
 Bois de Séviscourt
 Bois de Seury
 Bois Seroux
@@ -1396,7 +1396,7 @@ Bois Robert
 Bois de Robelmont
 Bois de Robechies
 Bois de Robaumont
-Bois de R'Mester
+Bois de R’Mester
 Bois de Rixensart (Bois de Mérode)
 Bois de Rivers
 Bois de Rinvaux
@@ -1495,31 +1495,31 @@ Pastoorsbos
 Bois de la Part du Prince
 Bois de Paris
 Bois Pardon
-Bois d'Ozo
+Bois d’Ozo
 Overbroekheide
-Bois d'Ouffet
+Bois d’Ouffet
 Oudenbos
-Bois de l'Ouchenée
-Bois d'Ossogne
-Forêt d'Orval
-Haies d'Oppagne
+Bois de l’Ouchenée
+Bois d’Ossogne
+Forêt d’Orval
+Haies d’Oppagne
 Bois Opimont-la-Grande
 Ophovender Heide
-Bois d'Ophain
+Bois d’Ophain
 Ooisenbossen
 Bois des Onches
 Bois de On
 Ommer Wald
 Bois d’Oisquercq
-Bois l'Oiseau
-Bois d'Ohey
-Bois d'Ohain
-Bois d'Offoux
+Bois l’Oiseau
+Bois d’Ohey
+Bois d’Ohain
+Bois d’Offoux
 Oeleinder Heibos
-Bois d'Odeigne
-Bois d'Ochain
+Bois d’Odeigne
+Bois d’Ochain
 Bois du Gard
-Bois d'Oblusteine
+Bois d’Oblusteine
 Bois du Nouveau Bau
 Bois de Nomont
 Bois de Nom de Falize
@@ -1530,7 +1530,7 @@ Bois Noé
 Forêt de Nismes
 Bois de Nimes
 Nieuwe Bossen
-Bois des Nids d'Aguesses
+Bois des Nids d’Aguesses
 Nidrumer Heck
 Bois de Niau
 Bois de la Neuville
@@ -1674,7 +1674,7 @@ Les Hawis
 Les Hauts Marais
 Les Francs Bois
 Les Blancs Bois
-L'Ermitage
+L’Ermitage
 Bois de Lens
 Lembeek Bos
 Le Laid Bois
@@ -1718,7 +1718,7 @@ Bois de Lamsoul
 Bois de Lambay Fays
 Bois de Laloux
 Lakebos
-L'Air Bois
+L’Air Bois
 Le Bois Lahaut
 Bois Lahaut
 La Grosse Haie
@@ -1791,8 +1791,8 @@ Bois Jacques
 Bois d’Ittre
 In der Eid
 In de Brand
-Bois d'Imbrechies
-Bois d'Imberchies
+Bois d’Imbrechies
+Bois d’Imberchies
 Bois de la Hussière
 Bois de Hurtaut
 Bois de Hunert
@@ -1800,11 +1800,11 @@ Bois Hulnetsaut
 Bois des Huissières
 Bois de Hubeumont
 Bois de Hubermont
-Bois d'Howis
+Bois d’Howis
 Bois des Hovas
 Houthulstenbos
 Bois de Houtain le Mont
-Bois d'Houtaing
+Bois d’Houtaing
 Bois de la Houssière
 Bois de Hourt
 Bois Houria Jacquet
@@ -1812,7 +1812,7 @@ Bois des Houppes
 Bois des Houillères
 Bois de la Houdrée
 Bois de Hotton
-Bois de l'Hôpital
+Bois de l’Hôpital
 Hoog Maat Heide
 Hooge Mierdse Heide
 Hoogbos
@@ -1833,7 +1833,7 @@ Hez de Harzé
 Bois d’Hez
 Bois de Hèvremont
 Heuvelse Heide
-Bois d'Heure
+Bois d’Heure
 Heulebos
 Bois de Hêtre
 Het Looi
@@ -1844,15 +1844,15 @@ Herren Busch
 Bois de Heronnerie
 Bois de Hernoy
 Bois de Hernière
-Bois d'Hermalle
-Bois d'Herimetz
+Bois d’Hermalle
+Bois d’Herimetz
 Heren Bossen
 Herenbos
 Herebos
 Herboufa
 Herbôfaye
 Bois Herbier
-Forêt d'Herbeumont
+Forêt d’Herbeumont
 Bois Herbay
 Bois de Herbaimont
 Bois Henrard
@@ -1871,16 +1871,16 @@ Hée des Mainies
 Hechtelse Heide
 Bois de Hazy
 Bois de Hazeille
-Bois d'Hayon
+Bois d’Hayon
 Bois des Hayettes
 Bois de la Haye du Roeulx
-Bois d'Havré
+Bois d’Havré
 Bois Havinnois
 Bois de la Have
 Bois les Aulnois
 Bois Hautmont-Feschère
 Bois de Hautmont
-Hautes Fanges dessus l'Honeux
+Hautes Fanges dessus l’Honeux
 Haute Roche
 Haute-Nitémont
 Bois de la Haute Marlagne
@@ -1889,7 +1889,7 @@ Haut des Minières
 Haut Bois
 Bois la Haut
 Bois Haut
-Bois d'Hatinne
+Bois d’Hatinne
 Hasseltbos
 Hasselpath
 Hassel Bos
@@ -1898,8 +1898,8 @@ Harth
 Bois de Harre
 Harentbeekbos
 Hardie
-Bois d'Hanzinne
-Bois d'Hanon
+Bois d’Hanzinne
+Bois d’Hanon
 Haie de Han
 Bois de Hampteau
 Bois de Hamme
@@ -1913,11 +1913,11 @@ Hallebos
 Half Ven Heide
 Bois de Haledet
 Bois du Haistreux
-Bois d'Hainin
+Bois d’Hainin
 Bois des Haies de Magery
 Bois de la Haie-le-Comte
 Bois Haie de Baclain
-Hé d'Outrimont
+Hé d’Outrimont
 Bois la Haie
 Bois de la Haie
 Hagaardbos
@@ -1964,7 +1964,7 @@ Grand Coret
 Grand Bois des Grandes Salles
 Grand Bois de Sevry
 Grand Bois de Jehay
-Grand Bois d'Acren
+Grand Bois d’Acren
 Grand Bois
 Forêt Domaniale du Grand Bois
 Bois du Grand Benoît
@@ -2041,7 +2041,7 @@ Bois de la Fontaine Martin Carelie
 Taille Fontaine au Plane
 Bois de Fontaine
 Bois du Fond du Grand Pouhon
-Bois Fond d'Ingremez
+Bois Fond d’Ingremez
 Bois du Fond des Vaux
 Bois du Fond des Rys
 Bois du roi
@@ -2086,25 +2086,25 @@ Bois de la Fagne Rausart
 Bois Fagnel
 Bois de la Fagne
 Bois Fagne
-Bois de l'Évèque
-Bois de l'Évêque
+Bois de l’Évèque
+Bois de l’Évêque
 Bois de l’Euchert
 Bois de l’Étoile
-Bois de l'Étoile
-Bois d'Étalle
+Bois de l’Étoile
+Bois d’Étalle
 Essen Duinen
-Bois d'Esneux
-Bois l'Escou
-Bois de l'Escaille
-Bois de l'Ermitage
-Bois d'Impegnies
+Bois d’Esneux
+Bois l’Escou
+Bois de l’Escaille
+Bois de l’Ermitage
+Bois d’Impegnies
 Bois de Cocars
-Bois d'Engihoul
-Bois d'Enghien
-Bois d'Eneille
-Bois d'Enchowe
+Bois d’Engihoul
+Bois d’Enghien
+Bois d’Eneille
+Bois d’Enchowe
 Emmelserwald
-Bois d'Embourg
+Bois d’Embourg
 Embekebos
 Elsenbüchel
 Elsenborner Wald
@@ -2113,8 +2113,8 @@ Eikenbos
 Eikelbos
 Eikbos
 Eichenbusch
-Bois d'Eclaye
-La Hé l'Échevin
+Bois d’Eclaye
+La Hé l’Échevin
 Bois Dumont
 Duistbos
 Drongengoedbos
@@ -2153,7 +2153,7 @@ Bois de la Dame
 Bois du Curé
 Bois des Culées
 Bois de Cul du Mont
-Cul d'Orémont
+Cul d’Orémont
 Bois de Crupet
 Bois de Croy
 Bois Croix don Bolonne
@@ -2377,7 +2377,7 @@ Bois de Bassenge
 Bois de la Basse Marlagne
 Bois de Basse Heveau
 Basse Hasse
-Les Bois d'en Bas
+Les Bois d’en Bas
 Bartel Busch
 Bois de Barry
 Bois de Baronville
@@ -2402,44 +2402,44 @@ Bois de Baconval
 Bois de Bachet
 Bois Bablette
 Bois de Babinaye
-Bois d'Aywaille
-Bois d'Aye
+Bois d’Aywaille
+Bois d’Aye
 Averbode Bos
-Bois d'Avennes
-Bois d'Aveau
+Bois d’Avennes
+Bois d’Aveau
 Aux Vieilles Huttes
-Bois d'Autrouge
-Bois d'Ausse
+Bois d’Autrouge
+Bois d’Ausse
 Bois des Aunes
-Bois d'Aulniciau
+Bois d’Aulniciau
 Bois des Auges
 Auf der Höhe
 Auf der Hart
 Auf dem Gericht
-Bois d'Audregnies
-Bois d'Auche
-Bois d'Aubrechies
+Bois d’Audregnies
+Bois d’Auche
+Bois d’Aubrechies
 Au Bois Machy
 Au Bois Brûlé
-Bois d'Aublain
-Bois d'Attre
-Bois d'Athus
-Bois d'Assomont
+Bois d’Aublain
+Bois d’Attre
+Bois d’Athus
+Bois d’Assomont
 Bois de Arpe
-Bois d'Arlogne
+Bois d’Arlogne
 Arduinbos
 Forêt des Ardennes
-Bois d'Arche
-Bois d'Antoing
-Bois d'Anthisnes
-Forêt d'Anlier
-Bois d'Angre
+Bois d’Arche
+Bois d’Antoing
+Bois d’Anthisnes
+Forêt d’Anlier
+Bois d’Angre
 Bois des Anges
 Bois de Amerois
 Alte Bambusch
 Alsbos
-Bois d'Aloux
-Bois d'Alne
+Bois d’Aloux
+Bois d’Alne
 A la Fange Gros Jean
 Bois des Aisements
 Bois des Acremonts
@@ -2447,18 +2447,18 @@ Heide Achter de Steenweg
 Heide Achter de Gorten
 Achelse Heide
 Bois des Acaudries
-Bois l'Abbé
-Bois de l'Abbaye
+Bois l’Abbé
+Bois de l’Abbaye
 Buchholz
 Heverleebos
 Bois de Fontenoy
 Bois de Beaufort
 Bois du Becquerau
-Bois d'Hasnon
+Bois d’Hasnon
 Bois du Bu
 Bois Monjoie
 Bois de Bescaille
-Bois d'Hambraine
+Bois d’Hambraine
 Waaiberg
 Wijngaardberg
 Ruige Heide
@@ -2621,7 +2621,7 @@ Bois Cedar
 Bois de Belle-Rivière
 Bois de Fleury
 Bois de la Réparation
-Bois de l'Héritage
+Bois de l’Héritage
 Bois de Liesse
 Bois de Saint-Amable
 Bois de Saint-Camille
@@ -2669,7 +2669,7 @@ Doyles Tuck
 Eastern Neck
 Falls Break
 Forêt la Blanche
-Forêt Mont d'Or
+Forêt Mont d’Or
 Forêt Oskiskekak
 Forêt Ouareau
 Fork Break
@@ -2684,7 +2684,7 @@ La Frenière
 La Pinède
 La Pruchière
 Leasks Bluff
-L'Hêtrière
+L’Hêtrière
 Long Black Wood
 Mansfield Woods
 Mountain Woods
@@ -2692,7 +2692,7 @@ Old Joes Wood
 Oxbow Woods
 Paine Bluff
 Pépinière de Grandes-Piles
-Petit bois d'Autray
+Petit bois d’Autray
 Piccos Woods
 Pierres Bluff
 Powers Knap
@@ -2718,7 +2718,7 @@ Walshs Woods
 Wolf Grove
 Yetmans Grove
 Beach Maple bush
-Grampa's House
+Grampa’s House
 St Regis Hotel Vancouver
 Brewsters Mountain Lodge Deluxe Queen 2 Beds Cb
 Hearthstone Lodge One Bedroom
@@ -2986,7 +2986,7 @@ Gongnaisi Guojia Senlin Gongyuan
 Ye’erqiang Hehu Yanglin
 Shamo Huyang Linqu
 Jinhuyang Guojia Senlin Gongyuan
-Kai Sheng Xing Feng Int'l Hote
+Kai Sheng Xing Feng Int’l Hote
 Sheraton Hefei Xinzhan Hotel
 Greentree Inn Changsha Yuanjialing Hotel
 Super 8 Hotel Shanghai Hongqia
@@ -12720,7 +12720,7 @@ Les Écorcelles
 Bois de Beuge
 bois de Vede
 Bois de Plagne
-De L'Avenir Exclusive Hotels
+De L’Avenir Exclusive Hotels
 Bois de Punta Mina
 Reserve Forestière des Lacs
 Reserve Forestière de la Ikoï Mondah
@@ -12798,12 +12798,12 @@ Ogmore Forest
 Fens Moss
 Hall Forest
 Blairs Wood
-Deer's Den
+Deer’s Den
 Gueval Wood
 Fowlershill Wood
 Parkhill Wood
 Todhill Wood
-Littlejohn's Wood
+Littlejohn’s Wood
 Goval Wood
 Dovecot Wood
 Stoneyhill Wood
@@ -12812,7 +12812,7 @@ Logie Wood
 Saw Wood
 Stoke Woods
 Redford Wood
-Jay's Grave
+Jay’s Grave
 Munerigie Wood
 Llantrisant Forest
 Burns Quarry Wood
@@ -12840,14 +12840,14 @@ Pedlars Wood
 Croig Wood
 Kellan Wood
 Hundred Pound Bridge Wood
-Job's Wood
+Job’s Wood
 Osbaston Wood
 Park Wood
-Greaves's Wood
+Greaves’s Wood
 East Wood
 Rough Wood
 Putney Heath
-Baker's Avenue Wood
+Baker’s Avenue Wood
 Charlisle Wood
 William Wood
 Currie Wood
@@ -12875,16 +12875,16 @@ Meadow Hey Wood
 Dam Wood
 Foxall Wood
 Rosewood London (Executive )(Sp2)
-Tickner's Heath
+Tickner’s Heath
 Big Wood
 Strip Wood
 Clayton Wood
 Daffy Wood
 Dunnet Forest
-Sheet's Heath
+Sheet’s Heath
 Callendar Wood
 Craighead Wood
-Saint Helen's Wood
+Saint Helen’s Wood
 Culrush Wood
 Hayden Wood
 Parsonage Wood
@@ -15589,7 +15589,7 @@ Bāghjūn Aḩmad
 Bāgh-e Āqdar
 Bāgh-e Ma‘dan
 Rowkh-e Bālā
-Rowkh-e Pā'īn
+Rowkh-e Pā’īn
 Seh Cheshmeh
 Cheshmeh-ye Khodādād
 Bāgh-e Ferdows
@@ -17756,7 +17756,7 @@ Gran Bosco della Mèsola
 Bosco Rinfreddo
 Macchia del Semaforo
 Macchia della Cerreta
-L'Uccellanda
+L’Uccellanda
 WW1 war hero Giannino Ancillotto
 Foresta Umbra
 Ipogeo degli Aureli
@@ -22219,7 +22219,7 @@ MOKIHINUI FOREST
 Quinney Bush
 Baigents Bush
 Faulkners Bush
-Max's Bush
+Max’s Bush
 HIRA FOREST
 RAI FOREST
 MANGAWHAI FOREST
@@ -23778,7 +23778,7 @@ Nikolayevskaya Lesnaya Dacha
 Zapadno-Tyazhinskaya Lesnaya Dacha
 Danilovskaya Lesnaya Dacha
 Aydatskaya Lesnaya Dacha
-Bogotol'skaya Lesnaya Dacha
+Bogotol’skaya Lesnaya Dacha
 Les Bol’shoy Kolok
 Les Kocherdykskaya Dacha
 Les Ozerninskaya Dacha
@@ -25198,7 +25198,7 @@ Leominster State Forest
 Leverett State Forest
 Leyden State Forest
 Lowell-Dracut State Forest
-Martha's Vineyard State Forest
+Martha’s Vineyard State Forest
 Middlefield State Forest
 Mill Woods
 Montague State Forest
@@ -25329,7 +25329,7 @@ John H Allison Forest
 Kabetogama State Forest
 Koochiching State Forest
 Lake Insula State Forest
-Land O'Lakes State Forest
+Land O’Lakes State Forest
 Lyons State Forest
 Marcell Experimental Forest
 Minnesota Memorial Hardwood State Forest
@@ -25435,7 +25435,7 @@ White Mountain National Forest
 Woodman State Forest
 Abram S Hewitt State Forest
 Fountain Woods
-Founder's Grove
+Founder’s Grove
 Jackson State Forest
 Jenny Jump State Forest
 Mettlers Woods
@@ -26085,7 +26085,7 @@ Routt National Forest
 Boise National Forest
 Challis National Forest
 Clearwater National Forest
-Coeur d'Alene National Forest
+Coeur d’Alene National Forest
 Curlew National Grassland
 Fir Grove
 Floodwood State Forest
@@ -26343,7 +26343,7 @@ Sycamore Glen
 Memorial Grove
 Lost River State Forest
 Fred Russ State Forest
-Findlay's Woods (historical)
+Findlay’s Woods (historical)
 Whiteface River State Forest
 Highland Woods
 Pukaite Woods
@@ -26410,7 +26410,7 @@ Rodeway Inn
 Hampton Inn Danville
 W Minneapolis-The Foshay
 Microtel Inn Airport
-Super 8 Chicago Northlake O'Hare South
+Super 8 Chicago Northlake O’Hare South
 Hampton Inn Moab
 Days Inn & Suites Mobile
 Best Western Inn Of Jasper
