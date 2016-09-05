@@ -315,7 +315,7 @@ margates
 pigfish
 pompons
 porkfish
-sailor's-choices
+sailor’s-choices
 Spanish grunts
 tomtates
 jawfish
@@ -472,7 +472,7 @@ plumed scorpionfish
 stonefish
 bullheads
 grubbies
-miller's-thumbs
+miller’s-thumbs
 sea ravens
 snailfish
 jacksmelts
@@ -638,7 +638,7 @@ diving petrels
 fulmars
 giant petrels
 Manx shearwaters
-Mother Carey's chickens
+Mother Carey’s chickens
 stormy petrels
 white-chinned petrels
 procellariiform seabirds
@@ -670,7 +670,7 @@ cygnets
 mute swans
 pens
 trumpeters
-Bewick's swans
+Bewick’s swans
 whistling swans
 whoopers
 great bustards
@@ -716,7 +716,7 @@ Hudsonian godwits
 oystercatchers
 northern phalaropes
 red phalaropes
-Wilson's phalaropes
+Wilson’s phalaropes
 dotterels
 golden plovers
 killdeer
@@ -746,7 +746,7 @@ red-breasted snipes
 great snipes
 jacksnipes
 whole snipes
-Wilson's snipes
+Wilson’s snipes
 banded stilts
 black-necked stilts
 black-winged stilts
@@ -775,7 +775,7 @@ dabbling ducks
 diving ducks
 drakes
 ducklings
-Barrow's goldeneyes
+Barrow’s goldeneyes
 mallards
 mandarin ducks
 muscovy ducks
@@ -827,9 +827,9 @@ tawny eagles
 buteonines
 buzzards
 chicken hawks
-Cooper's hawks
+Cooper’s hawks
 eyases
-Audubon's caracaras
+Audubon’s caracaras
 caranchas
 gyrfalcons
 hobbies
@@ -840,7 +840,7 @@ sparrow hawks
 goshawks
 marsh harriers
 marsh hawks
-Montagu's harriers
+Montagu’s harriers
 harrier eagles
 honey buzzards
 black kites
@@ -880,7 +880,7 @@ black vultures
 Egyptian vultures
 griffon vultures
 frogmouths
-chuck-will's-widows
+chuck-will’s-widows
 European goatsuckers
 nighthawks
 poorwills
@@ -923,7 +923,7 @@ rock doves
 squabs
 wood pigeons
 painted sandgrouses
-pallas's sandgrouses
+pallas’s sandgrouses
 pin-tailed sandgrouses
 solitaires
 curassows
@@ -1030,7 +1030,7 @@ blue jays
 common European jays
 American magpies
 European magpies
-Clark's nutcrackers
+Clark’s nutcrackers
 common nutcrackers
 ravens
 rooks
@@ -1090,7 +1090,7 @@ purple grackles
 red-winged blackbirds
 rusty blackbirds
 Baltimore orioles
-Bullock's orioles
+Bullock’s orioles
 orchard orioles
 rifleman birds
 rock wrens
@@ -1163,7 +1163,7 @@ gold-crowned kinglets
 goldcrests
 ruby-crowned kinglets
 lesser whitethroats
-Audubon's warblers
+Audubon’s warblers
 Blackburns
 blackpolls
 Cape May warblers
@@ -1173,7 +1173,7 @@ yellow-breasted chats
 ovenbirds
 parula warblers
 water thrushes
-Wilson's warblers
+Wilson’s warblers
 yellow warblers
 common yellowthroats
 blackcaps
@@ -1203,7 +1203,7 @@ cock of the rocks
 cock of the rocks
 umbrella birds
 Arkansas kingbirds
-Cassin's kingbirds
+Cassin’s kingbirds
 eastern kingbirds
 grey kingbirds
 western wood pewees
@@ -1324,7 +1324,7 @@ Atlantic walruses
 Pacific walruses
 dugongs
 manatees
-Steller's sea cows
+Steller’s sea cows
 brown bats
 guano bats
 pocketed bats
@@ -1664,7 +1664,7 @@ Fissipedias
 Cynocephalus variegatuses
 rock hyraxes
 hedgehogs
-brewer's moles
+brewer’s moles
 golden moles
 American shrew moles
 Asiatic shrew moles
@@ -1918,7 +1918,7 @@ common elands
 giant elands
 Gazella subgutturosas
 springboks
-Thomson's gazelles
+Thomson’s gazelles
 gerenuks
 gnus
 bushbucks
@@ -2023,7 +2023,7 @@ Japanese deer
 black-tailed deer
 muntjacs
 musk deer
-pere david's deer
+pere david’s deer
 prickets
 brockets
 harts
@@ -2110,7 +2110,7 @@ stablemates
 stalking-horses
 steeplechasers
 steppers
-Przewalski's horses
+Przewalski’s horses
 tarpans
 warrigals
 carthorses
@@ -2126,7 +2126,7 @@ plow horses
 mules
 quaggas
 common zebras
-grevy's zebras
+grevy’s zebras
 mountain zebras
 black rhinocero
 Indian rhinoceross
@@ -2209,7 +2209,7 @@ Chinese alligators
 spectacled caimans
 African crocodiles
 Asian crocodiles
-Morlett's crocodiles
+Morlett’s crocodiles
 false gavials
 gavials
 agamas
@@ -2875,7 +2875,7 @@ angoumois moths
 potato moths
 Alsophila pometarias
 Paleacrita vernatas
-death's-head moths
+death’s-head moths
 Manduca quinquemaculatas
 Manduca sextas
 eggars
@@ -3002,7 +3002,7 @@ scyphozoans
 beroes
 platycteneans
 sea gooseberries
-Venus's girdles
+Venus’s girdles
 Astrophyton muricatums
 brittle stars
 feather stars
@@ -3077,7 +3077,7 @@ tooth shells
 peanut worms
 phoronids
 rotifers
-Venus's flower baskets
+Venus’s flower baskets
 Symbion pandoras
 woodborers
 acanthocephalans

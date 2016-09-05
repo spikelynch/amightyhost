@@ -315,7 +315,7 @@ margate
 pigfish
 pompon
 porkfish
-sailor's-choice
+sailor’s-choice
 Spanish grunt
 tomtate
 jawfish
@@ -472,7 +472,7 @@ plumed scorpionfish
 stonefish
 bullhead
 grubby
-miller's-thumb
+miller’s-thumb
 sea raven
 snailfish
 jacksmelt
@@ -638,7 +638,7 @@ diving petrel
 fulmar
 giant petrel
 Manx shearwater
-Mother Carey's chicken
+Mother Carey’s chicken
 stormy petrel
 white-chinned petrel
 procellariiform seabird
@@ -670,7 +670,7 @@ cygnet
 mute swan
 pen
 trumpeter
-Bewick's swan
+Bewick’s swan
 whistling swan
 whooper
 great bustard
@@ -716,7 +716,7 @@ Hudsonian godwit
 oystercatcher
 northern phalarope
 red phalarope
-Wilson's phalarope
+Wilson’s phalarope
 dotterel
 golden plover
 killdeer
@@ -746,7 +746,7 @@ red-breasted snipe
 great snipe
 jacksnipe
 whole snipe
-Wilson's snipe
+Wilson’s snipe
 banded stilt
 black-necked stilt
 black-winged stilt
@@ -775,7 +775,7 @@ dabbling duck
 diving duck
 drake
 duckling
-Barrow's goldeneye
+Barrow’s goldeneye
 mallard
 mandarin duck
 muscovy duck
@@ -827,9 +827,9 @@ tawny eagle
 buteonine
 buzzard
 chicken hawk
-Cooper's hawk
+Cooper’s hawk
 eyas
-Audubon's caracara
+Audubon’s caracara
 carancha
 gyrfalcon
 hobby
@@ -840,7 +840,7 @@ sparrow hawk
 goshawk
 marsh harrier
 marsh hawk
-Montagu's harrier
+Montagu’s harrier
 harrier eagle
 honey buzzard
 black kite
@@ -880,7 +880,7 @@ black vulture
 Egyptian vulture
 griffon vulture
 frogmouth
-chuck-will's-widow
+chuck-will’s-widow
 European goatsucker
 nighthawk
 poorwill
@@ -923,7 +923,7 @@ rock dove
 squab
 wood pigeon
 painted sandgrouse
-pallas's sandgrouse
+pallas’s sandgrouse
 pin-tailed sandgrouse
 solitaire
 curassow
@@ -1030,7 +1030,7 @@ blue jay
 common European jay
 American magpie
 European magpie
-Clark's nutcracker
+Clark’s nutcracker
 common nutcracker
 raven
 rook
@@ -1090,7 +1090,7 @@ purple grackle
 red-winged blackbird
 rusty blackbird
 Baltimore oriole
-Bullock's oriole
+Bullock’s oriole
 orchard oriole
 rifleman bird
 rock wren
@@ -1163,7 +1163,7 @@ gold-crowned kinglet
 goldcrest
 ruby-crowned kinglet
 lesser whitethroat
-Audubon's warbler
+Audubon’s warbler
 Blackburn
 blackpoll
 Cape May warbler
@@ -1173,7 +1173,7 @@ yellow-breasted chat
 ovenbird
 parula warbler
 water thrush
-Wilson's warbler
+Wilson’s warbler
 yellow warbler
 common yellowthroat
 blackcap
@@ -1203,7 +1203,7 @@ cock of the rock
 cock of the rock
 umbrella bird
 Arkansas kingbird
-Cassin's kingbird
+Cassin’s kingbird
 eastern kingbird
 grey kingbird
 western wood pewee
@@ -1324,7 +1324,7 @@ Atlantic walrus
 Pacific walrus
 dugong
 manatee
-Steller's sea cow
+Steller’s sea cow
 brown bat
 guano bat
 pocketed bat
@@ -1664,7 +1664,7 @@ Fissipedia
 Cynocephalus variegatus
 rock hyrax
 hedgehog
-brewer's mole
+brewer’s mole
 golden mole
 American shrew mole
 Asiatic shrew mole
@@ -1918,7 +1918,7 @@ common eland
 giant eland
 Gazella subgutturosa
 springbok
-Thomson's gazelle
+Thomson’s gazelle
 gerenuk
 gnu
 bushbuck
@@ -2023,7 +2023,7 @@ Japanese deer
 black-tailed deer
 muntjac
 musk deer
-pere david's deer
+pere david’s deer
 pricket
 brocket
 hart
@@ -2110,7 +2110,7 @@ stablemate
 stalking-horse
 steeplechaser
 stepper
-Przewalski's horse
+Przewalski’s horse
 tarpan
 warrigal
 carthorse
@@ -2126,7 +2126,7 @@ plow horse
 mule
 quagga
 common zebra
-grevy's zebra
+grevy’s zebra
 mountain zebra
 black rhinoceros
 Indian rhinoceros
@@ -2209,7 +2209,7 @@ Chinese alligator
 spectacled caiman
 African crocodile
 Asian crocodile
-Morlett's crocodile
+Morlett’s crocodile
 false gavial
 gavial
 agama
@@ -2875,7 +2875,7 @@ angoumois moth
 potato moth
 Alsophila pometaria
 Paleacrita vernata
-death's-head moth
+death’s-head moth
 Manduca quinquemaculata
 Manduca sexta
 eggar
@@ -3002,7 +3002,7 @@ scyphozoan
 beroe
 platyctenean
 sea gooseberry
-Venus's girdle
+Venus’s girdle
 Astrophyton muricatum
 brittle star
 feather star
@@ -3077,7 +3077,7 @@ tooth shell
 peanut worm
 phoronid
 rotifer
-Venus's flower basket
+Venus’s flower basket
 Symbion pandora
 woodborer
 acanthocephalan

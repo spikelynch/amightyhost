@@ -2224,7 +2224,7 @@ Maja E Zithit
 Maja E Suksit
 Maja Suçelit
 Maja E Sturos
-Strung' E Gurit
+Strung’ E Gurit
 Spardhi E Molungës
 Maja E Sorrës
 Maja E Skënderbeut
@@ -3049,20 +3049,20 @@ Norumnuten
 Nostoc Flats
 Novasio Ridge
 Novocin Peak
-Kupol Novosil'Skogo
+Kupol Novosil’Skogo
 Nupshamrane
 Nupskammen
 Beale Pinnacle
 Nupskåpa Peak
 Nussbaum Riegel
-O'Brien Peak
-O'Donnell Peak
-O'Leary Peak
-O'Leary Ridges
-O'Neal Ridge
-O'Neill Peak
-O'Shea Peak
-Pico O'Sullivan
+O’Brien Peak
+O’Donnell Peak
+O’Leary Peak
+O’Leary Ridges
+O’Neal Ridge
+O’Neill Peak
+O’Shea Peak
+Pico O’Sullivan
 Bean Peaks
 Obelisk
 Oberon Peak
@@ -3223,7 +3223,7 @@ Pliska Ridge
 Hrebet Podkova
 Holm Podlëdnyj Kupol
 Poindexter Peak
-Vozvyshennost' Pojarkova
+Vozvyshennost’ Pojarkova
 Pojeta Peak
 Polaris Peak
 Polarstar Peak
@@ -3544,7 +3544,7 @@ Sisco Mesa
 Sistenup
 Skaar Ridge
 Skakktoppen
-Massif Skal'Nyj Nos
+Massif Skal’Nyj Nos
 Skålebrehalsen Terrace
 Ustup Skalistyj
 Skanseryggen
@@ -3736,7 +3736,7 @@ Taizi Ling
 Blåklettane
 Tambovskajatoppen
 Tammann Peaks
-Pik Tanfil'Eva
+Pik Tanfil’Eva
 Tanglefoot Peak
 Tankobu Yama
 Tanna
@@ -3802,7 +3802,7 @@ Todd Ridge
 Todtskota
 Tofteaksla
 Tokarski Peak
-Pik Tol'Jatti
+Pik Tol’Jatti
 Tom-Wright-Rücken
 Tongue Peak
 Tonynuten
@@ -3894,7 +3894,7 @@ Valterkulten
 Vann Peak
 Vanni Peak
 Vardeklettane
-Pik Vasil'Eva
+Pik Vasil’Eva
 Pik Vasilija Struve
 Pico Vauréal
 Vedskålen
@@ -4563,7 +4563,7 @@ Burnside Ridges
 Burrage Dome
 Burro Peaks
 Butcher Ridge
-Butcher'S Spur
+Butcher’S Spur
 Butler Peaks
 Butson Ridge
 Buttress Peak
@@ -4969,7 +4969,7 @@ Forecastle Summit
 Foreman Peak
 Forlidas Ridge
 Cordillera Diamante
-Pik Forshteven'
+Pik Forshteven’
 Førstefjellsrabben
 Arenite Ridge
 Fortress The
@@ -5090,8 +5090,8 @@ Goolsnuten
 Gordon Peak
 Gordonnuten
 Pik Goreva
-Gorgons' Head
-Gor'Kijryggen
+Gorgons’ Head
+Gor’Kijryggen
 Arthurson Ridge
 Göstapiggane
 Gothic Peak
@@ -5606,7 +5606,7 @@ Louis Philippe Plateau
 Louise Peak
 Roca Baja
 Low Summit
-Grjada Bar'Ernaja
+Grjada Bar’Ernaja
 Lubbock Ridge
 Lumière Peak
 Cerro Luna
@@ -15996,7 +15996,7 @@ Breaker Peak
 Breccia Peak
 Breeze Peak
 Breidablik Peak
-Brewster'S Wall
+Brewster’S Wall
 Brian Boru Peak
 Bridge Peak
 Bridgland Peak
@@ -16221,7 +16221,7 @@ Côte Chez Ti-Toine
 Côte Des Blanchet
 Côte Du Bélier
 Côte Du Côtoyage
-Côtes De L'Égypte
+Côtes De L’Égypte
 Courcelette Peak
 Cove Cliff
 Cow Path
@@ -16276,10 +16276,10 @@ Devereux Peak
 Deviation Peak
 Devil Rock
 Devils Bed
-Devil'S Door
+Devil’S Door
 Devils Half Acre
 Devils Pulpit
-Devil'S Rock
+Devil’S Rock
 Dewar Peak
 Dewdney Peak
 Diadem Peak
@@ -16323,7 +16323,7 @@ Ducot Peak
 Duffey Peak
 Duffy Peaks
 Dugong Peak
-Duke'S Profile
+Duke’S Profile
 Dungeon Peak
 Dunn Peak
 Eagle Crag
@@ -16333,7 +16333,7 @@ Eaglehead Peak
 Eagle Hills Escarpment
 Eagle Nest
 Eagles Beak
-Eagle'S Nest Bluff
+Eagle’S Nest Bluff
 Eagles Nest Peak
 East Cliff
 Eastern Brook Mountains
@@ -16368,7 +16368,7 @@ Entry Peak
 Ernest Peak
 Erratum Peak
 Escarpement Bagot
-Escarpement D'Eardley
+Escarpement D’Eardley
 Escarpement Du Vieux Fort
 Escarpement Eyrie
 Escarpement Tryon
@@ -16377,7 +16377,7 @@ Esja Peak
 Eskimo Peak
 Esmeralda Peak
 Estero Peak
-Esther'S Bluff
+Esther’S Bluff
 Etsho Escarpment
 Eureka Peak
 Eutsuk Peak
@@ -16419,7 +16419,7 @@ Falaise Puyjalon
 Falaise Qarqakallak
 Falaise Qutairquq
 Falaise Rouge
-Falaises De L'Avalanche
+Falaises De L’Avalanche
 Falaises Innaajuit
 Falaise Siqiniqutialuk
 Falaise Situniq
@@ -16594,7 +16594,7 @@ Harbour Peak
 Hardinge Mountains
 Hardy Peak
 Hardys Bank
-Hare'S Ears
+Hare’S Ears
 Harlech Peak
 Harmon Peak
 Harpoon Peak
@@ -16772,7 +16772,7 @@ La Falaise
 Lagoon Peak
 La Grande Côte
 La Haute Falaise
-La Jack'S Bluff
+La Jack’S Bluff
 Lakes Peak
 Lakeview Peak
 La Petite Côte
@@ -16821,7 +16821,7 @@ Lizzie Peak
 Llama Peak
 Lluvia Peak
 Llysfran Peak
-Lockie'S Table
+Lockie’S Table
 Lockwood Peak
 Loder Peak
 Logan Mountains
@@ -16831,7 +16831,7 @@ Lone Peak
 Long Range Mountains
 Longspur Peak
 Lord Mayor Peak
-L'Orsa Peak
+L’Orsa Peak
 Lower Bauline
 Lower Ramparts
 Lower Shuffle
@@ -17041,11 +17041,11 @@ Ogilvie Mountains
 Ogilvie Peak
 Ogre Peak
 Old Baldy
-Old Women'S Buffalo Jump
+Old Women’S Buffalo Jump
 Oluk Peak
 Omineca Mountains
 Omoo Peak
-O'Neil Peak
+O’Neil Peak
 Opal Peak
 Opeongo Mountains
 Oriana Peak
@@ -17092,7 +17092,7 @@ Passage Peak
 Pass Peak
 Pat Peak
 Patterson Cliffs
-Patterson'S Peak
+Patterson’S Peak
 Pattinson Peak
 Paul Peak
 Pauls Peak
@@ -17246,7 +17246,7 @@ Roaring Peaks
 Robb Bluff
 Robertson Peak
 Robinson Peaks
-Roche-Qui-Trempe-À-L'Eau
+Roche-Qui-Trempe-À-L’Eau
 Roches Peak
 Rock Island Peak
 Rock Ridge Peak
@@ -17300,7 +17300,7 @@ Selkirk Mountains
 Selkirk Peak
 Seltat Peak
 Selwyn Mountains
-Sem'Am Peak
+Sem’Am Peak
 Sentry Peak
 September Mountains
 Serna Peak
@@ -17751,7 +17751,7 @@ Wreck Cliff
 Wright Peaks
 Wrinkly Face Cliff
 Wrong Peak
-Xk'Aat'Aapgwit
+Xk’Aat’Aapgwit
 Yak Peak
 Yalta Peak
 Yanks Peak
@@ -17951,7 +17951,7 @@ Franches Montagnes
 Pointe De Fornets
 Piz Fora
 Piz Fess
-Piz D'Err
+Piz D’Err
 Ebenfluh
 Piz Duan
 Diablerets
@@ -17987,7 +17987,7 @@ Dufourspitze
 Alphubel
 Nadelhorn
 Petit Combin
-Pigne D'Arolla
+Pigne D’Arolla
 Pollux
 Castor
 Breithorn Orientale
@@ -17998,7 +17998,7 @@ Colle Del Breuil
 Hörnli
 Tête De Chavannes
 Dents Des Bouquetins Nord
-L'Evêque
+L’Evêque
 Pizz Gallagiun
 Monte Ragorio
 Pizzo Di Lago
@@ -18043,15 +18043,15 @@ Six Du Doe
 Monte San Giorgio
 Combin Du Meitin
 Chli Matterhorn
-L'Aglan
+L’Aglan
 Aiguille Du Croissant
 Tête De Vare
 Le Mourin
-L'Aiguillette
+L’Aiguillette
 Petite Aiguille
 Pointe De Revedin
-Roc De L'Oiseau
-L'Eudenna
+Roc De L’Oiseau
+L’Eudenna
 Pointe Morin
 Pointe De Penne
 Le Moine
@@ -18065,9 +18065,9 @@ Grande Aiguille
 Revers De La Chaux De Champlong
 Furgghorn
 Mulets De La Tsessette
-Aiguille De L'A Neuve
+Aiguille De L’A Neuve
 Pointe De La Petite Lire
-L'Epée
+L’Epée
 Les Six Rouges
 Chli Triftji
 Pointes Des Essettes
@@ -18159,8 +18159,8 @@ Clocher De Cheilon
 Pointes Des Chevrettes
 Le Pissoir
 Wandfluehorn
-Pointe D'Orny
-Aiguille D'Orny
+Pointe D’Orny
+Aiguille D’Orny
 Crête Du Plan
 Pizzo Mondelli
 Grand Aget
@@ -18192,7 +18192,7 @@ Spähnhörner
 Pfulwe
 Wisse Tschuggen
 Sunnegga
-Tête D'Arpette
+Tête D’Arpette
 Mont Brûlé
 Rotturm
 Spitzi Flue
@@ -18231,7 +18231,7 @@ Pointe De Tsalion
 Hohwänghorn
 Six Né
 Grand Gendarme
-Clochers D'Arpette
+Clochers D’Arpette
 Innere Turre
 Jazzihorn
 Tête De Balme
@@ -18302,7 +18302,7 @@ Mettelhorn
 Rochers Des Ecoulaies
 Mittel Allalin
 Tête Du Loup
-Treutse À L'Aille
+Treutse À L’Aille
 Lui Tsardon
 Unter Äschhorn
 Pizzo Scarone
@@ -18338,22 +18338,22 @@ Coronette Di Camposecco
 Le Miroir
 Pointe De Vouasson
 Blanc De Moming
-Becca D'Agè
+Becca D’Agè
 Bec Des Rosses
 Ptes. De Mourti
 Pointe Sud De Moming
 Leiterspitzen
-Mont De L'Etoile
+Mont De L’Etoile
 Sonnighorn
 Mont Blava
 Egginer
 Grand Mont Calme
 Kinhorn
 Sonniggrat
-Mont De L'Arpille
+Mont De L’Arpille
 La Reffa
 Tête À Gay
-Tsa De L'Ano
+Tsa De L’Ano
 Besso
 Monts De Sion
 Loitecondoi
@@ -18364,13 +18364,13 @@ Bel Oiseau
 Ptes. Des Autans
 Pigne De La Lé
 Tête Des Pelottes
-Pointe D'Allèves
+Pointe D’Allèves
 Pointe De Moiry
 Schalihorn
 Mittaghorn
 Volermo
 Längflue
-Vers L'Homme
+Vers L’Homme
 Unters Horn
 Tête Des Ottans
 Rionde
@@ -18410,7 +18410,7 @@ Cima Torrione
 Mel De La Niva
 Mont De La Barme
 Sex Des Madeleines
-Dent D'Emaney
+Dent D’Emaney
 Hohgwächte
 Eggflue
 Portjengrat
@@ -18424,19 +18424,19 @@ Mines Les
 Sex Joliet
 Mont Rogneux
 Portjenhorn
-Pointe D'Etava
+Pointe D’Etava
 Monte Bar
 Unteres Distelhorn
 Pizzo Del Büsin
-Râz D'Arbey
+Râz D’Arbey
 Manera
 Mugia
 Arête De Chassoure
 Pointe Du Tsaté
-Pointe D'Arpitetta
+Pointe D’Arpitetta
 Mittelgrätji
 Stecknadelhorn
-L'Arpette
+L’Arpette
 Hobärghorn
 Monte Gambarogno
 Les Blisiers
@@ -18450,7 +18450,7 @@ Dents Rousses
 Pointe Du Prélet
 Sex Frei
 Cima Del Rosso
-Pic D'Artsinol
+Pic D’Artsinol
 Pointe Des Champs Ferret
 Les Louèrettes
 Poncionino Della Macello
@@ -18486,13 +18486,13 @@ Le Tsarvo
 Sex Des Granges
 Rocce Del Gridone
 Fumadiga
-Pointe D'Aboillon
+Pointe D’Aboillon
 Säldgalen
 Les Creusis
 La Chaux
 Le Fou
 Zibelenfluehorn
-L'Epaule
+L’Epaule
 Bruflüe
 Schwarzmies
 Tossenhorn
@@ -18513,7 +18513,7 @@ Cima Calescio
 Première Dent
 Testa Di Misello
 Les Louettes Econdouè
-L'Uomo Del Sasso
+L’Uomo Del Sasso
 Dent Du Signal
 Le Dôme
 Pointe Bourdillon
@@ -18529,7 +18529,7 @@ Prafleuri
 Stierberg
 Pointe De Mandelon
 Arête De Sorebois
-L'Eglise
+L’Eglise
 Motta Blantse
 Muttetosse
 Diablon Des Dames
@@ -18556,12 +18556,12 @@ Tête Des Seneires
 Irgilihorn
 Adlerflüe
 Sex Carro
-Crête D'Essertse
+Crête D’Essertse
 Scrigno Di Poltrinone
 La Berthe
-Gouille À L'Ours Tzoumaz
+Gouille À L’Ours Tzoumaz
 Galihorn
-Croix D'Increne
+Croix D’Increne
 Schilthorn
 Signal De Bonavau
 Sex De Marinda
@@ -18588,7 +18588,7 @@ Färichhorn
 Capjigrat
 Dent De Nendaz
 Pointe De La Léchère
-Tour D'Antème
+Tour D’Antème
 Furmulegrat
 Pierre Carrée
 La Vierge
@@ -18601,7 +18601,7 @@ Wängerhorn
 Gässispitz
 Rochers De Gagnerie
 Jegigrat
-Chaux D'Antème
+Chaux D’Antème
 Pointe De La Tsevalire
 Les Doigts
 Cima Del Tirone
@@ -18620,12 +18620,12 @@ La Tsermetta
 Savoune
 Rihorn
 Plattja
-L'Eperon
+L’Eperon
 Pointe De Bésery
 Château Tour
 Sibilufluegrat
 Crête De Barneuza
-L'Etherolla
+L’Etherolla
 Pointe De Ripaille
 La Cathédrale
 Üssers Stellihorn
@@ -18639,9 +18639,9 @@ Brändjihorn
 Tête Motte
 Punta Della Forcoletta
 Wasuhorn
-L'Omèn Roso
+L’Omèn Roso
 Croix De Culet
-L'Aiguille
+L’Aiguille
 Stalblatte
 Tête De La Croix
 Seetalhorn
@@ -18693,8 +18693,8 @@ Jorniva
 Signal De Soi
 Pointes De Nava
 Tête Du Petit Cor
-Motto D'Arbino
-Petit Château D'Oex
+Motto D’Arbino
+Petit Château D’Oex
 Petit Château
 Stock
 Bodmerhorn
@@ -18708,14 +18708,14 @@ Chatzulecher
 Sex Blanc
 Le Boudri
 Wannehorn
-Croix De L'Hiver
+Croix De L’Hiver
 Furggwanghorn
 Dent De Valère
 Pointe Du Grand Cor
 Roc Champion
 La Seya
 La Tsantonnaire
-Roc D'Orzival
+Roc D’Orzival
 Cadolcia
 Bec De Nava
 Wyssgrat
@@ -18725,11 +18725,11 @@ Rossbode
 Tita Sèri
 Grossi Furgge
 Böshorn
-L'Ardève
+L’Ardève
 Wyssegga
 Simelihorn
 Cima Di Paina
-Pointe De L'Au
+Pointe De L’Au
 Gigihorli
 Ritzuegg
 Cimetta Di Cardada
@@ -18741,7 +18741,7 @@ Steitalhorn
 Lägunde Tschugge
 Chäscherna
 Six Armaille
-Pointe De L'Erse
+Pointe De L’Erse
 Twära
 Sassariente
 Le Toûno
@@ -18779,8 +18779,8 @@ Tour De Bonvin
 La Brinta
 Cima Di Morisciolo
 Pointe Des Perris Blancs
-Pte D'Aufalle
-Pointe D'Aufalle
+Pte D’Aufalle
+Pointe D’Aufalle
 Pigne De Combavert
 Sasso Torasco
 Les Ancillons
@@ -18797,7 +18797,7 @@ Rieberg
 Augstbordgrat
 Ochsehorn
 Monte Castella
-Cima D'Erbea
+Cima D’Erbea
 Poncione Del Rosso
 Motto Dei Ciapitt
 Dreizehntenhorn
@@ -18817,7 +18817,7 @@ Petit Muveran
 Mater De Paia
 Howeng
 Hotosse
-Tête De L'Ortière
+Tête De L’Ortière
 Croix De Javerne
 Borterhorn
 Mont Major
@@ -18847,7 +18847,7 @@ Pizzo Paglia
 Gaggio
 Borthorn
 Simmiggrätji
-Cima Dell'Uomo
+Cima Dell’Uomo
 Piz Martèl
 Magehorn
 Sass Mogn
@@ -18855,7 +18855,7 @@ Mällich
 Pianchina
 Petite Chaux
 Tällispitze
-Pizzo D'Avino
+Pizzo D’Avino
 Pointe Des Savolaires
 Augstbordhorn
 Puncio
@@ -18890,12 +18890,12 @@ Pianca
 Pizzo Di Porcaresc
 Sasso Del Boscaccio
 Grat
-Cima D'Aspra
+Cima D’Aspra
 Tita Naire
-Pizzo D'Orgnana
+Pizzo D’Orgnana
 Altstafelhorn
 Pizzo Valgrande
-Piz D'Uria
+Piz D’Uria
 Straffelgrat
 Sex Riond
 Pizzo Della Cavegna
@@ -18915,7 +18915,7 @@ Giümelin
 Salariél
 Pointe De Paneirosse
 Brunnethorn
-Piz D'Ugin
+Piz D’Ugin
 Pizzo Cramalina
 Rinderhorn
 Piz De Sambrog
@@ -18939,7 +18939,7 @@ Gli Amonciei
 Portes De Culet
 Cima Di Nimi
 Piz Mürasc
-Pierre Qu'Abotse
+Pierre Qu’Abotse
 Tête De La Torrens
 Madonnetto
 Arête De Pré Fleuri
@@ -18963,7 +18963,7 @@ Emshorn
 Rossa
 Punta Maror
 Pizzo Murascio
-Pizzo D'Eus
+Pizzo D’Eus
 Zucchero
 Wasenhorn
 Roggione
@@ -18975,7 +18975,7 @@ Pizzo Molinera
 Meschlertotz
 Mont Tservet
 Rossetto
-Lion D'Argentine
+Lion D’Argentine
 Madom Da Sgióf
 Cima Di Catögn
 Motarüch
@@ -19022,7 +19022,7 @@ Cima Del Masnee
 Motta De Carnac
 Tête Des Filasses
 Furggubäumhorn
-Punta D'Aurona
+Punta D’Aurona
 Pointe Des Ombrieux
 Cresti Da Vartegna
 Piz Forcletta
@@ -19036,14 +19036,14 @@ Piz Di Renten
 Piz De La Piodella
 Spitzhörnli
 Glishorn
-Tour D'Anzeinde
+Tour D’Anzeinde
 Pizzo Morisciöi
 Piz Gandaiole
 Plan Tempesta
 Prabé
 Moncui
 Cima Vallaperta
-Grand'Combe
+Grand’Combe
 Matarello
 Zanella
 Pizzo Croadino
@@ -19062,7 +19062,7 @@ Pizzo Sascòla
 Cornasc
 Single
 Pizzo Verde
-Poncione D'Alnasca
+Poncione D’Alnasca
 Pizzo Dromegio
 Matterello
 Mot Ciarin
@@ -19082,7 +19082,7 @@ Sasso Di Magnello
 Cima Delle Piodelle
 Poncione Piancascia
 Torrone Di Canè
-Pointe D'Aussel
+Pointe D’Aussel
 Poncione Rosso
 Cima Di Vacarisc
 Torrone Rosso
@@ -19095,7 +19095,7 @@ Piz Trevisina
 Sasso Rosso
 Sürrigg
 Ago Di Sciora
-Tête D'Enfer
+Tête D’Enfer
 Ptes. De Châtillon
 Punta Mottiscia
 Kleinhorn
@@ -19118,7 +19118,7 @@ Pizzo Dei Vanni
 Pian Crosc
 Cima Di Rosso
 Crêta Besse
-Motta D'Ur
+Motta D’Ur
 Cima Lunga
 Pizzo Coca
 Cima Dal Cantun
@@ -19129,7 +19129,7 @@ Cima Di Vazzeda
 Cima Cioltro
 Tour St. Martin
 Piz Della Molera
-Costi D'Ur
+Costi D’Ur
 Stegnone
 Pointe Des Tsarmettes
 Pizzo Muretto
@@ -19138,13 +19138,13 @@ Aiguille De Braite
 La Borne
 Dent Blanch
 Pizzo Del Motto
-Tête De L'Avalanche
-Pointe D'Arpille
+Tête De L’Avalanche
+Pointe D’Arpille
 Fort Da Sciora
 Corno Delle Ruzze
 Innominata
 Denc Dal Luf
-L'Om
+L’Om
 Seewjihorn
 Costa Dei Russi
 Piz Padion
@@ -19174,11 +19174,11 @@ Pizzo Castello
 Mottale
 Punta Dèvero
 Sex Du Coeur
-Sass D'Argent
-Punta Da L'Albigna
+Sass D’Argent
+Punta Da L’Albigna
 Cima Di Rierna
 Blattjegrat
-Pointe D'Arvouin
+Pointe D’Arvouin
 Cima Di Piatto
 Folluhorn
 Le Planellet
@@ -19213,9 +19213,9 @@ Mot Di Curt
 Martschenspitz
 Tunetschhorn
 Mont Lachaux
-Pointe D'Hérémence
+Pointe D’Hérémence
 Wannihorn
-Becca D'Audon
+Becca D’Audon
 Pizzo Ricuca
 Al Gal
 Scaiee
@@ -19232,7 +19232,7 @@ Costone
 Rochers De Chaudin
 Fleschhorn
 Madonino
-Monte Dell'Oro
+Monte Dell’Oro
 Pizzo Del Cocco
 Wannibode
 Sassalb
@@ -19242,7 +19242,7 @@ Meiggerhorn
 Punta Marani
 Ober Olden
 Corni Di Poz
-Cry D'Er
+Cry D’Er
 Sgemögna
 Piz Campanin
 Rasiva
@@ -19250,17 +19250,17 @@ Pizzet
 Camino
 Piz Casnil
 Pierre Meule
-Cima D'Örz
+Cima D’Örz
 Pizzo Della Rossa
-Sur L'Enfer
+Sur L’Enfer
 Undere Guggerhubel
 Piz Balzet
 Mont Brun
 Piz Stabiuch
-Cima D'Aion
+Cima D’Aion
 Motta De Riveu
 Milihorn
-Arête De L'Arpille
+Arête De L’Arpille
 Birgischgrat
 Hohgibirg
 Mälchgrat
@@ -19271,12 +19271,12 @@ Fiamma
 Chambairy
 Tschuggmatten
 Tête Aux Chamois
-Pizzo D'Orsalìa
+Pizzo D’Orsalìa
 Nägelihorn
 Planitschat
 Six Des Eaux Froides
 Piz De Cogol
-Cima D'Efra
+Cima D’Efra
 Fil De Nomnom
 Cima De Nomnom
 Sassa Nera
@@ -19409,7 +19409,7 @@ Cänt Dal Gerl
 Drillinge
 Cima Di Partüs
 Pizzun
-Ganne D'Airòld
+Ganne D’Airòld
 Salin Da La Margna
 Faldumrothorn
 Schafhorn
@@ -19550,14 +19550,14 @@ Piz Aguagliouls
 Cima Bianca
 Walliser Wispile
 Om De Piotta
-Mont D'Or
+Mont D’Or
 Grosses Fülhorn
 Pizzo Di Borgéno
 Daubenhorn
 La Margneta
 Sass Dal Pos
 Piz De Front
-L'Äla
+L’Äla
 Cima Da La Sovräna
 Schneehore
 Piz Di Strega
@@ -19579,7 +19579,7 @@ Mottan
 Holzerspitz
 Malatraix
 Sparrhorn
-Cresta D'Arlas
+Cresta D’Arlas
 Piz Mungiroi
 Holzersflue
 Gros Van
@@ -19597,7 +19597,7 @@ Tête De Clé
 Aguagliouls
 Daube
 Cima De Verchenca
-Pizzo D'Ogliè
+Pizzo D’Ogliè
 Moosfluo
 Pizzo Mèdola
 Pizzo Della Bedéia
@@ -19612,9 +19612,9 @@ Filo Di Remia
 Hinderi Wispile
 Kleines Nesthorn
 Piz Campasc
-Piz D'Arlas
+Piz D’Arlas
 Gubihubel
-Muott'Ota
+Muott’Ota
 Arpeliflue
 Rayes De Toumalay
 Piz Bles
@@ -19668,7 +19668,7 @@ Piz Dal Sasc
 Flueseehöri
 Ferdenrothorn
 Diavolezza
-Pointe De L'Aiguille
+Pointe De L’Aiguille
 Mittelgipfel
 Pizzo Dei Foiòi
 Matro
@@ -19717,7 +19717,7 @@ Corn Boval
 Ammertehore
 Stübleni
 Flueschafberg
-Pointe D'Aveneyre
+Pointe D’Aveneyre
 Arbächnubel
 Filo Di Revi
 Oberlaubhore
@@ -19758,7 +19758,7 @@ Les Dentaux
 Croce Di Sasso
 Staldenflüe
 Lonzahörner
-L'Uomo
+L’Uomo
 Pizzo Pecora
 Ils Homins
 Piz Ursera
@@ -19780,7 +19780,7 @@ Corte Del Piatto
 Pizzo Penca
 Fusshörner
 Herchummegrat
-Piz D'Arbeola
+Piz D’Arbeola
 La Barillette
 Tscheischhorn
 Felshore
@@ -19863,9 +19863,9 @@ Louwenehore
 Pizzo Canà
 Bummeregrat
 Beichgrat
-Piz D'Emmat Dadaint
+Piz D’Emmat Dadaint
 Ptes. De Sur Combe
-Tête De L'Ane
+Tête De L’Ane
 Bliejenduspitza
 Chapütschöl
 Üschenegrat
@@ -19896,8 +19896,8 @@ Dent De Jaman
 Tschingellochtighore
 Piz Lagrev
 Ringjini
-Piz D'Emmat Dadora
-Pizzo Dell'Arzo
+Piz D’Emmat Dadora
+Pizzo Dell’Arzo
 Wandeliflue
 Pizzo Piandugiöi
 Elwertätsch
@@ -19962,14 +19962,14 @@ Pizzo Campolungo
 Pizzo Lei Di Cima
 Pizzo Cavagnöö
 Schiahorn
-Crasta D'Albris
+Crasta D’Albris
 Honegga
 Piz Rosatsch
 Pizzo Delle Löite
 Puntone Della Parete
 Luser
 Cresta Del Coro
-All'Uomo
+All’Uomo
 Scheebode
 Piz Polaschin
 Seeflüe
@@ -20005,7 +20005,7 @@ Piz Surparé
 Poncione Di Valleggia
 Motto Crostel
 Cima Della Costa
-Cuolm D'Mez
+Cuolm D’Mez
 Tête De Chat
 Scheggione
 Piz De Mucia
@@ -20029,7 +20029,7 @@ Erstes Dreieck
 Muot Dadains
 Il Corn
 Innere Fisistock
-Piz Da L'Ova Cotschna
+Piz Da L’Ova Cotschna
 Kleines Dreieckhorn
 Jegichnubel
 Cima Di Colle Scengio
@@ -20044,7 +20044,7 @@ Piz Dal Fain
 Jegertosse
 Puntone Dei Fraciòn
 Cima Di Gana Bianca
-Muot D'Mez
+Muot D’Mez
 Munt San Gian
 Pizzo Nass
 Cima Dei Toroi
@@ -20099,7 +20099,7 @@ Le Folly
 Chüern Nair
 Drittes Dreieck
 Pizzo Gararesc
-Muntognas Digl'S Lajets
+Muntognas Digl’S Lajets
 Seewlehore
 Costa Della Lògia
 Anuchnubel
@@ -20168,7 +20168,7 @@ Hammer
 Hüenerspil
 Plattahorn
 Muot Cotschen
-Pizzo Piano D'Ört
+Pizzo Piano D’Ört
 La Laitemaire
 Motto Del Toro
 Pizzo Sassello
@@ -20309,7 +20309,7 @@ Spih Dal Buoch
 Punta Dello Stambecco
 Grand Sex
 Uomo Del Prüch
-Piz D'Agnel
+Piz D’Agnel
 Piz Da Las Sterlas
 Tschingelgrat
 Tschimas Da Muottas
@@ -20357,8 +20357,8 @@ Grünhörnli
 Lauihorn
 Hinter Berg
 Bütlasse
-Vanil De L'Aille
-Pizzo D'Era
+Vanil De L’Aille
+Pizzo D’Era
 Hugeligrat
 Obere Stock
 Roti Flüe
@@ -20375,7 +20375,7 @@ Piz Corviglia
 Forca
 Pécian
 Muottas Muragl
-Vanil De L'Arche
+Vanil De L’Arche
 Kranzberg
 Le Pipe
 Sur Combe
@@ -20449,7 +20449,7 @@ Piz Utèr
 Schafläger
 Schafsitachopf
 Piz Saluver
-Uomo D'Arbione
+Uomo D’Arbione
 Las Trais Fluors
 Drümännler
 Pizzatsch
@@ -20460,7 +20460,7 @@ Undere Wannespitz
 Piz La Mazza
 Rothörnli
 Schwarz Turra
-Poncione D'Arbione
+Poncione D’Arbione
 Rottalhorn
 Grosses Grünhorn
 Poncione Pro Do Rodùc
@@ -20478,7 +20478,7 @@ Raufliegg
 Telleregrat
 Chli Leckihorn
 Haute Combe
-Tête De L'Herbette
+Tête De L’Herbette
 Teysachaux
 Piz Marsch
 Chistihubel
@@ -20520,7 +20520,7 @@ Birehubel
 Sass Alv
 Schneitgrat
 Goldenhoren
-Cho D'Suvretta
+Cho D’Suvretta
 Grosses Sidelhorn
 Brochenhorn
 Hundshubel
@@ -20549,9 +20549,9 @@ Piz Spegnas
 Scheuchzerhorn
 Punta Di Rims
 Pizzo Rossetto
-Spunda Da L'Iva
+Spunda Da L’Iva
 Chalberhöri
-Pizzo Dell'Uomo
+Pizzo Dell’Uomo
 Margunin
 Wenglispitz
 Nüwerad
@@ -20577,7 +20577,7 @@ Chrüzturra
 Davos Mots
 Sphinx
 Scara Orello
-Cho D'Valletta
+Cho D’Valletta
 Pizzo Di Cadrèigh
 Pizzo Tom
 Fanellhorn
@@ -20632,7 +20632,7 @@ Piz Vaüglia
 Husegg
 Zahm Andrist
 Poncione Gariói
-Crest'Ota
+Crest’Ota
 Nasse Strahlegg
 Vordre Zinggenstock
 Pizzo Corandoni
@@ -20653,7 +20653,7 @@ Desorstock
 Piz Chazforà
 Crasta Sütta
 Hundsrügg
-Piz D'Alp Val
+Piz D’Alp Val
 Bidmer
 Escherhorn
 Fromattgrat
@@ -20661,7 +20661,7 @@ Hartlishore
 Monts De Bière
 Plattenberg
 Pizzo Taneda
-Vanil De L'Ardille
+Vanil De L’Ardille
 Schijenmännli
 Fanellgrätli
 Bleschaturra
@@ -20793,7 +20793,7 @@ Hochmatt
 Piz Miez
 Piz Martegnas
 Geisshörnli
-Piz Da L'Antgierna Da Salteras
+Piz Da L’Antgierna Da Salteras
 Pizzo Pianca
 Schollengrat
 Bietenhorn
@@ -20803,9 +20803,9 @@ La Rossa
 Piz Val Nova
 Bündihore
 Piz Conteschas
-Piz Mon'Ata
+Piz Mon’Ata
 Muotta Pitschna
-Pizzo D'Orsirora
+Pizzo D’Orsirora
 Schlafbiel
 Piz La Capiala
 Piz Chalderas
@@ -20815,7 +20815,7 @@ Fil Curnera
 Piz Pala Gronda
 Caschlera
 Fallbodenhubel
-Foras D'Nes
+Foras D’Nes
 Urschelgrat
 Piz Dal Döss Radond
 Wiriehore
@@ -20840,7 +20840,7 @@ Drättehorn
 Eggturm
 Marchzähne
 Rot Grind
-Mon'Ata
+Mon’Ata
 Dent Du Chamois
 Gross Schatz
 Steilerhorn
@@ -20868,7 +20868,7 @@ Alperschällihorn
 Hintere Bultschnere
 Chli Schatz
 Ougstmatthorn
-Mona D'Immez
+Mona D’Immez
 Dent De Broc
 Glütschhöreli
 Gastlosen
@@ -20943,7 +20943,7 @@ Pizza Grossa
 Vizan Pintg
 Chli Bielenhorn
 Strätscherhorn
-Pizzas D'Anarosa
+Pizzas D’Anarosa
 Sidelenhorn
 Halbmond
 Tschuggen
@@ -21012,7 +21012,7 @@ Piz Canal
 Muttolta
 Saasegg
 Piz Pian
-Piz D'Uglix
+Piz D’Uglix
 Som Muntatsch
 Piz A Spescha
 Gloggespitz
@@ -21032,7 +21032,7 @@ Nideri Sulegg
 Piz Mitgel
 Pfadspitz
 Piz Cotschen
-Spih D'Esan
+Spih D’Esan
 Fil Da Stidier
 Piz Neaza
 Golegghoren
@@ -21049,7 +21049,7 @@ Piz Curvet
 Tschimas Da Tisch
 Tuors Paradis
 Pros Da Laret
-Vanil D'Arpille
+Vanil D’Arpille
 Steinlouwihorn
 Spi Da Val Sassa
 Tgiern Da Vanescha
@@ -21066,7 +21066,7 @@ Piz Daint
 Standhore
 Fil Blengias
 Bärenbodengrind
-Aguoglia D'Es-Cha
+Aguoglia D’Es-Cha
 Gletschhorn
 Dent De Vounetse
 Piz Tagliola
@@ -21082,7 +21082,7 @@ Piz Mellen
 Abendberg
 Davos La Buora
 Mutaun
-Crap L'Evla
+Crap L’Evla
 Piz Dal Diavel
 Schopfenspitz
 Botta Cuolm
@@ -21098,12 +21098,12 @@ Chaux De Férédetse
 Crap Neir
 Dürriflue
 Triesthore
-Piz D'Esan
+Piz D’Esan
 Stampfhoren
 Plan Palé
 Curvér Pintg Da Taspegn
 Müeterlishorn
-Porta D'Es-Cha
+Porta D’Es-Cha
 Hick
 Abendberghürleni
 Breitengrat
@@ -21188,7 +21188,7 @@ Chemiflue
 Mittagflue
 Piz Porchabella
 Unteri Luchere
-Munt D'Arpschella
+Munt D’Arpschella
 Muntet
 Gelmerhörner
 Schwarzstöckli
@@ -21208,7 +21208,7 @@ Rotenegg
 Fil Tuma
 Vanil Des Cours
 Patraflon
-Fil D'Alpetta
+Fil D’Alpetta
 Holzerhore
 Spitzflue
 Döss Dals Jals
@@ -21320,8 +21320,8 @@ Chiemattenhubla
 Gandschijen
 Triftstöckli
 Bättlerhoren
-Piz Da L'Hom
-Muot Da L'Hom
+Piz Da L’Hom
+Muot Da L’Hom
 Muottas Da Grimmels
 Hohmattli
 Hochschijen
@@ -21350,7 +21350,7 @@ Chuderas
 Monte S. Lorenzo
 Esel
 Steinhüshoren
-Bott'Ota
+Bott’Ota
 La Patta
 Indri Sägissa
 Schinstock
@@ -21386,7 +21386,7 @@ Gletscher Ducan
 Mäschengrat
 Märe
 Muchetta
-Piz D'Astras
+Piz D’Astras
 Kingspitz
 Cima Di Tella
 Muottas Champsech
@@ -21454,7 +21454,7 @@ Piz Nüglia
 Pfaffli
 Gläckblatten
 Furtwangstock
-Cima D'Arunda
+Cima D’Arunda
 Chüealphorn
 Pala Da Tgiern
 Furggenhoren
@@ -21535,7 +21535,7 @@ Worbisegg
 Rüggschboden
 Diederberg
 Isla Persa
-Piz D'Urezza
+Piz D’Urezza
 Stäckhütteghürn
 Davo Foraz
 Spitzli
@@ -21629,13 +21629,13 @@ Sunnighoren
 Piz Mosch
 Schwarz Berg
 Sunnig Wichel
-Piz D'Immez
+Piz D’Immez
 Langeneggspitz
 Taleggligrat
 Punta Erosa
 Hübel
 Schrättenflue
-Muot Da L'Ova Sparsa
+Muot Da L’Ova Sparsa
 Haber
 Tgapeala Cotschna
 Radlefshoren
@@ -21645,7 +21645,7 @@ Ils Cuogns
 Fedistock
 Piz Miez Gi
 Rote Flue
-Mot Da L'Hom
+Mot Da L’Hom
 Tschingelflue
 Geissweidengrat
 Oltschiburg
@@ -21700,7 +21700,7 @@ Gwasmet
 Inder Hitzeggen
 Piz Mingèr
 Piz Murterchömbel
-Spi D'Arpschella
+Spi D’Arpschella
 Chlibärgji
 Läger
 Sigriswiler Rothorn
@@ -21722,7 +21722,7 @@ Piz Macun
 Suggiture
 Piz Cristanas
 Foil Cotschen
-Piz D'Arpiglias
+Piz D’Arpiglias
 Piz Madlain
 Oberhorn
 Wuosthorn
@@ -21807,9 +21807,9 @@ Höhi Egg
 Glogghüser
 Sichle
 Blasenhubel
-Piz Da L'Aua
+Piz Da L’Aua
 Piz Giarsinom
-Craist'Ota
+Craist’Ota
 Obere Gurnigel
 Chlyne Tälli
 Chli Oberälpler
@@ -21964,7 +21964,7 @@ Crap Grond
 Balmi
 Piz Posta Biala
 Abgschütz
-Tgom'Aulta
+Tgom’Aulta
 Chli Spannort
 Rot Nollen
 Tiejer Flue
@@ -22072,7 +22072,7 @@ Schiben
 Piz Urlaun
 Gross Schinder
 Hauptichopf
-Muott'Auta
+Muott’Auta
 Chlin Gürgaletsch
 Widihorn
 Arnitriste
@@ -22111,7 +22111,7 @@ Hinter Schloss
 Hüenderbergli
 Honegg
 Eggen
-Mott'Auta
+Mott’Auta
 La Sella
 Hüenerchöpf
 Furggabüel
@@ -22160,7 +22160,7 @@ Chanzeli
 Mot Da Barba Flora
 Rämisgütsch
 Hinter Hermisalper Grätli
-Piz D'Anschatscha
+Piz D’Anschatscha
 Muot Da Rubi
 Chlein Schiahorn
 Lang Büel
@@ -22183,7 +22183,7 @@ Sattelhoren
 Spundisköpf
 Bocktschingelgrat
 Chobel
-Piz D'Artgas
+Piz D’Artgas
 Piz Tiatscha
 Piz La Greala
 Hinterer Spitzalpelistock
@@ -22484,7 +22484,7 @@ Märcher Stöckli
 Riedmattstock
 Chli Geissberg
 Piz Davo Dieu
-Paraid D'Ursanna
+Paraid D’Ursanna
 Glatt Bärgji
 Laubgrinden
 Ober Chämmler
@@ -22548,7 +22548,7 @@ Plattenchopf
 Mättlenstöck
 Ober Haldensteiner Schaftäli
 Schafgrat
-Spi D'Ursanna
+Spi D’Ursanna
 Höch Windgällen
 Chli Fürstein
 Falscher Chöpf
@@ -22581,7 +22581,7 @@ Schiteregg
 Wiss Tschuggen
 Alpeler
 Sunntigberg
-Motta D'Alp
+Motta D’Alp
 Oberen Gitschen
 Läckistock
 Panärahörner
@@ -22668,7 +22668,7 @@ Höch Horn
 Piz Chamins
 Hohflue
 Sangigrat
-Spi Da L'Alp Vedra
+Spi Da L’Alp Vedra
 Hagelstöckli
 Geisshorn
 Scheitelgrat
@@ -22869,7 +22869,7 @@ Höch Gütsch
 Haupt
 Valatscher Kopf
 Foostock
-Chè D'Mot
+Chè D’Mot
 Gilbistock
 Rot Turen
 Chlingenstock
@@ -23510,7 +23510,7 @@ Sattelegghubel
 Üsser Wyssemadhubel
 Erzbiel
 Holöüwibiel
-Corn L'Arsa
+Corn L’Arsa
 Crostàl Lung
 La Dotse
 Unter Höhenberg
@@ -23520,18 +23520,18 @@ Husenstock
 Gruonwaldhubel
 Gross Schloss
 Simel
-Pizzo D'Orsalietta
+Pizzo D’Orsalietta
 Motta Delle Fontane
 Grossgand
 Vorder Päuggenstöckli
 Riseten
-Filo D'Àfata
+Filo D’Àfata
 Lecki Dossen
 Schwarzeneggchnubel
 Schwalmisgaden
 Sefenestock
 Pizzo Fiorasca
-Clocher De L'Arpalle
+Clocher De L’Arpalle
 Himmelchopf
 Scima Di Müzz
 Balmhubel
@@ -23543,7 +23543,7 @@ Mittetaghorn
 Arnibergegg
 Poncione Di Piancalunga
 Hirendli
-Z'Opmisch Hubil
+Z’Opmisch Hubil
 Rinderstöckli
 Tête De Fonteinte
 Montorge
@@ -23564,7 +23564,7 @@ La Muotta
 Six De La Treutse
 Höch Schooss
 Sewenegg
-Roc À L'Ours
+Roc À L’Ours
 Heidberihubel
 Muota La Tieua
 Spittelnollen
@@ -23603,7 +23603,7 @@ Wiss Horn
 Sasso Guidà
 La Muota
 Vorderi Spillgerte
-Cimetta D'Orino
+Cimetta D’Orino
 Gros Châtillon
 Hohtissel
 Uomo Di Moncucco
@@ -23666,7 +23666,7 @@ Berger Calanda
 Schuenegg
 Oberhaupt
 Äbnenmattstöckli
-Mot De L'Asen
+Mot De L’Asen
 Engelhorn
 Doren
 Holzegg
@@ -23730,7 +23730,7 @@ Pizzo Caurga
 Les Taureaux
 Rosenegg
 Piz Sarsura Pitschen
-Piz De L'Ardion
+Piz De L’Ardion
 Klein Titlis
 Mont Cordine
 Vorab Pign
@@ -23828,7 +23828,7 @@ Tête De Ferret
 Mont Mort
 Punta Rossa
 Hockenhorn
-Piz San Jon D'Immez
+Piz San Jon D’Immez
 Vorderes Geisshorn
 Clocher De La Chaux
 Mont De La Fouly
@@ -23836,7 +23836,7 @@ Krönten
 Chlys Öugstchummuhorn
 Gemschiplanggenstock
 Mittler Gärstenhorn
-Pointe D'Ayace
+Pointe D’Ayace
 Pointe Des Gros Six
 Crap Baselgia
 Pointe De Combette
@@ -23873,7 +23873,7 @@ Oberer Torberg
 Pointe Allobrogia
 Piz Glivers Dado
 Plattenburg
-Motta D'Osogna
+Motta D’Osogna
 Pointe Du Jardin Des Chamois
 Grand Epicoune
 Becca De La Sassa
@@ -26859,7 +26859,7 @@ Kreuzelspitz
 Watzmann Südspitze
 Straußbergköpfel
 Krähe
-G'Hörigenköpf
+G’Hörigenköpf
 Notkarspitze
 Staufen
 Klausenkopf (1)
@@ -26987,7 +26987,7 @@ Aibleck
 Sandspitz
 Wirtsalpkopf
 Görglköpfl
-B'Gadener Hochthron
+B’Gadener Hochthron
 Moosberg
 Pflasterbachhörndl
 Mühlhornwand
@@ -29536,7 +29536,7 @@ Pico De Bernatuara
 Roc De Frausa
 Pic Balaïtous
 Tuc Deth Plan Der Ome
-Serra De L'Albera
+Serra De L’Albera
 Serra Do Invernadoiro
 Montes De Zuera
 Montes Del Xalo
@@ -29698,9 +29698,9 @@ Oroel
 Montes De Ordunte
 Sierra De Orba
 Oketa
-Serra D'Oliana
+Serra D’Oliana
 Montes De Olerón
-Serra D'Odèn
+Serra D’Odèn
 Pico De Obios
 Montes Obarenes
 Sierra Nobla
@@ -29730,7 +29730,7 @@ Sierra De Monteixo
 Punta De Montasprede
 Peña Montañesa
 Moles De Montalén
-El Montsec D'Ares
+El Montsec D’Ares
 Mondiciero
 Mondaruego
 Mondalindo
@@ -29875,7 +29875,7 @@ Pico De La Entecada
 Pico De Enmedio
 Encosa
 Encanadé
-Puig D'En Cama
+Puig D’En Cama
 El Saso
 El Porté
 El Parracoll
@@ -30010,7 +30010,7 @@ Azaldegieta
 Sierra De Arrigorrieta
 Cabeza De Arcón
 Tuqueta De La Arca Morus
-Serra D'Arcabell
+Serra D’Arcabell
 Monte Arano
 Sierra De Aralar
 Montes Aquilanos
@@ -30052,19 +30052,19 @@ Monte Ganzo
 Serrapio De Tierra
 Underground Car Park
 La Vall De Núria
-Pic De L'Àliga
+Pic De L’Àliga
 Puig De Torreneules
 Puig De La Font Negra
 Pic De Noufonts
 Roc Del Dui
 Puig Dels Quatre Termes
-Puig D'Estela
+Puig D’Estela
 Añelarra
 Mesa De Los Tres Reyes
 Serra De Sant Quilis
 Sierra De La Carrodilla
 Serra De Perpellà
-Serra De L'Almúnia
+Serra De L’Almúnia
 Puig Del Faig
 Volcà De Montsacopa
 Volcà De La Garrinada
@@ -30076,10 +30076,10 @@ Volcà Del Torrent
 Volcà Del Puig De Martinyà
 Volcà De La Roca Negra
 Volcà Del Puig Subià
-Volcà D'En Simó
+Volcà D’En Simó
 Volcà Del Racó
 Volcà De Les Bisaroques
-Volcà D'Aiguanegra
+Volcà D’Aiguanegra
 Pic Besiberri Sud
 La Rodana
 Puig Sec
@@ -30090,12 +30090,12 @@ Alto Del Conio
 Penya De Migdia
 Puig De Ses Vinyes
 Puig De Sa Plana
-Pla D'Almallutx
+Pla D’Almallutx
 Puig De Massanella
 Puig De Ses Bassetes
 Puig De Sa Rateta
 Puig Des Tossals Verds
-Puig De L'Ofre
+Puig De L’Ofre
 Puig De Na Franquesa
 Cornador Gran
 Puig De Sa Bassa
@@ -30123,7 +30123,7 @@ Cruz Del Gallinero
 Peñaescabia
 Espadà
 La Ràpita
-Serra D'En Galzeran
+Serra D’En Galzeran
 Cilla Del Sit
 El Maigmó
 Cerro Chinar
@@ -30141,7 +30141,7 @@ Bola Del Mundo
 Cueto Negro
 Llomba
 Estivella
-Pic De L'Orri
+Pic De L’Orri
 Cap De Baqueira
 Tuc Deth Ossau
 Cap De Vaques
@@ -30151,7 +30151,7 @@ Tobazo
 Tuca Blanca
 Sierra De Morata
 Monegré
-Puig D'Alaró
+Puig D’Alaró
 Volcán El Cuervo
 Mirador Del Rebollo
 La Geria
@@ -30161,7 +30161,7 @@ Tossa De Pibernat
 Cingles De Falgars
 Tossa De Pujolriu
 Puig De La Bastida
-Pla D'Aiats
+Pla D’Aiats
 Aiats
 Puig Dels Llops
 La Creu De Rabadà
@@ -30173,9 +30173,9 @@ Puig Corneli
 Els Gronys
 Puig De De La Gorda
 Puig De Llandrics
-Puig De L'Amat
-Puig D'Aulines
-Puig De L'Ofrena
+Puig De L’Amat
+Puig D’Aulines
+Puig De L’Ofrena
 Puig De La Miranda
 Puig De La Rauta
 Pico Del Montero
@@ -31572,7 +31572,7 @@ Pointe De Ronce
 Puig Roja
 Roches Du Roho
 Rohan-Hier
-Rognosa D'Étache
+Rognosa D’Étache
 Pointe De Rognier
 Rochemuse
 Pic De Rochelaire
@@ -31756,8 +31756,8 @@ Paglia Orba
 Punta Alla Paglia
 Punta D’Ovace
 Pic D’Ourthizet
-Pic De L'Ours
-Pointe De L'Ouillon
+Pic De L’Ours
+Pointe De L’Ouillon
 Ouille Noire
 Ouille Du Midi
 Ouille Des Reys
@@ -31771,13 +31771,13 @@ Punta Est
 Roc D’Ormée
 Tête Des Ormans
 Pointe Dell’ Oriente
-Bec De L'Orient
+Bec De L’Orient
 Sommet De L’Oreille Du Loup
 Rocher D’Ombre
 Roche Olvéra
-Pic D'Olan
+Pic D’Olan
 Îles Aux Oiseaux
-Pic D'Oise
+Pic D’Oise
 Oisans
 Cima D’Oin
 Pic Occabé
@@ -31882,7 +31882,7 @@ Pic De La Mine
 Plateau De Millevaches
 Pointe Migliarello
 Tête De Miéjour
-Pic Du Midi D'Ossau
+Pic Du Midi D’Ossau
 Pic Du Midi D’Arrens
 Roc Del Migdia
 Cap Det Mont
@@ -32130,7 +32130,7 @@ Pointe De Juva
 Jura
 Capo Jovo
 Monts Jovet
-Puig D'En Jordà
+Puig D’En Jordà
 Joug De L’Aigle
 Sommet De Jouerre
 Roches Jaunes
@@ -32148,9 +32148,9 @@ Pic D’Ibantelli
 Pic De Houradic
 Plateau De La Horaine
 Pic De L’Homme Mort
-Rocher De L'Homme
 Rocher De L’Homme
-Tete De L'Homme
+Rocher De L’Homme
+Tete De L’Homme
 Karek-Hir
 Pointe Des Heuvières
 Pic Du Haut Mouriare
@@ -32323,15 +32323,15 @@ Tête De L’Eyssilloun
 Pic D’Eyne
 Pointe De L’Eyglière
 Rochers Des Evettes
-Tête De L'Étret
+Tête De L’Étret
 Chaîne De L’Étoile
 Étoile
 Sommet De L’Étillier
-Pic De L'Étendard
+Pic De L’Étendard
 Rocher De L’Étale
 Tête De L’Estrop
 Pic D’Estibaoute
-Puig De L'Estela
+Puig De L’Estela
 Puig De L’Estelle
 Sommet Est De La Montagne De Gourdan
 Pico De Estats
@@ -32350,20 +32350,20 @@ Pic De L’Escarpuru
 Pic Des Escaliers
 Roc De L’Escalier
 Pico De Escaleta
-Pic De L'Escale
+Pic De L’Escale
 En Toull Bras
 Tête D’Ere
 Rocher De L’Épérimont
 Roc De L’Épène
-Aiguille De L'Épaisseur
+Aiguille De L’Épaisseur
 Enès Eog
 Pic D’Endron
 Tête De L’Encombrette
 Rochers Des Enclaves
-Tête D'Enclave
-Pointe D'Émy
+Tête D’Enclave
+Pointe D’Émy
 Chaîne D’Éguilles
-Pointe De L'Échelle
+Pointe De L’Échelle
 Tête Dure
 Pic Durban
 Roches Duon
@@ -32678,7 +32678,7 @@ Monts D’Auvergne
 Cime De L’Aution
 Roc D’Aurouze
 Pic D’Auriol
-Puig D'Orella
+Puig D’Orella
 Pointe De L’Aup Du Pont
 Pic D’Aude
 Montagnes D’Aubrac
@@ -32687,31 +32687,31 @@ Pic D’Aste
 Pic De L’Aspre
 Cime De L’Aspre
 Punta Artica
-Pic D'Arrouyes
+Pic D’Arrouyes
 Pic D’Arro
-Pic D'Arriouère
-Pic D'Arrés
+Pic D’Arriouère
+Pic D’Arrés
 Monts D’Arrée
-Dôme De L'Arpont
-Pic D'Arnousse
+Dôme De L’Arpont
+Pic D’Arnousse
 An Eurlac’H
 Rocher Des Arnauds
 Pic Arnaudet
 Massif Armoricain
 Pic Arluche
-Pic D'Arlas
+Pic D’Arlas
 Aiguille Des Arias
 Roc D’Arguille
 Bec D’Arguille
 Pointe Arghiavana
 Pointe De L’Argentière
 Aiguilles De L’Argentière
-Aiguille D'Argentière
+Aiguille D’Argentière
 Sommet De L’Argentelle
 Pointe D’Areu
-Pic D'Aret
+Pic D’Aret
 Sommet De L’Arène
-Pic D'Ardiden
+Pic D’Ardiden
 Pointe D’Arcinivale
 Punta Ovest
 Pointe Des Arces
@@ -32724,7 +32724,7 @@ Pic Arapoup
 Pointe Des Arangles
 Rocher D’Arambre
 Petrechema
-Pic D'Anie
+Pic D’Anie
 La Tête À L’Âne
 Gran Becca Du Mont
 Tête D’Amont
@@ -32738,7 +32738,7 @@ Pointe D’Albaretto
 Montagne D’Alaric
 Alto De Aintziaga
 Les Monts D’Ain
-Sommet De L'Ailefroide
+Sommet De L’Ailefroide
 Massif Des Aiguilles Rouge
 Crête Des Aiguilles
 Sommet Aiguille
@@ -32749,10 +32749,10 @@ Bec De L’Àgle
 Pic D’Adarça
 Pointe Aculone
 Pic Abraki
-Rocca Dell'Abisso
-Pic De L'Abeillé
+Rocca Dell’Abisso
+Pic De L’Abeillé
 Pic De Bagnels
-Pic D'Envalira
+Pic D’Envalira
 Pico Baliner
 Pico Del Puerto De O
 Pico De Urdiceto
@@ -32893,10 +32893,10 @@ La Mortice
 Pic Du Clocher
 Pic St-André
 Pic De Chabrières
-Pic D'Escreins
+Pic D’Escreins
 Pointe De La Saume
 Pic Sans Nom
-Sommet D'Assan
+Sommet D’Assan
 Revire Souléou
 Sommand
 Pointe Pertuiset
@@ -32915,9 +32915,9 @@ Le Petit Parpaillon
 Pic De Crigne
 Pointe De Pastourlet
 Pic Des Houerts
-Pointe D'Escreins
+Pointe D’Escreins
 Men Crenn
-Roc'H Nel
+Roc’H Nel
 Monte Rotondo
 Bric Di Canoia
 Cima Valrossa Nord
@@ -32937,7 +32937,7 @@ Bric Di Mezzogiorno
 Saint Priest
 Tavet
 Montagne Des Louquiers
-Colline D'Estelle
+Colline D’Estelle
 Fayet
 Colle Du Maçon
 Siounetounet
@@ -32945,7 +32945,7 @@ Ubac De Bliauge
 Chastillon
 Montados
 Cornet
-Belvédère De L'Escalès
+Belvédère De L’Escalès
 Le Grand Margès
 La Berque
 Colline De Clare
@@ -32990,13 +32990,13 @@ La Pène
 Sommet De Tourap
 Crête De Rourebe
 Sommet De Lieye
-Plateau D'Educh
+Plateau D’Educh
 Tête De Giraud
 Le Serre Gros
-Crête D'Aurafort
+Crête D’Aurafort
 Montagne De Beynes
 Maouné
-Font D'Isnard
+Font D’Isnard
 Clavoune
 La Lette
 Sommet De Mouchon
@@ -33008,16 +33008,16 @@ Tête De Pibossan
 Montagne De Maurel
 La Gourrée
 Puy De Rent
-Montagne De L'Allier
+Montagne De L’Allier
 Cime De Durcasca
 Sommet De Meunier
-Bussière D'Entouart
+Bussière D’Entouart
 Sommet De Cousson
 Chaberta
 Pic Bouine
 Plateau Saint Jean
 La Reynière
-Crête D'Ugail
+Crête D’Ugail
 Sommet De Couard
 Sommet Du Ruth
 Sommet De Cucuyon
@@ -33038,16 +33038,16 @@ Sommet De Triey
 La Chau
 Montagne De La Baume
 Sommet De Chappe
-Crête De L'Ane
+Crête De L’Ane
 Rochers De Saint Michel
 Montagne De Mélan
 Sommet De Fleossier
 La Falle
-L'Isoard
+L’Isoard
 La Cloche De Barles
 Sommet De Nibles
 Le Peydes
-Brèche D'Entraix
+Brèche D’Entraix
 Sansenu
 Tête De Cuguret
 Charche
@@ -33065,17 +33065,17 @@ Le Château
 Sommet De La Grangeasse
 Le Sapet
 Sommet De Tête Grosse
-Sere D'Aumage
+Sere D’Aumage
 Piéfourcha
 Revouaire
 Peynier
 La Montagne
-Château De L'Aigle
+Château De L’Aigle
 Mouisset
 Clot La Cime
 Montagne De Rochefort
 Piegros
-Rocher D'Agniel
+Rocher D’Agniel
 Tray Le Puy
 Rocher Garaux
 Le Petit Seuzé
@@ -33089,8 +33089,8 @@ Banne
 Pic De La Fayolle
 Sommet De Jouffan
 La Gresière
-Montagne D'Aureille
-Sommet D'Aiguillon
+Montagne D’Aureille
+Sommet D’Aiguillon
 Tête De Combe Rau
 Faucon
 Luzet
@@ -33104,7 +33104,7 @@ Ranc De Mianoux
 Toussière
 Tête Du Tourneau
 Le Rognon
-Sommet De L'Aup
+Sommet De L’Aup
 Le Rattier
 Le Menil
 Rocher De La Séa
@@ -33115,7 +33115,7 @@ Grand Fayes
 Serre Vulson
 Goutaroux
 Le Chauvet
-L'Aurousse
+L’Aurousse
 Le Grand Clos (Crête De La Sciau)
 Croix De La Roche
 Rochers Des Chaux
@@ -33136,23 +33136,23 @@ Prégentil
 Le Liorin
 Les Sures
 Crête De Chaumont
-Pic De L'Oeilly
+Pic De L’Oeilly
 Pic Saint-Michel
 Mont De Meillarot
 Roche De Méaudre
 Bec De Neurre
 Charande
 Roche De Pierre Taillée
-L'Écoutoux
+L’Écoutoux
 Les Grands Crêts
-La Charmette De L'Ormet
+La Charmette De L’Ormet
 Bec Charvet
 Charmant Som
 Sommet De Barley
-L'Armélaz
+L’Armélaz
 Bec De La Scia
-L'Aulpe Du Seuil
-L'Alienard
+L’Aulpe Du Seuil
+L’Alienard
 Brame Farine
 Sommet Du Pinet
 Roc De Gleisin
@@ -33161,10 +33161,10 @@ Sommet De Montgelas
 Mont Charvet
 Rochers De La Bade
 Mont Margériaz
-La Tour De L'Angle Est
+La Tour De L’Angle Est
 Pointe De La Dieuva
 Mont Julioz
-L'Alpette
+L’Alpette
 Sommet De Précheret
 Mont Bisanne
 Roc Des Boeufs
@@ -33195,7 +33195,7 @@ Pointe De Beauregard
 Mont Baron
 Tête À Turpin
 Croix Du Planet
-L'Arpette De Thuy
+L’Arpette De Thuy
 Croix De La Tête
 Pointe De La Queblette
 Le Suet
@@ -33211,7 +33211,7 @@ Aiguille Pourrie
 Mont La Cha De Châtillon
 Montagne Des Auges
 Petit Montoir
-Plan De L'Aigle
+Plan De L’Aigle
 Croix Floria
 Bloc De Charmieux
 Le Marteau
@@ -33223,15 +33223,15 @@ Tête Du Béchat
 Aiguille Du Passon
 Bec Rouge Supérieur
 Aiguille Crochues
-Pointe D'Anterne
+Pointe D’Anterne
 Tête De Moëde
 Aup De Véran
 Les Grandes Platières
-Tête D'Aufferand
+Tête D’Aufferand
 Bec De Lachat
 La Tête
 Le Buclon
-Tête À L'Ane
+Tête À L’Ane
 Aiguille Du Belvedére
 Aiguille Favre
 Bec De La Cluy
@@ -33240,7 +33240,7 @@ Aiguille Du Lac Blanc
 Aiguille De Bérard
 Aiguille Des Chamois
 Pointe De La Botte
-Aiguille De L'Encrena
+Aiguille De L’Encrena
 Pointe Du Château
 Tête De Villy
 Frêtes De Villy
@@ -33265,7 +33265,7 @@ Pointe De Véret
 Tête De Charamillon
 Rochers De Leschaux
 Grenier De Villy
-L'Aiguillettes Des Possettes
+L’Aiguillettes Des Possettes
 Mont Oreb
 Les Tours
 Petit Bargy
@@ -33282,15 +33282,15 @@ Pointe À Corbeaux
 Pointe De Trapechet
 Pointe De La Terrasse
 Croix De Sept Frères
-Pointe D'Andey
+Pointe D’Andey
 Arête Du Grenairon
 Le Grenier De Commune
 Le Charmo
 Tête De Porte
 Aiguille Du Charmo
 Le Chardonnet
-Les Saix D'En Haut
-Pointe De L'Ifala
+Les Saix D’En Haut
+Pointe De L’Ifala
 Les Perrons
 La Veudale
 Croix De Commune
@@ -33302,7 +33302,7 @@ Oeil De Boeuf
 Pointe De La Finive
 Pointe De Ressacha
 Pointe De Sans Bet
-Pointe De L'Ecorchoir
+Pointe De L’Ecorchoir
 Le Grand Piton (Mont Salève)
 Grands Fats
 Aouille De Criou
@@ -33310,10 +33310,10 @@ Arête Des Trés Cos
 Les Avoudrues
 Pointe De Bellegarde
 Pointe Du Tuet
-Tête À L'Homme
+Tête À L’Homme
 La Bourgeoise
 Pointe Droite
-Dents D'Odda
+Dents D’Odda
 Mouille Rousse
 Pointe De Chamossière
 Corne Au Taureau
@@ -33323,7 +33323,7 @@ Pointe De La Turche
 Pointe De Nions
 Pointe De Nyon
 Le Plenay
-Pointe D'Uble
+Pointe D’Uble
 Mont Chéry
 Pointe De Chéry
 Pointe De Ressachaux
@@ -33337,9 +33337,9 @@ Pointe De Vélard
 Pierre De La Lune
 Le Signal Des Voirons
 Pointe Des Bouts
-Pointe D'Entre Deux Pertuis
+Pointe D’Entre Deux Pertuis
 Sur La Pointe
-Mont D'Evian
+Mont D’Evian
 La Grotte
 Pic De La Corne
 Bois De La Turche
@@ -33354,30 +33354,30 @@ Montoiseau
 Mont Billiat
 Le Jorat
 Les Voyrières
-Pointe D'Autigny
+Pointe D’Autigny
 Arête Des Aiguillettes
 Pointe De Tréchauffex
 Pointe De Lachau
-Mont D'Hermon
+Mont D’Hermon
 Le Colomby De Gex
 Pointe De Bénévent
 Mont Rond
 Sex Villemod
-Le Chateau D'Oche
+Le Chateau D’Oche
 Petit Montrond
 Roc De Rioda
 Mont César
 Pic Boré
 Pointe De Pétalouse
 Le Grand Mottey
-Pointe De L'Aritte
+Pointe De L’Aritte
 Montagne Des Mémises
 Pic De Blanchard
 Punta Calabre
 La Grande Verdette
 Pic De Courmettes
 Collet De Pater Noster
-Point D'Areno
+Point D’Areno
 Colle Des Pouis
 Colle Martine
 Le Haut Montet
@@ -33416,9 +33416,9 @@ Croix De Cibouit
 Pointe De Chanteloube
 Pointe Du Queyre
 Pointe De Chabournéou
-Rocher De L'Yret
+Rocher De L’Yret
 Brèche De La Seille Vieille
-Bec De L'Homme
+Bec De L’Homme
 Pointe Du Rascrouset
 Pic De Malamort
 Pic Bourcet
@@ -33440,11 +33440,11 @@ Grand Cheval
 Les Trois Pucelles
 Dôme De Bellefont
 Piton De Bellefont
-Dent De L'Ours
+Dent De L’Ours
 La Suifière
 La Suiffière
 Mont Saint-Baudille - Seranne
-Pic D'Anjeau
+Pic D’Anjeau
 Pic Saint-Guiral
 Les Trois Quilles
 Puech Haut
@@ -33456,7 +33456,7 @@ Pic De Borgne
 Pic De Barette
 Roc De Montalet
 Pic De La Buissonade
-Pic De L'Aramount
+Pic De L’Aramount
 Pioch De Roquebrune - Seranne
 Roc De La Vigne
 Suc De Taupernas
@@ -33464,18 +33464,18 @@ Suc De La Lauzière
 Le Sépoux
 Les Grenans
 Suc De Sara
-Suc D'Ourseyre
+Suc D’Ourseyre
 Suc De Montivernoux
 Pravouta
 La Rose Des Vents
 Puy Bataillouse
 Tête Sud Des Fours
-Croix D'Outrey
+Croix D’Outrey
 Crêt Lognan
 Pointe De La Pallaz
 Pointe De Valbuche
 Pointe De Le Grande Combe
-Pointe D'Aigue
+Pointe D’Aigue
 Le Coin Du Châtel
 Crêt Du Carollier
 La Roche Violette
@@ -33484,8 +33484,8 @@ Pointe Du Télégraphe
 Le Petit Perron
 Le Signal Du Génie
 Le Pic Du Génie
-Bec De L'Aigle
-Tête D'Albiez-Le-Vieux
+Bec De L’Aigle
+Tête D’Albiez-Le-Vieux
 Pointe Des Chaudannes
 Serre De La Pierre Plantée
 Montagne De Monthiallier
@@ -33496,15 +33496,15 @@ Cima Missun
 Orgues D’Ille-Sur-Têt
 Croix De Provence
 Cime De Bausson
-Pic De L'Aiglo
+Pic De L’Aiglo
 Sommet De Calern
 Tête Du Grand Puech
-Tête De L'Hoste
+Tête De L’Hoste
 Mont Olympe
-L'Olympe
+L’Olympe
 Brèches Des Moines
 Bau Nègre
-Pic De L'Aigle
+Pic De L’Aigle
 La Petite Etoile
 Mont Julien
 Le Ratier
@@ -33527,7 +33527,7 @@ Roque Haute
 Gros Collet
 Piégros
 Sommet Des Gibas
-La Tête D'Auguste
+La Tête D’Auguste
 Grande Tête Rouge
 Le Grand Sanguin
 Le Petit Sanguin
@@ -33539,12 +33539,12 @@ Luminier
 Plateau De Manivert
 Bau Des Vespres
 Sommet De Viériou
-L'Estellier
+L’Estellier
 Le Pointu
 Collet De Travignon
-Saint-Pierre De Lagarde D'Apt
+Saint-Pierre De Lagarde D’Apt
 Le Buisseron
-L'Espéron
+L’Espéron
 Pié Rascas
 Defens De Pierre-Mont
 Sommet De Costebelle
@@ -33552,7 +33552,7 @@ Chauvet
 Sommet De Chine
 Clapouse
 Sommet De Géruen
-L'Andran
+L’Andran
 Campanelle
 La Clapière Haute
 Le Bouichard
@@ -33590,10 +33590,10 @@ Pilon Du Roi
 Pc 685 Pylones
 Sauvand
 Tour De Nègre
-L'Auvière
-Saint-Michel L'Aiguille
+L’Auvière
+Saint-Michel L’Aiguille
 Colline De Pimayon
-Signal De L'Aigle
+Signal De L’Aigle
 Les Huchanes
 Pointe Des Arbennes
 Les Hautes Chaumes
@@ -33823,7 +33823,7 @@ Pentland Skerries
 Hunt Cliff
 Whitby High
 Netley Bed Rocks
-Devil'S Frying Pan
+Devil’S Frying Pan
 Wolf Craigs
 Parking
 Crook Peak
@@ -33839,7 +33839,7 @@ Ard Nev
 Stoupdale Crags
 Brim Fell
 Grey Friar
-Pike O' Blisco
+Pike O’ Blisco
 Esk Pike
 Sgurr Na Banachdaich
 Sgurr Na Coinnich
@@ -40911,7 +40911,7 @@ Bruncu Cani Prandiu
 Monte Maria
 Scogli De Piscadeddus
 Monte Nieddu
-Mont'Arrubiu
+Mont’Arrubiu
 Bruncu Casteddu
 Cuccuru Ella
 Bruncu Titionargiu
@@ -40957,7 +40957,7 @@ Monte Siella
 Monti Sibillini
 Monte Sautron
 Monte San Vito
-Monte Sant'Angelo A Tre Pizzi
+Monte Sant’Angelo A Tre Pizzi
 Pale Di San Martino
 Scogli Di San Clemente
 Punta Salici
@@ -41078,7 +41078,7 @@ Monti Di Bagno
 Pizzo Badile
 Monti Ausoni
 Monti Aurunci
-Pic D'Asti
+Pic D’Asti
 Altipiano D’Asiago
 Alpi Apuane
 Appennino Umbro
@@ -41144,7 +41144,7 @@ Dosso Della Rocca
 Monte Pellerot
 Castellazzo
 Cima Vallina
-Cima Dell'Omet
+Cima Dell’Omet
 Cima Uomo
 Castellaccio
 Cima Cesta
@@ -41154,17 +41154,17 @@ Cima Di Ceda Orientale
 Cima Di Ceda Occidentale
 Cima Brenta Bassa
 Cima Brenta Alta
-Cima D'Ambiez
-Vedretta D'Ambiez
+Cima D’Ambiez
+Vedretta D’Ambiez
 Bocchetta Dei Camosci
 Campanile Stek
-Punta Dell'Ideale
+Punta Dell’Ideale
 Cima Garbari
-Dos D'Arnal
+Dos D’Arnal
 Dos Delle Saette
 Crona Vecchia
 Marugeni
-Cima D'Agola
+Cima D’Agola
 Cima Prato Fiorito
 Le Tose I
 Le Tose Ii
@@ -41223,14 +41223,14 @@ Monte Zingla
 Monte Puria
 Monte Serenità
 Cima Mughera
-Corno D'Aquiglio
+Corno D’Aquiglio
 Monte Rossola
 Punta Del Venerocolo
 Monte Venezia
 Costaccia
 Cima Presena
 Cima Del Zigolon
-Cima D'Oro
+Cima D’Oro
 Monte Finonchio
 Col Santo Di Dentro
 Terza Cima
@@ -41255,7 +41255,7 @@ Mugoni
 Torri Del Vaiolet
 Punta Emma
 Pizzo Serauta
-Punta Dell'Alpetta
+Punta Dell’Alpetta
 Cima Di Pegno
 Sasso Vernale
 Piccolo Lagazuol
@@ -41270,7 +41270,7 @@ Piz Somplunt
 Monte Cenon
 Croz Di Primalunetta
 Sasso Di Stria
-Lastei D'Agner
+Lastei D’Agner
 Cima Di Ambrusogn
 Piz Zorlet
 Monte Spizo
@@ -41301,7 +41301,7 @@ Crosara Del Fibbion
 Cima S. Maria
 Piz Gallino
 Cima Dei Lasteri
-Croz Dell'Altissimo
+Croz Dell’Altissimo
 Croz Di Selvata
 Monte Corona
 Monte Rocca
@@ -41310,17 +41310,17 @@ Cima Padaiola
 Cima Padaiola Bassa
 Croz Delle Selvate
 Cima Della Finestra
-L'Androna
+L’Androna
 Cima Falkner
 Cima Occidentale Di Brenta
 Cima Mandron
-Cima D'Amola
+Cima D’Amola
 Cima Vedretta Nera
 Cima Buciaga Nord
 Cima Buciaga Sud
 Pilastro
 Cima Di Coster
-Cima Dell'Artigliere
+Cima Dell’Artigliere
 Monte Folletto
 Monte Coel
 Monte Altar
@@ -41328,7 +41328,7 @@ Bodrina
 Monticello
 Rocca Piana
 Monte Cuc
-Cima D'Arza
+Cima D’Arza
 Corno Di Tres
 Doss Trent
 Cornello
@@ -41367,7 +41367,7 @@ Cima Di Peio
 Cima Cevedale Ii
 Punta Cadini
 Monte Giumella
-Torrione D'Albiolo
+Torrione D’Albiolo
 Cima Venezia
 Punta Martello
 Monte Palù
@@ -41389,7 +41389,7 @@ Punta Cornates
 Pala Di Vernel
 Roda De Mulon
 Becca Di Luseney
-Dent D'Herens
+Dent D’Herens
 Sasso Becce
 Sass De Moles
 Cima Crode Larice
@@ -41442,7 +41442,7 @@ Coston Di Slavaci
 Cime Di Bragarolo
 Cime Di Ceremana
 Colbricon
-Cima D'Ambata
+Cima D’Ambata
 Tre Cime Di Lavaredo Occidentale
 Tre Cime Di Lavaredo Piccola
 Becco Di Mezzodi
@@ -41548,7 +41548,7 @@ Punta Peder Di Fuori
 Cima Dei Camosci
 Grugno Di Porco
 Cima Delle Pecore
-Maschio Dell'Artemisio
+Maschio Dell’Artemisio
 Monte Cialancias
 Monte Gibele
 Porta Molina
@@ -41563,7 +41563,7 @@ Monte Del Cumolo
 Montarso Di Ponente
 Monte Della Neve
 Cimon Del Tres
-Pizzo D'Erna
+Pizzo D’Erna
 Pizzo Varrone
 Zucco Di Desio
 Monte Pim Pum
@@ -41605,7 +41605,7 @@ Monte Grolla
 Cima Mezzana
 Cima Del Calieron
 Cima Del Mesole
-Cima Campo D'Avanti
+Cima Campo D’Avanti
 Cima Di Marana
 Monte Campetto
 Monte Gramolon
@@ -41641,7 +41641,7 @@ Corna Vecchia
 Punta Pettorina
 Vetta Delle Buse
 Selvata
-Vetta Settentrionale D'Intermesoli
+Vetta Settentrionale D’Intermesoli
 Monte Aquila
 Punta Favella
 Monte Trappola
@@ -41705,7 +41705,7 @@ Punta Di Soel
 Piz Lago Gelato
 Cima Piscadu
 Dent De Mezdi
-L'Antersass
+L’Antersass
 Piz Gralba
 Piz Miara
 Croda Nera
@@ -41713,7 +41713,7 @@ La Crepa Neigra
 Cima Ombretta
 Punta Zigole
 Punta Di Cadino
-Punta Dell'Uomo
+Punta Dell’Uomo
 Sasso Di Tasca
 Crozzon Di Brenta
 Spallone Dei Massodi
@@ -41795,7 +41795,7 @@ Cima Di Valsolaro
 Monte Manghen
 Monte Cogne
 Il Rocadin
-Cima Dell'Inferno
+Cima Dell’Inferno
 Cardinal
 Cauriol
 Il Becco
@@ -41814,10 +41814,10 @@ Monte Nero
 Cima Vedrettine
 Cima Di Bon
 Cima Giner
-Cima D'Oltro
+Cima D’Oltro
 Punta Della Madonna
-Cima D'Alberghetto
-Sasso D'Ortiga
+Cima D’Alberghetto
+Sasso D’Ortiga
 Punta Caldrolon
 Cima Sforcelloni
 Cima Feltraio
@@ -41827,7 +41827,7 @@ Cima Di Lastei
 Cima Della Madonna
 Cimerlo
 Cima Della Beta
-Cima D'Ostio
+Cima D’Ostio
 Cima Di Sedole
 Sasso Delle Lede
 Cima Wilma
@@ -41837,9 +41837,9 @@ Bedole
 Cima Redasega
 Cima Arinas
 Cima Di Valsorda
-L'Omenet
+L’Omenet
 Monte Mezzana
-Cime Dell'Auta
+Cime Dell’Auta
 Ricoletta
 Pizzo Le Crene
 Torre Sabbioni
@@ -41862,7 +41862,7 @@ Denti Di Terrarossa
 Col Del Puez
 Punte Del Puez
 Piz Duleda
-Sass Da L'Ega
+Sass Da L’Ega
 Monte Balzo
 Monte Pez
 Monte Castello
@@ -41874,7 +41874,7 @@ Cime Di Bosco Nero
 Piz Da Lec
 Sasso Delle Dieci
 Sasso Delle Nove
-Cima D'Ambrizzola
+Cima D’Ambrizzola
 Settsass
 La Varella
 Cunturines
@@ -41936,7 +41936,7 @@ Cima Penel
 Monte Macaion
 Monte Ritorto
 Penser Weißhorn
-Cima D'Accia
+Cima D’Accia
 Corno Zeno
 Cima D. Vista
 Cima Delle Saline
@@ -41951,7 +41951,7 @@ Busa Brodeghera
 Corno Carro
 Sass Da Lec
 Sass Dai Ciamorces
-Scoglio Dell'Aquila
+Scoglio Dell’Aquila
 Monte Cengio
 Cima Di Tavels
 Testa Mercera
@@ -41964,7 +41964,7 @@ Punta Michelis
 Punta Dante
 Cima Di Val Scura
 Cima Val Strangola
-Cima Val D'Inferno
+Cima Val D’Inferno
 Loverdina
 Croz Della Madonna
 La Forcella
@@ -42009,7 +42009,7 @@ Punta Mastrangelo
 Cima Della Maledia
 Cima Ciamineias
 Cima Peirabroc
-Cognoli D'Ottaviano
+Cognoli D’Ottaviano
 Monte Vincenzo
 Monte Piccione
 Monte Arcese
@@ -42020,7 +42020,7 @@ Cima Cop Di Casa
 Monte Cengledino
 Cima Di Danerba
 Creper Vac
-Cima D'Arno
+Cima D’Arno
 Corno Basso
 Monte Del Lago
 Cima Di Cavè
@@ -42104,7 +42104,7 @@ Monte Cogolo
 Monte Rione
 Monte Pratobello
 Monte Mezzano
-Pizzo D'Oca
+Pizzo D’Oca
 Monte Passo Del Lupo
 Monte Chiappa
 Monte Teccio Al Sole
@@ -42136,7 +42136,7 @@ Mont Greume
 Cima Della Mora
 Cima Di Bors
 Monte Camparient
-Cima D'Ometto
+Cima D’Ometto
 Il Badile
 Monte Ovago
 Cimaron Del Giura
@@ -42165,7 +42165,7 @@ Pizzo Tracciora Di Cervetto
 Cima Castello
 Monte Sornadello
 Corni Di Canzo
-Oro Dell'Asino
+Oro Dell’Asino
 Monte Campo Dei Fiori
 Croce Garei
 Monte Pravello
@@ -42205,10 +42205,10 @@ Tête Des Roèses
 Cima Di Scaravini
 Cima Cresta
 Monte Mora
-Punta Dell' Usciolo
-Mazza Dell' Inferno
+Punta Dell’ Usciolo
+Mazza Dell’ Inferno
 Montagna Ronda
-Pointes D'Oren
+Pointes D’Oren
 Monte Ventolaro
 Furgggrat
 Monte Crotta
@@ -42224,9 +42224,9 @@ Pointe Barnes
 Weissgrat
 Petit Bouquetin
 Faderhorn
-Punta L'Ottone
+Punta L’Ottone
 Battel
-Cima Dell' Ovac
+Cima Dell’ Ovac
 Ruppenstein
 Neue Weisstorspitze
 Cima Strighet
@@ -42285,7 +42285,7 @@ Cima Di Fojorina
 Cima Marsicce
 Motta Di Campo
 Cima Della Laurasca
-Cima Dell' Oress
+Cima Dell’ Oress
 Cima Mosè
 La Piota
 Pizzo Mottàc
@@ -42355,7 +42355,7 @@ Mottone Della Tappa
 Corno Di Barbione
 Cima Verta
 Monte Totoga
-Cima D'Azoglio
+Cima D’Azoglio
 Motto Di Levén
 Piz Tri
 Pizzo Crogna
@@ -42402,7 +42402,7 @@ Monte Brusada
 Cresta Di Moriming
 Pizzo Del Mezzodì
 Monte Giovello
-Pizzo L'Omasca
+Pizzo L’Omasca
 Schegge Di Muino
 Pizzo La Scheggia
 Colmine Di Crevola
@@ -42429,7 +42429,7 @@ Cima Di Granda
 Monte Duria
 Loccie Del Forgnone
 Colmine
-Monte L'Usciolo
+Monte L’Usciolo
 Cima Di Canogia
 Monte Canale
 Dosso Bruciato
@@ -42437,7 +42437,7 @@ Dosso S. Giacomo
 Monte La Nava
 Cima Di Provinaccio
 Pizzo Osbarino
-Cima D'Agaro
+Cima D’Agaro
 Pizzo Di Campolatte
 Motto Della Scala
 Pizzo Mercantelli
@@ -42485,12 +42485,12 @@ Pizzo San Pio
 Pizzo Della Vadretta
 Monte Pesconfio
 Sasso Bodengo
-Fil D'Uria
+Fil D’Uria
 Pizzo Di Locciastesa
 Punta Fiorelli
 Punta Medaccio
 Punta Magnaghi
-Cima D'Arcanzo
+Cima D’Arcanzo
 Corni Bruciati
 La Colmine Piana
 Vetta Di Ron
@@ -42500,20 +42500,20 @@ Piz Cavregasco
 Croce Dei Meri
 Pizzo Ligoncio
 Cima Mora
-Pizzo D'Apteggia
-Testa Dell' Orso
+Pizzo D’Apteggia
+Testa Dell’ Orso
 Pizzo Vicima
 Punta Bresciadega
 Monte Palino
 Pizzo Cortefreddo
 Punta Delle Sfinge
 Cima Vicima
-Pizzo Dell' Averta
+Pizzo Dell’ Averta
 Monte Pagano
 Scheggia Di Marsasca
 Punta Mezzola
 Pizzo Mattignale
-Pizzo Dell'Alpe Gelato
+Pizzo Dell’Alpe Gelato
 Pizzo Basset
 Punta Temola
 Cima Di Meri
@@ -42528,7 +42528,7 @@ Cresta Cecilia
 Corno Cistella
 Pianaccio
 Pizzo Del Balzo
-Pizzi Dell' Oro
+Pizzi Dell’ Oro
 Punta Romilla
 Cima Scingino
 Cima Del Cavalcorto
@@ -42561,7 +42561,7 @@ Cima Rovaia
 Monte Seroti
 Piz Cancian
 Torrione Di Qualido
-Corno Dell' Omacciolo
+Corno Dell’ Omacciolo
 Pizzo Di Corte Cerino
 Pizzo Ventina
 Cima Fontana
@@ -42572,14 +42572,14 @@ Pizzo Luigi Amadeo
 La Pizzetta
 Monte Tremoncelli
 Monte Varadega
-Scatta D'Orogna
+Scatta D’Orogna
 Cime Di Chiareggio
 Pizzo Moro
 Dosso Arlate
 Campiano
 Pizzo Dei Croselli
 Torrione Di Porro
-Punta D'Orogna
+Punta D’Orogna
 Il Cornetto
 Cima Del Tirlo
 Pizzo Porcellizzo
@@ -42651,7 +42651,7 @@ Cima Di Sanson
 Cima Val Fontana
 Pizzo Fizzo
 Pizzo Crampiolo Sud
-Sassa D'Èntova
+Sassa D’Èntova
 Punta Marinelli
 Monte Fo
 Grampielhorn
@@ -42680,7 +42680,7 @@ Piz Glüschaint
 Motta Secca
 Kleines Schinhorn
 Monte Minoia
-Dosso Dell' Oca
+Dosso Dell’ Oca
 Albrunhorn
 Pizzo Camoscie
 Piz Argient
@@ -42689,7 +42689,7 @@ Dosso Sabbione
 Punta Clogstafel
 Corno Di Boèro
 Punta Della Scatta
-Crast'Agüzza
+Crast’Agüzza
 Cime Redasco
 Motto Di Bondeno
 Dosso Camoscio
@@ -42715,7 +42715,7 @@ Bel Motto
 Scima Di Saoseo
 Cima Lago Spalmo
 Sasso Terraccio
-Punta D'Arbola
+Punta D’Arbola
 Kalberhorn
 Corno Di Profa
 Pizzo Coppetto
@@ -42793,7 +42793,7 @@ Corno La Resa
 Pizzo Ferrè
 Monte Forcellina
 Monte Foscagno
-Guglie D'Altare
+Guglie D’Altare
 Cima Di Val Loga
 Monte Ganda
 Monte Del Buon Curato
@@ -42856,11 +42856,11 @@ Monte Torraccia
 Punta Rosa
 Forcelle Guazza
 Piz Schumbreida
-Monte Dell' Orso
+Monte Dell’ Orso
 Col Di Quaira
 Cima Di Pozzin
 Dossobello Di Fuori
-L'Angelo Grande
+L’Angelo Grande
 Sopra Le Frane
 Cima Fosso Di Saldo
 Monte Crapene
@@ -42874,13 +42874,13 @@ Fanis (Punta Di Mezzo)
 Dossobello Di Dentro
 Pizzo Aguzzo
 Croda Del Forno - Disotto
-Monte Dell' Argento
+Monte Dell’ Argento
 Croda Del Forno
 Cresta Azzurra
 Gross Tartscherkopf
 Monte Di Tàrres
 Bochetta Di Vale Bruna
-L'Angelo Piccolo
+L’Angelo Piccolo
 Monte Del Succhio
 Madritschen
 Monte Del Toro
@@ -42912,7 +42912,7 @@ Cima Paradiso
 Cima Del Fopél
 Monte Rinaldo
 Col Bechei Di Sopra
-Piz Da L'Acqua
+Piz Da L’Acqua
 Monte Della Guardia
 Monte La Tagliate
 Grasso Del Gallo
@@ -42921,7 +42921,7 @@ Piz Murtarous
 Montoni Di Agùmes
 Croda Dei Toni
 Murtarous
-Plan Da L'Asen
+Plan Da L’Asen
 Monte Plagabella
 Monte Di Glorenza
 Gamskofel
@@ -42945,7 +42945,7 @@ Costa Bianca
 Cima Cuma
 Il Chiodo
 Malandro
-Punta D'Alliz
+Punta D’Alliz
 Rocca Dei Baranci
 Grosser Gabler
 Monteròdes
@@ -42980,7 +42980,7 @@ Punta Di Mezzo
 Corno Grande
 Cima Di Valvell
 Cima Di Zerzer
-Punta D'Oberettes
+Punta D’Oberettes
 Cima Di Vallunga
 Cima Sparvieri
 Cima Gabélz Di Dentro
@@ -42992,7 +42992,7 @@ Gaishörndl
 Monte Dei Buoi
 Cima Termine
 Punta Luco Di Mezzo
-Cima Barba D'Orso Di Fuori
+Cima Barba D’Orso Di Fuori
 Cima Del Piano Rosso
 Punta Di Val Benair
 Monte Del Parco
@@ -43033,7 +43033,7 @@ Monte Fossa Delle Felci
 Monte Deo Porri
 Monte Pilato
 Rasciesa Di Fuori
-Corno D'Ega
+Corno D’Ega
 Pala Della Donzella
 Monte Rosole
 Cima Susat
@@ -43100,7 +43100,7 @@ Altopiano Di Montásio
 Monte Diamante
 Bric Di Tejolo
 Bric Di Pria Scugente
-Bric Dell'Omo
+Bric Dell’Omo
 Due Fratelli
 Monte Leco
 Monte Taccone
@@ -43111,14 +43111,14 @@ Monte Toval
 Monte Scannalupi
 Parcheggio Via Rovani
 Parcheggio Viale Gramsci
-Parcheggio Via Fante D'Italia
+Parcheggio Via Fante D’Italia
 Parcheggio Piazza Faruffini
 Parcheggio Piazza Della Resistenza
 Parcheggio Piazza Oldrini
 Cima Dosegù
-Dosso Dell'Asino
+Dosso Dell’Asino
 Monte Randelino
-Pala D'Altei
+Pala D’Altei
 Monte Caserine Basse
 Cime Di San Francesco
 Cimon Dei Furlani
@@ -43147,7 +43147,7 @@ Monte Savi
 Monte Laroussa
 Cime Della Montagnetta
 Cima Della Rocca Rossa
-Punta Dell'Omo
+Punta Dell’Omo
 Monte Borel
 Monte Viridio
 Monte Bianco Di Courmayeur
@@ -43226,7 +43226,7 @@ Monte Ray
 Cima Delle Malecoste
 Monte Fantino
 Poggio Pocorno
-Bocchetta Dell'Encarni
+Bocchetta Dell’Encarni
 Monte Pietena
 Vette Piccole
 Vette Grandi
@@ -43238,7 +43238,7 @@ Monte Brandol
 Cima Moschesin
 Monte Pasolin
 Monte Manzol
-L'Agugliassa
+L’Agugliassa
 Punta Pleng
 Monte Giuep
 Bric Di Saliera
@@ -43246,7 +43246,7 @@ Cima Del Nipoti
 Dosso Di Miola
 Croda Alta Di Sompràde
 Croda Da Rin
-Croda Dell' Arbel
+Croda Dell’ Arbel
 Le Selle
 Punta Teresa
 Monte Froppa
@@ -43270,7 +43270,7 @@ Col Della Boia
 Pizzo Degli Uccelli
 Colle Della Stanga
 Sasso Alto
-L'Armentera
+L’Armentera
 Monte Pegolara
 Monte Malanotte
 Monte Frontè
@@ -43293,7 +43293,7 @@ Pizzo Cerro
 Pizzo Di Spino
 Corna Camozzera
 Corna Maria
-Monte Torre (Pizzo D'Evigno)
+Monte Torre (Pizzo D’Evigno)
 Punta Gorgona
 Poggio Alto
 Monte Bellarasco
@@ -65401,7 +65401,7 @@ Princess Mountains
 Forgotten Peak
 Whirinaki Bluff
 Ahaaha Rocks
-D'Urville Rocks
+D’Urville Rocks
 Hautapu Rocks
 Motupotaka Rocks
 Waiwera Bluff
@@ -69949,7 +69949,7 @@ Cap Anglais
 Piton D’Ambouelam
 Piton Des Aigrettes
 Vulkanicheskiy Khrebet
-Gutsul'Skiye Al'Py
+Gutsul’Skiye Al’Py
 Gutinskiy Khrebet
 Munţii Zărandului
 Munţii Zăbrăuţi
@@ -71854,7 +71854,7 @@ Mutsosskiy Khrebet
 Khrebet Khacha-Royduk
 Snegovoy Khrebet
 Khrebet Susulkort
-Khrebet Akhatl'
+Khrebet Akhatl’
 Khrebet Khufri
 Khrebet Kutkhianigori
 Khrebet Satibisgori
@@ -72205,7 +72205,7 @@ Bulgutuyskiy Khrebet
 Gory Bucharama
 Vozvyshennost’ Brus-Kamen’
 Khrebet Borus
-Bol'Shoy Sayan
+Bol’Shoy Sayan
 Vozvyshennost’ Boganida-Tas
 Biysko-Chumyshskaya Vozvyshennost’
 Khrebet Biyskaya Griva
@@ -78780,7 +78780,7 @@ Gremihrav Dağı
 Diyina
 Alem Dağı
 Kartal Tepe
-Karsskoye Ploskogor'Ye
+Karsskoye Ploskogor’Ye
 Zigana Dağları
 Yukarı Dağ
 Yıldırım Yaylası
@@ -82904,7 +82904,7 @@ Panama Rocks
 Panorama Bluff
 Pinnacle Rock
 Pocantico Hills
-Point O'Rocks
+Point O’Rocks
 Pratt Rocks
 Punchbowl
 Ram Head
@@ -83137,7 +83137,7 @@ Buck Ridge Point
 Buckhead Point
 Buckhorn Point
 Buckskin Mountains
-Bucky O'Neill Hill
+Bucky O’Neill Hill
 Bulrush Point
 Burke Point
 Burnt Canyon Point
@@ -83325,7 +83325,7 @@ Monument Point
 Moquith Mountains
 Moquitch Point
 Moran Point
-Mots'Ovi
+Mots’Ovi
 Point Of The Mountain
 Muggins Mountains
 Mule Creek Point
@@ -83347,7 +83347,7 @@ Newberry Point
 Nizhoni Point
 North Ow Point
 North Timp Point
-O'Neill Hills
+O’Neill Hills
 Ochoa Point
 Obi Point
 Oquer Point
@@ -85077,7 +85077,7 @@ Castle Crag
 Cayuse Hills
 Chief Cliff
 Coal Banks
-Coeur D'Alene Mountains
+Coeur D’Alene Mountains
 Countrymans Bluff
 Crazy Mountains
 Crocon Du Nez
@@ -86188,7 +86188,7 @@ Mushevik Point
 Cape Myaughee
 Mystery Hills
 Mystery Mountains
-Naro'Am-Unga
+Naro’Am-Unga
 Neacola Mountains
 Nelson Bluff
 Nichols Hills
@@ -86203,7 +86203,7 @@ Nulato Hills
 Bluff Number Two
 Nushagak Hills
 Nyctea Hills
-O'Keefe Hills
+O’Keefe Hills
 Okeefe Hills
 Okpilatok Bluff
 Okstukuk Hills
@@ -86357,7 +86357,7 @@ Alphabet Hills
 Alutunitok Hills
 Amatusuk Hills
 Amphitheater Mountains
-Anagchucknun'A
+Anagchucknun’A
 Ananongutka
 Andreafsky Hills
 Angayukalik Hills
@@ -86382,7 +86382,7 @@ Biederman Bluff
 Binakslit Bluff
 Binaksbak Bluff
 Long Pond
-Coogan'S Bluff
+Coogan’S Bluff
 White Mountain Ledge
 Crocketts Ledge
 Grindstone Rim
@@ -86479,7 +86479,7 @@ Spring Hill College General Parking Lot A
 Spring Hill College General Parking Lot C
 Spring Hill College General Parking Lot D
 Spring Hill College Mobile Parking Lot
-Spring Hill College O'Leary Hall Parking Lot
+Spring Hill College O’Leary Hall Parking Lot
 Spring Hill College Quinlan Parking Lot
 Spring Hill College Stewart Field Parking Lot
 Spring Hill College Toolen Parking Lot
@@ -86490,7 +86490,7 @@ Naagix Saxax
 Toad-A-Loop
 Mckinley Range
 6Th Street Parking Garage
-Routes 2 & 102 Park 'N' Ride
+Routes 2 & 102 Park ’N’ Ride
 Qigaagix Saxax
 Louisiana State University Eunice Health And Physical Education Parking Lot
 Louisiana State University Eunice Health Technology Parking Lot
@@ -86701,7 +86701,7 @@ Qoqpatos Tog‘Lari
 Vozvyshennost’ Kokcha-Tau
 Qozoqtov Tog‘Lari
 Jetimtov Tog‘Lari
-Chil'-Mayram-Tau Gory
+Chil’-Mayram-Tau Gory
 Bo‘Kantov Tog‘Lari
 Beltov Do’Ngligi
 Gory Bel’-Tau
@@ -88987,7 +88987,7 @@ Afrikaskop
 Aasvoëlkop
 Aasvoëlberge
 Aasbank
-God'S Window
+God’S Window
 Ross Rocks
 Macaroni Rocks
 Paddy Rocks

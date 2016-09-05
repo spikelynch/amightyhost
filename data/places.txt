@@ -913,7 +913,7 @@ Brugge
 Brecht
 Brasschaat
 Braine-le-Comte
-Braine-l'Alleud
+Braine-l’Alleud
 Boussu
 Bornem
 Boom
@@ -955,7 +955,7 @@ Kaya
 Houndé
 Gourcy
 Garango
-Fada N'gourma
+Fada N’gourma
 Dori
 Djibo
 Diapaga
@@ -1580,7 +1580,7 @@ Santa Cruz do Rio Pardo
 Santa Cruz das Palmeiras
 Santa Cruz Cabrália
 Santa Cecília
-Santa Bárbara d'Oeste
+Santa Bárbara d’Oeste
 Salvador
 Salto de Pirapora
 Salto
@@ -2458,7 +2458,7 @@ Langford
 Langley
 Langley
 La Prairie
-L'Assomption
+L’Assomption
 Laval
 Leduc
 Lethbridge
@@ -2560,7 +2560,7 @@ Timmins
 Toronto
 Trois-Rivières
 Truro
-Val-d'Or
+Val-d’Or
 Vancouver
 Varennes
 Vaudreuil-Dorion
@@ -2580,13 +2580,13 @@ Woodstock
 Yellowknife
 Yorkton
 Halifax
-St. John's
+St. John’s
 Québec
 Lévis
 Rimouski
 Rivière-du-Loup
 Sydney
-L'Ancienne-Lorette
+L’Ancienne-Lorette
 Edmundston
 Thetford-Mines
 Scarborough
@@ -3265,7 +3265,7 @@ Qinnan
 Qinhuangdao
 Jinjiang
 Qingquan
-Huai'an
+Huai’an
 Qingdao
 Qingyuan
 Hongqiao
@@ -5360,7 +5360,7 @@ Tadjoura
 Obock
 Djibouti
 Ḏânan
-'Ali Sabieh
+’Ali Sabieh
 Viborg
 Vejle
 Vanløse
@@ -6055,7 +6055,7 @@ La Orotava
 La Oliva
 la Nucia
 La Línea de la Concepción
-L'Eliana
+L’Eliana
 La Carolina
 Jumilla
 Jerez de la Frontera
@@ -6348,7 +6348,7 @@ Illescas
 Igualada
 Humanes de Madrid
 Huesca
-L'Hospitalet de Llobregat
+L’Hospitalet de Llobregat
 Hortaleza
 Hernani
 Gernika-Lumo
@@ -6458,7 +6458,7 @@ Chamberí
 Carabanchel
 City Center
 Retiro
-l'Alfàs del Pi
+l’Alfàs del Pi
 Las Gabias
 Delicias
 Almozara
@@ -6931,10 +6931,10 @@ Limay
 Lille
 Liévin
 Libourne
-L'Haÿ-les-Roses
+L’Haÿ-les-Roses
 Le Vésinet
 Levallois-Perret
-Les Sables-d'Olonne
+Les Sables-d’Olonne
 Les Pennes-Mirabeau
 Les Pavillons-sous-Bois
 Les Mureaux
@@ -7242,7 +7242,7 @@ Agen
 Agde
 Achères
 Abbeville
-Villeneuve-d'Ascq
+Villeneuve-d’Ascq
 Les Ulis
 Bourgoin-Jallieu
 Marseille 01
@@ -7590,7 +7590,7 @@ Kirkby
 Kingswood
 Kingswinford
 Hull
-King's Lynn
+King’s Lynn
 Kilwinning
 Kilmarnock
 Kidsgrove
@@ -7983,11 +7983,11 @@ Shetland
 Orkney
 Holloway
 Harringay
-Saint George's
+Saint George’s
 Zugdidi
 Zestap’oni
 Ts’khinvali
-Tqvarch'eli
+Tqvarch’eli
 Telavi
 Tbilisi
 Sokhumi
@@ -8930,7 +8930,7 @@ Rishon LeẔiyyon
 Ramla
 Ramat HaSharon
 Ramat Gan
-Ra'anana
+Ra’anana
 Qiryat Yam
 Qiryat Shemona
 Qiryat Moẕqin
@@ -11717,7 +11717,7 @@ Ribera
 Reggio Calabria
 Ragusa
 Quattromiglia
-Quartu Sant'Elena
+Quartu Sant’Elena
 Pozzallo
 Porto Empedocle
 Piazza Armerina
@@ -11861,9 +11861,9 @@ Saronno
 Sarno
 San Vito dei Normanni
 Santeramo in Colle
-Sant'Antonio Abate
-Sant'Antimo
-Sant'Anastasia
+Sant’Antonio Abate
+Sant’Antimo
+Sant’Anastasia
 Santa Maria Capua Vetere
 San Severo
 San Sebastiano
@@ -11903,7 +11903,7 @@ Rimini
 Rieti
 Riccione
 Rho
-Reggio nell'Emilia
+Reggio nell’Emilia
 Ravenna
 Rapallo
 Qualiano
@@ -11912,7 +11912,7 @@ Prato
 Pozzuoli
 Potenza
 Porto Torres
-Porto Sant'Elpidio
+Porto Sant’Elpidio
 Porto San Giorgio
 Portogruaro
 Civitanova Marche
@@ -11920,7 +11920,7 @@ Portici
 Pordenone
 Pontedera
 Pompei
-Pomigliano d'Arco
+Pomigliano d’Arco
 Pomezia
 Poggiomarino
 Poggibonsi
@@ -11939,7 +11939,7 @@ Pavia
 Parma
 Parabiago
 Palo del Colle
-Palazzolo sull'Oglio
+Palazzolo sull’Oglio
 Palagiano
 Pagani
 Padova
@@ -12032,7 +12032,7 @@ Lecco
 Lecce
 Latina
 La Spezia
-L'Aquila
+L’Aquila
 Lanciano
 Lainate
 Ladispoli
@@ -12120,7 +12120,7 @@ Como
 Cologno Monzese
 Collegno
 Colleferro
-Colle di Val d'Elsa
+Colle di Val d’Elsa
 Civitavecchia
 Città di Castello
 Cisterna di Latina
@@ -12153,7 +12153,7 @@ Castellammare di Stabia
 Castelfranco Veneto
 Castelfranco Emilia
 Cassino
-Cassano d'Adda
+Cassano d’Adda
 Casoria
 Caserta
 Cascina
@@ -12282,7 +12282,7 @@ Wādī as Sīr
 Umm as Summāq
 Saḩāb
 Mādabā
-Ma'an
+Ma’an
 Kurayyimah
 Judita
 Jarash
@@ -13212,7 +13212,7 @@ Eisen
 Yeoju
 Yesan
 Yangsan
-Yangp'yŏng
+Yangp’yŏng
 Yangju
 Yanggu
 Wŏnju
@@ -13269,7 +13269,7 @@ Goseong
 Gongju
 Kyosai
 Koesan
-Koch'ang
+Koch’ang
 Kimje
 Kimhae
 Gimcheon
@@ -13294,7 +13294,7 @@ Cheongsong gun
 Cheongju-si
 Cheonan
 Chinju
-Chinch'ŏn
+Chinch’ŏn
 Jinan-gun
 Jeju City
 Changwon
@@ -15112,8 +15112,8 @@ Sneek
 Sliedrecht
 Sittard
 Sint-Oedenrode
-'s-Hertogenbosch
-'s-Gravenzande
+’s-Hertogenbosch
+’s-Gravenzande
 The Hague
 Schijndel
 Schiedam
@@ -17452,7 +17452,7 @@ Neftekamsk
 Neftegorsk
 Nazran’
 Navashino
-Nar'yan-Mar
+Nar’yan-Mar
 Nartkala
 Naro-Fominsk
 Nal’chik
@@ -17623,7 +17623,7 @@ Kinel’-Cherkassy
 Kinel’
 Kimry
 Kimovsk
-Khot'kovo
+Khot’kovo
 Khosta
 Khoroshëvo-Mnevniki
 Kholmskiy
@@ -18104,7 +18104,7 @@ Arsen’yev
 Angarsk
 Amursk
 Aldan
-Dal'negorsk
+Dal’negorsk
 Bratsk
 Sayansk
 Khabarovsk Vtoroy
@@ -18142,7 +18142,7 @@ Kurortnyy
 Chernaya Rechka
 Untolovo
 Petrogradka
-Vasyl'evsky Ostrov
+Vasyl’evsky Ostrov
 Parnas
 Kalininskiy
 Krasnogvargeisky
@@ -18186,7 +18186,7 @@ Mecca
 Khamis Mushait
 Jizan
 Jeddah
-Ha'il
+Ha’il
 Duba
 Buraydah
 Abqaiq
@@ -18631,7 +18631,7 @@ Abéché
 Sagh
 Pala
 Oum Hadjer
-N'Djamena
+N’Djamena
 Moussoro
 Moundou
 Mongo
@@ -19830,7 +19830,7 @@ Dubno
 Drohobych
 Donetsk
 Dolyna
-Dolyns'ka
+Dolyns’ka
 Dokuchayevs’k
 Dobropillya
 Dnipropetrovsk
@@ -19882,8 +19882,8 @@ Alchevs’k
 Okhtyrka
 Komsomolsk
 Славутич
-Yuzhnoukrains'k
-Novoyavorivs'k
+Yuzhnoukrains’k
+Novoyavorivs’k
 Yumbe
 Wobulenzi
 Wakiso
@@ -20096,7 +20096,7 @@ Lake Worth
 Lake Worth Corridor
 Lakeland
 Lakeside
-Land O' Lakes
+Land O’ Lakes
 Largo
 Lauderdale Lakes
 Lauderhill
@@ -20197,7 +20197,7 @@ The Hammocks
 The Villages
 Three Lakes
 Titusville
-Town 'n' Country
+Town ’n’ Country
 University Park
 Valrico
 Venice
@@ -20300,7 +20300,7 @@ Jacksonville
 Marion
 Mattoon
 Mount Vernon
-O'Fallon
+O’Fallon
 Quincy
 Springfield
 Upper Alton
@@ -20532,14 +20532,14 @@ Jefferson City
 Joplin
 Kansas City
 Kirkwood
-Lee's Summit
+Lee’s Summit
 Lemay
 Liberty
 Manchester
 Maryland Heights
 Mehlville
 Nixa
-O'Fallon
+O’Fallon
 Oakville
 Overland
 Ozark
@@ -22631,7 +22631,7 @@ Loveland
 Windsor
 Boise
 Caldwell
-Coeur d'Alene
+Coeur d’Alene
 Eagle
 Idaho Falls
 Kuna
@@ -23258,8 +23258,8 @@ Ta‘izz
 Sayyān
 Sanaa
 Saḩar
-Sa'dah
-Ma'rib
+Sa’dah
+Ma’rib
 Laḩij
 Ibb
 Ḩajjah

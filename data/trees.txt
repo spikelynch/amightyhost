@@ -69,7 +69,7 @@ black pine
 Maria
 oriental plane
 puka
-Hercules'-club
+Hercules’-club
 laurelwood
 roble beech
 American mountain ash
@@ -220,14 +220,14 @@ shortleaf pine
 cucumber tree
 bay willow
 sweetleaf
-winter's bark
+winter’s bark
 coralwood
 kawaka
 jack oak
 weeping spruce
 goncalo alves
 Canada plum
-bullock's heart
+bullock’s heart
 ancient pine
 cornelian cherry
 medlar
@@ -372,7 +372,7 @@ longan
 matai
 European hackberry
 betel palm
-Queen's crape myrtle
+Queen’s crape myrtle
 big-tree plum
 smooth winterberry holly
 bunchberry
@@ -710,7 +710,7 @@ robusta coffee
 myrtle oak
 she-oak
 bearberry willow
-Parry's pinyon
+Parry’s pinyon
 South-African yellowwood
 silver tree
 Japanese oak

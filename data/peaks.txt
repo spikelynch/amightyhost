@@ -10,9 +10,9 @@ drumlins
 eskers
 fells
 glaciers
-moraine
+moraines
 mountains
-nunatak
+nunataks
 passes
 peaks
 ranges

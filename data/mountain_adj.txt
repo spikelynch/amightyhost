@@ -11,7 +11,7 @@ deadly
 desolate
 dread
 dusky
-long-echoing
+endless
 fearful
 frosty
 gaunt
@@ -25,12 +25,14 @@ ice-clad
 icy
 lofty
 lonely
+long-echoing
 misty
 mournful
 murky
 mystic
 night-dark
 piney
+red
 rocky
 sacred
 sky-piercing
