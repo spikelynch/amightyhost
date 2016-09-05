@@ -212,7 +212,7 @@ ciscoes
 lake whitefish
 Rocky Mountain whitefish
 round whitefish
-anomalop
+anomalops
 great barracudas
 batfish
 boarfish
@@ -2168,10 +2168,10 @@ iguanodons
 Edmontonias
 stegosaurs
 pachycephalosaurs
-protoceratop
+protoceratops
 psittacosaurs
 styracosaurs
-triceratop
+triceratops
 anatotitans
 corythosaurs
 edmontosauruses
@@ -2613,7 +2613,7 @@ daphnias
 fairy shrimps
 tadpole shrimps
 brits
-cyclop
+cyclops
 fish lice
 Dungeness crabs
 fiddler crabs
