@@ -188,40 +188,20 @@ Kharīsh
 Dunghayl
 Al Barqā’
 Raqaymā
-Yassat Gloria Hotel Apartments
-Rīzhangī
 Manzil Bāgh
 Kuhistan
-Khwājah Bādām
 Dzangal-e Sar-e Ḩowẕ
-Akram Bāy
-Mābīr Tapah
-Kōl-e Baluţ
-Owghan Nigar Tapah
 Bāgh-e Kōkarān
 Dzangal-e Warzū
 Bāgh-e Pul
 Qal‘ah-ye Jarnayl
 Siyāh Tāgaz
-Chihil Gazī Bābā
-Yakah-Khāk
-Rabāţ
 Bāgh-e Qārī Jān
-Zimistānī-ye Dōwansū
 Bāgh-e A‘lá Ḩaẕrat
-Sofee
-Mūshak Tapah
-Alaman Tapah
-Manşowr Tapah
-Shāh Timur
-Faqīr Pāyindah
-Mogila Sabay
 Bāgh-e Mi‘rāj ud Dīn
 Bāgh-e Ghulām Ḩaẕrat
 Bāgh-e Qalam ud Dīn
 Bāgh-e Wakīl Anwar
-Qabr-e Sulţān Ţilā’ī
-Qabr-e Muḩammad Nādir
 Jangal Bāgh
 Bāgh-e Ḩājī Walī
 Bāgh-e Mīrzā Gul Muḩammad
@@ -233,7 +213,6 @@ Bāgh-e ‘Abdul Majīd
 Malik Muḩammad ‘Omar Bāgh
 Ḩalīm Kalā
 Bāgh-e Ra’īs
-Sayyid Saubhan Quli Khan Madrasah
 Barbayk
 Dowlatī Dzangal
 Pylli i Kolesjanit
@@ -549,8 +528,6 @@ Tchipumo
 Calola
 Tchicole
 Lombere
-Beseda Prague Hotel
-Hilton Stockholm Slussen Hotel
 Monte Yaguareté Cuá
 Monte Tres Traperas
 Monte Tareirí
@@ -1004,7 +981,6 @@ Uriarra State Forest
 Granite Peaks State Forest
 West Frankland State Forest
 Byfield State Forest
-Murray River Holiday Park
 Hay State Forest
 Horseshoe Lagoon State Forest
 Campbells Island State Forest
@@ -1019,7 +995,6 @@ Willbriggie State Forest
 Pembelgong State Forest
 Beckom State Forest
 Binya State Forest
-Bredmo
 Norrskogarna
 Söderskogarna
 Utskogarna
@@ -1039,8 +1014,6 @@ Bukovača
 Hrastik
 Rastik
 Meškotine Šume
-Ljubojev Grob
-Hajdučko Groblje
 Hrastov Gaj
 Jasik
 Smrčevac
@@ -1094,7 +1067,6 @@ Char Lakshmipur Forest
 Kukuri Mukuri Forest
 Char Pātila Forest
 Kangali Forest
-Namopara Gorostha
 Zwartwaterbossen
 Zusterkloosterbos
 Zeven-Heerlijkhedenheide
@@ -1138,10 +1110,7 @@ Les Wêdetches
 Wackendflass
 Vrouwenbos
 Vroenenbos
-Vraag Heide
 Vorsdonkbos
-Voor Spiekelspade Heide
-Voorheide
 Vollonsbos
 Vogelzangbos
 Bois des Viviers
@@ -1252,14 +1221,11 @@ Sterrebos
 Stenenveld
 Stelebos
 Bois de Stéhoux
-Steertse Heide
 Steentjesbos
 Steenhovens
-Steenheide
 Bois de Staneux
 Bois de Stambruges
 Bois de Stalon
-Staleikerheide
 Staatbossen
 Spreeuwenkooi
 Spitaalsbossen
@@ -1304,7 +1270,6 @@ Bois de Séchefaux
 Bois de Sclessin
 Taille de la Scierie
 Schur Busch
-Schrikheide
 Schriekbos
 Schotersebossen
 Schock Busch
@@ -1315,7 +1280,6 @@ Scheutbos
 Schansheide
 Bois de Sayette
 Bois de Sautour
-Sausse Goor Heide
 Bois de Saumont
 Bois du Saucy
 Bois de Sart des Dames
@@ -1377,7 +1341,6 @@ Bois de Ronde Haie
 Bois de Ronchinne
 Bois de Ronce
 Bois Romont
-Rommersheide
 Bois de Roly
 Bois Roly
 Bois de Roisseau
@@ -1496,7 +1459,6 @@ Bois de la Part du Prince
 Bois de Paris
 Bois Pardon
 Bois d’Ozo
-Overbroekheide
 Bois d’Ouffet
 Oudenbos
 Bois de l’Ouchenée
@@ -1602,7 +1564,6 @@ Bois de Melreux
 Bois de Melch
 Bois Melard
 Bois de Meix devant Virton
-Meisvenner Heide
 Meibos
 Meerzelbos
 Meerdaalbos
@@ -1654,7 +1615,6 @@ Heide aan de Lommelse Gracht
 Bois de Loh
 Bois de Logneroeul
 Bois des Loges
-Litse Heide
 Bois Lionnet
 Lindelse Heide
 Lindebos
@@ -1683,7 +1643,6 @@ Bois du Hautmont
 Le Gros Bois
 Le Grelé
 Le Grand Bois
-Lege Heide
 Le Franc Bois
 Bois Lefebvre
 Bois Le Fays
@@ -1710,7 +1669,6 @@ Bois Larfaye
 Bois Laquaine
 La Passée du Cerf
 Lanklaarderbos
-Lange Heuvelheide
 Landwehring
 Bois de Lancre
 Bois de Lanchon
@@ -1753,7 +1711,6 @@ Klein Reusels Bos
 Kleine Bossen
 Kindel Busch
 Kerresbusch
-Kens Heide
 Keestrooibos
 Kauterbos
 Kattevenne Hei
@@ -1768,7 +1725,6 @@ Kapellebos
 Kambeen
 Kalsterbos
 Kallekensveldbos
-Kaaiebergs Heide
 Bois de la Justice
 Jungen Busch
 Bois des Jumais
@@ -1813,8 +1769,6 @@ Bois des Houillères
 Bois de la Houdrée
 Bois de Hotton
 Bois de l’Hôpital
-Hoog Maat Heide
-Hooge Mierdse Heide
 Hoogbos
 Honsfelder Wald
 Bois de Hondinfosse
@@ -1822,7 +1776,6 @@ Holvenheide
 Hohen Busch
 Hoge Vijvers Bos
 Hogenbos
-Hoge Heide
 Hoeverheide
 Hoeverbergen
 Hoevebos
@@ -1832,13 +1785,11 @@ Hez et Suette
 Hez de Harzé
 Bois d’Hez
 Bois de Hèvremont
-Heuvelse Heide
 Bois d’Heure
 Heulebos
 Bois de Hêtre
 Het Looi
 Bois de Hestrait
-Hesesheide
 Hertogenwald
 Herren Busch
 Bois de Heronnerie
@@ -1866,9 +1817,7 @@ Bois de Heide
 Heide
 Bois du Heid de Pouhon
 Heibos
-Heesakkers Heide
 Hée des Mainies
-Hechtelse Heide
 Bois de Hazy
 Bois de Hazeille
 Bois d’Hayon
@@ -1910,7 +1859,6 @@ Bois de Ham
 Bois de Halma
 Bois de Halleux
 Hallebos
-Half Ven Heide
 Bois de Haledet
 Bois du Haistreux
 Bois d’Hainin
@@ -1923,14 +1871,12 @@ Bois de la Haie
 Hagaardbos
 Bois de Habausaut
 Bois Habaru
-Haagdoorn Heide
 Heid Guiot
 Bois de Guéville
 Haies de Grune
 Bois de Grune
 Gruitroderbos
 Bois de Groumont
-Grote Heide
 Grossen Busch
 Grosse Haie
 Gross Bohlscheid
@@ -2015,7 +1961,6 @@ Bois de Frêcheux
 Taille Frechet
 Bois de Frasnoy
 Bois de Frasnes
-Franse Heide
 Bois de Franc Lieu
 Franche Haye
 Franche Forêt
@@ -2120,7 +2065,6 @@ Duistbos
 Drongengoedbos
 Drie Beuken Bos
 Dreiherrenwald
-Doverheide
 Dos du Loup
 Dorperheide
 Doolbos
@@ -2142,7 +2086,6 @@ Den Boskant
 De Moer
 De Kleine Bossen
 De Hees Bossen
-De Grote Heide
 De Gorten
 Bois des Deffes
 De Collinte
@@ -2302,10 +2245,8 @@ Bois de Bon-Secours
 Bois du Bonnier Navrimont
 Bois du Bon Lieu
 Bon Bois
-Bomer Heide
 Bois de Bologne
 Bollo Bos
-Bolkse Heide
 Bolet
 Boisteu Bois
 Bois Sépulcre
@@ -2314,11 +2255,9 @@ Bois de Bohan
 Bois de Bognimont
 Bodembos
 Bois de Blimont
-Blekerheide
 Bleekbos
 Bois de Blaregnies
 Bois de Blaimont
-Bladelse Heide
 Biolin
 Bois de Bilande
 Bois de Bierwart
@@ -2341,13 +2280,11 @@ Bois de Bertogne
 Bois de Berthomont
 Bertembos
 Bois de Bersillies
-Bersegem Heide
 Bois de Berscheid
 Bois de Bernihet
 Bois de la Berlière
 Bois Berleur
 Bois de Bérines
-Bergeise Heide
 Bergbos
 Bois de Bercuit
 Bois de Belvaux
@@ -2461,7 +2398,6 @@ Bois de Bescaille
 Bois d’Hambraine
 Waaiberg
 Wijngaardberg
-Ruige Heide
 Lièdji Moniékana
 Armédji Tifouga
 Lassa Ouaïré
@@ -2473,8 +2409,7 @@ Déssiboullé
 Fogol Diambé
 Gassél Manéré
 Boulon Forest
-The Forest of Koflandé
-Aparthotel Mont Blanc
+Forest of Koflandé
 Nakhl Umm ‘Abd Allāh
 Rawḑat aş Şakhīr
 Nakhl Lawzī
@@ -2583,9 +2518,6 @@ Mata do Pai Ricardo
 Floresta das Paineiras
 Floresta dos Trapicheiros
 Floresta São João
-Barcelo Bavaro Beach-Superior Front Ocean View Club Premium-Only Adults 18
-Quality Inn Faria Lima
-Hotel Mangabeiras
 Sao Pedro Forest
 Hoffmann Forest
 Les Godutishskaya Dacha
@@ -2603,7 +2535,6 @@ Shereshevskaya Pushcha
 Les Bel’mont
 Les Druyskaya Dacha
 Khatynskiy Les
-Kurgan Slavy
 Les Klevitsa
 Les Krevshchina
 Pagaujenų Miškas
@@ -2707,11 +2638,11 @@ St. Shores Woods
 St. Shotts Woods
 Sydney Bay Bluff
 Tare Fair Woods
-The Burnt Lands
-The Copse
-The Frenchmans Woods
-The Grove
-The Promised Land
+Burnt Lands
+Copse
+Frenchmans Woods
+Grove
+Promised Land
 Uncle Dicks Grove
 Vansittart Woods
 Walshs Woods
@@ -2719,9 +2650,6 @@ Wolf Grove
 Yetmans Grove
 Beach Maple bush
 Grampa’s House
-St Regis Hotel Vancouver
-Brewsters Mountain Lodge Deluxe Queen 2 Beds Cb
-Hearthstone Lodge One Bedroom
 Forêt Mozari
 Forêt Mogbondia
 Forêt de Libenge
@@ -2917,7 +2845,6 @@ Forêt Kanoué
 Forêt de Lac Kassembié
 Isla Orrego
 Valdivian Rain Forest
-Hotel Orly
 Réserve Forestière de Zamay
 Bois Yongo
 Forêt Yem
@@ -2986,10 +2913,6 @@ Gongnaisi Guojia Senlin Gongyuan
 Ye’erqiang Hehu Yanglin
 Shamo Huyang Linqu
 Jinhuyang Guojia Senlin Gongyuan
-Kai Sheng Xing Feng Int’l Hote
-Sheraton Hefei Xinzhan Hotel
-Greentree Inn Changsha Yuanjialing Hotel
-Super 8 Hotel Shanghai Hongqia
 Selva El Melón
 Selva de Concordia
 Selva de Manacacías
@@ -2998,8 +2921,6 @@ Bosque Puna Puna
 Selva del Manacacias
 Parque Nacional Natural El Tuparro
 Bosques de Coscuro
-Egina Medellin
-Real Intercontinental
 Pinales de Jutinicú
 Serpentine Barrens
 Dásos Rizoeliás
@@ -3222,7 +3143,6 @@ Zuckmantel
 Zucker-Wald
 Zucker Holz
 Zschornoer Wald
-Zschoppoheide
 Forst Zossen
 Zollchower Heide
 Forst Zolkow
@@ -3259,7 +3179,6 @@ Zichtauer Forst
 Zibbericker Wald
 Staatsforst Zeven
 Zeudener Wald
-Zerweliner Heide
 Zerrer Heide
 Zepeliner Holz
 Zenkenwald
@@ -3268,7 +3187,6 @@ Zeller Wald
 Zeller Stadtwald
 Zellerschlag
 Zeller-Forst
-Zellendorfer Heide
 Forst Zella
 Forst Zeitz
 Zeisigwald
@@ -3303,11 +3221,9 @@ Wurmberg
 Würgeser Wald
 Forst Wünnenberg
 Wünne
-Wüllenheide
 Wulkower Forst
 Wulfsahler Tannen
 Wulffensche Stiftungsforst
-Wulfener Heide
 Wuhlholz
 Wriedeler Busch
 Forst Wredenhagen
@@ -3321,14 +3237,12 @@ Workerszeller Forst
 Wörishofer Wald
 Woringer Wald
 Forst Worbis
-Wooster Heide
 Woltorfer Holz
 Woltersdorfer Heide
 Forst Woltersdorf
 Wöllsteiner Wald
 Wollrath
 Wollenholz
-Wollenberger Heide
 Wolgaster Stadtforst Peenemünde
 Wolfswinkel
 Wolfslohe
@@ -3351,21 +3265,17 @@ Wolfersberger Holz
 Wolferloher Forst
 Wolferlohe
 Woldzegartener Forst
-Woldegker Heide
 Wohnungswald
-Wohlt
 Wohld
 Forst Wocklum
 Wobraschken
 Witzlarner Forst
 Witzenhausener Forst
 Staatsforst Witzenhausen
-Wittstocker Heide
 Wittmunder Wald
 Wittmarwald
 Staatsforst Wittlich
 Forst Wittgendorf
-Wittenriede
 Wittenmoorer Forst
 Wittenburger Forst
 Withau
@@ -3412,7 +3322,6 @@ Forst Wildungen
 Wildsein
 Forst Wildpark Jasnitz
 Wildpark
-Wildheide
 Wildhau
 Wildenfelser Wald
 Forst Wildenfels
@@ -3426,7 +3335,6 @@ Wiesung
 Wiesenburger Forst
 Wiesecker Heide
 Wierlinger Forst
-Wiepersdorfer Heide
 Forst Wienrode
 Wiemarth
 Wieker Holz
@@ -3449,7 +3357,6 @@ Wetterstein-Wald
 Forst Wetter-Ost
 Wettelbach
 Weteritzer Forst
-Westruper Heide
 Westlicher Rauher Forst
 Westlicher Großer Wald
 Westerwald
@@ -3459,7 +3366,6 @@ Gehege Westerholz
 Westerholz
 Wester-Holz
 Forst Westerhof
-Westerheide
 Westerhäse
 Westerbraker Wald
 Westerberg
@@ -3472,7 +3378,6 @@ Forst Wernigerode
 Forst Wermsdorf
 Werlter Herrentannen
 Werler Wald
-Werder Heide
 Forst Werder
 Werder
 Werdauer Wald
@@ -3481,13 +3386,11 @@ Wenzlower Heide
 Staatsforst Wenzen
 Wenzelhauser Forst
 Wensöhlenberg
-Wensickendorfer Heide
 Wenser Holz
 Klosterforst Wennigsen
 Wennemer Mark
 Wendisch Teichholz
 Forst Wenau
-Welsickendorfer Heide
 Welschberg
 Weitmarer Holz
 Weitholz
@@ -3552,13 +3455,11 @@ Weichselgarten-Holz
 Weichel
 Weiche
 Weiberner Wald
-Wehrmathen Heide
 Wehringer Holz
 Wehrholz
 Wehrheimer Wald
 Wehrdaer Wald
 Wehrbüsch
-Wehnsdorfer Heide
 Wehe
 Wegberger Busch
 Wedeholz
@@ -3579,7 +3480,6 @@ Waschhorn
 Waschauf
 Wasbrunn
 Wartiner
-Warthesche Heide
 Warther Holz
 Wartenhorster Sundern
 Wart
@@ -3595,7 +3495,6 @@ Wanscheid
 Wannenwald
 Wannenebene
 Wanne
-Wankumer Heide
 Forst Wanfried
 Wandlwald
 Wamberger Wald
@@ -3634,7 +3533,6 @@ Waidach
 Wahrholz
 Gehege Wahrberg
 Forst Wahner Heide
-Wahlsdorfer Heide
 Wahlroder Wald
 Wahlholz
 Wagrain
@@ -3655,7 +3553,6 @@ Voßholz
 Voßberg
 Vorwerksbusch
 Vorholz
-Vorheide
 Vorhalde
 Forst Vorderwald
 Vorderwald
@@ -3668,7 +3565,6 @@ Vorderer Planitz
 Vorderer Grünwald
 Vorderer Anhau
 Vordere Märzenburg
-Vordere Heide
 Vordere Bärenlieb
 Vor dem Bätzloh
 Völkershausner Wald
@@ -3677,7 +3573,6 @@ Volkenroder Wald
 Voingholz
 Forst Vöhl
 Vohberg
-Vogelsheide
 Vogelsanger Forst
 Vogelsang
 Vogelholz
@@ -3706,7 +3601,6 @@ Vennheide
 Venneberg
 Venloer Heide
 Veltheimsburger Heide
-Velgaster Heide
 Veldensteiner Forst
 Vehlener Bauernheide
 Veerssener Wald
@@ -3797,7 +3691,6 @@ Forst Trostadt
 Trogtannen
 Trogelau
 Trochtelfinger Wald
-Tröbitzer Heide
 Trittenheimer Wald
 Staatsforst Trittau
 Trinkholz
@@ -3811,13 +3704,10 @@ Tresen
 Treptower Stadtforst
 Forst Tremsbüttel
 Trebuser Forst
-Trassenheide
-Tränkheide
 Tramper Forst
 Tralauer Holz
 Toter Mann
 Torwitzer Tannen
-Tornower Heide
 Forst Tornau
 Forst Torgelow
 Stadtforst Torgau
@@ -3853,7 +3743,6 @@ Thüren
 Thümmlitzwald
 Thumer Forst
 Thülswald
-Thransheide
 Thören-Wald
 Thon Wald
 Thonberg
@@ -3863,7 +3752,6 @@ Thiergarten
 Thiener Gehege
 Thiemitzwald
 Thielmannshorst
-Thieleberger Heide
 Forst Theuern
 Theuern
 Thesenwald
@@ -3882,7 +3770,6 @@ Forst Thale
 Forst Thal
 Teyendorfer Forst
 Teverenerheide
-Teupitzer Heide
 Teufelstein
 Teufelstanger
 Teufelsloch
@@ -3911,7 +3798,6 @@ Taucherwald
 Tauberwald
 Taubenlohe
 Taubenloch
-Taubendorfer Heide
 Tattenbacher Holz
 Taschenwald
 Taschenried
@@ -3955,7 +3841,6 @@ Suttroper Wald
 Süsing
 Surheide
 Süntel-Wald
-Sundernheide
 Sündern
 Sundern
 Sünder-Holz
@@ -3973,7 +3858,6 @@ Sulpacher Wald
 Süllbusch
 Süll
 Forst Suhl
-Süerhops Heide
 Südwald
 Südtannen
 Südlicher Rauher Forst
@@ -3982,7 +3866,6 @@ Sudholz
 Südfeld
 Forst Süderlügum
 Süderholz
-Süder Heide
 Suckower Tannen
 Suckower Forst
 Stuven-Wald
@@ -3994,7 +3877,6 @@ Stülper Forst
 Stuiben Wald
 Stuhlwald
 Stuhl Holz
-Stühheide
 Stühe
 Stüh
 Stüdtloh
@@ -4019,7 +3901,6 @@ Strezerberg
 Streulach
 Streu-Hölzer
 Streugrün
-Stresower Heide
 Strelitzer Stadtforst
 Forst Strelitz
 Streitwald
@@ -4027,7 +3908,6 @@ Streit Wald
 Streitlach
 Streit Holz
 Streitheimer Forst
-Streitheide
 Streiteiche
 Streichholz
 Streichgarten
@@ -4079,14 +3959,12 @@ Stiegelgehau
 Forst Stiege
 Gemeindewald Stettfeld
 Sternhagener Forst
-Sternebecker Heide
 Sternbusch
 Forst Sternberg
 Stenumer Holz
 Stendaler Forst
 Stelzenhau
 Stellwald
-Stellheide
 Steller Wald
 Stelle
 Steinsahl
@@ -4117,7 +3995,6 @@ Steinbruchwald
 Steinbruch
 Steinborner Wald
 Steinbecker Holz
-Steinbecker Heide
 Steinbecker Busch
 Steinbeck
 Forst Steinbach-Hallenberg
@@ -4170,7 +4047,6 @@ Staffel Wald
 Staatsforst Stadtoldendorf
 Forst Stadt Kamenz
 Stadt-Holz
-Stadtheide
 Stadtfichte
 Stadlholz
 Stadelsbach
@@ -4193,7 +4069,6 @@ Forst Sprakensehl
 Spornritt
 Spitzrain
 Spitzholz
-Spitzheide
 Spitzenwald
 Spitze
 Spitalwald
@@ -4202,7 +4077,6 @@ Spitalholz
 Spital Holz
 Spital-Holz
 Spindler Wald
-Spiller Heide
 Staatsforst Spießingshol
 Spielstück
 Spielberger Wald
@@ -4211,14 +4085,11 @@ Sperber-Wald
 Sperberhai
 Sperbelhau
 Spellersand
-Spellener Heide
 Speldorfer Wald
 Speisekammer
 Speicherer Wald
 Specker Wold
 Spatzenwald
-Spascher Heide
-Sparrheide
 Sparenwald
 Spantekower Forst
 Spanischer Reiter
@@ -4276,13 +4147,11 @@ Siggerwald
 Siggelkower Tannen
 Siferlinger Holz
 Sieverstannen
-Sieversdorfer Heide
 Sietower Forst
 Siethener Elsbruch
 Forst Siethen
 Sießen
 Forst Siegen
-Siegeheide
 Siedenholz
 Siechen Wald
 Staatsforst Sieber
@@ -4294,16 +4163,11 @@ Sieben Gemeinde Wald
 Forst Siebengebirge
 Seybruch
 Sewekower Tannen
-Sevelener Heide
 Seulinger Wald
 Seugaster Schlag
-Sernower Heide
 Forst Serno
-Senziger Heide
-Senster Heide
 Senkenbusch
 Senkele Wald
-Semper Heide
 Semlower Holz
 Forst Selters
 Sellingsloh
@@ -4353,9 +4217,7 @@ Sechserholz
 Sebnitzer Wald
 Sebalder Reichswald
 Forst Sdier
-Schwinzer Heide
 Schwinkendorfer Forst
-Schwiesauer Heide
 Schwerter Wald
 Forst Schwenow
 Schwendi Wald
@@ -4364,7 +4226,6 @@ Schwende
 Schweizerwald
 Schweizer Holz
 Schweinwald
-Schweinsheide
 Schweinsbrücker Tannen
 Forst Schweinsberg
 Schweinlache
@@ -4389,7 +4250,6 @@ Schwarzer Hau
 Schwarzer Forst
 Schwarzer Busch
 Schwarzenbach-Wald
-Schwarze Heide
 Schwarzeberg Tannen
 Schwarzbusch
 Forst Schwarzburg
@@ -4397,8 +4257,6 @@ Schwarzbruch
 Schwarzacher Wald
 Forst Schwarza
 Schwanter Forst
-Schwanheide
-Schwaneweder Heide
 Schwambach
 Schwalbenholz
 Schwaighauser Forst
@@ -4422,22 +4280,18 @@ Schuckhof
 Schrot
 Schrög
 Schrenzer
-Schreemheide
 Schraudenbacher Forst
 Schrannenholz
 Schragengehau
 Schottner Wald
 Schottenholz
-Schotenheide
 Schotenberg
 Schorren
 Schornwald
 Schornholz
-Schornheide
 Schornbusch
 Schorn
 Schorfwinkel
-Schorfheide
 Schorbuser Forst
 Forst Schönwalde
 Schönstedter Holz
@@ -4459,7 +4313,6 @@ Schöner Forst
 Schönenberg
 Schönegger Forst
 Schönefelder Wald
-Schönefelder Heide
 Schönefelder Busch
 Schönecker Stadtwald
 Schöneck
@@ -4496,17 +4349,14 @@ Schmidschlag
 Schmetzdorfer Heide
 Schmerwitzer Forst
 Schmertzker Heide
-Schmeltenheide
 Schmeller
 Schmellboch
 Schmauheide
-Schmaloer Heide
 Schmalkaldener Stadtwald
 Schmalholz
 Schlüsselfelder Stadtwald
 Schluppwald
 Schluifelder Wald
-Schluchter Heide
 Forst Schlowe
 Schloß-Wald
 Schloßholz
@@ -4519,9 +4369,7 @@ Schlichter
 Schlichtenberger Forst
 Forst Schleusingen
 Schleusenholz
-Schleuener Heide
 Schlettauer Stadtwald
-Schlenzer Heide
 Schlenke
 Schlemminer Tannen
 Schlemminer Holz
@@ -4538,7 +4386,6 @@ Schlattwald
 Schlatte
 Schlangenbrink
 Schlag-Holz
-Schlägers Heide
 Schlagenthiner Forst
 Schlagenhofener Buchet
 Schlag
@@ -4556,7 +4403,6 @@ Forst Schildfeld
 Schifferstädter Gemeinde-Wald
 Schiessecken
 Schießbusch
-Schierk Hagenheide
 Forst Schierke
 Schieringen
 Schierenwald
@@ -4581,7 +4427,6 @@ Scheidwald
 Scheid Wald
 Wald Scheid
 Scheid
-Scheibenberger Heide
 Forst Scheibe-Alsbach
 Forst Scheibe
 Scheibe
@@ -4601,7 +4446,6 @@ Forst Scharfenstein
 Scharfen-Holz
 Scharfenberger Wald
 Schar
-Schäper Heide
 Schandlohe
 Schandel-Holz
 Schalksloh
@@ -4669,7 +4513,6 @@ Salingsloher Forst
 Salias Kienheide
 Salenwald
 Salenhau
-Salemer Heide
 Salchgraben
 Salach
 Sailershausner Wald
@@ -4697,12 +4540,10 @@ Saalfelder Stadtforst
 Forst Saalburg
 Saaghorst
 Forst Rützengrün
-Rüthnicker Heide
 Forst Rüthnick
 Ruth-Holz
 Rüthener Stadtforst
 Ruthenbruch
-Rütgenheide
 Rüsselsheimer Wald
 Forst Rusch
 Rusch
@@ -4775,9 +4616,7 @@ Rotenacker
 Rote Gräben
 Röt
 Rostocker Stadtforst
-Rostocker Heide
 Roster Wald
-Rossower Heide
 Forst Roßlau
 Forst Roßla
 Roßkopf Forst
@@ -4818,12 +4657,10 @@ Rohnscheid
 Rohmmoor
 Röhlinwald
 Rodinger Forst
-Rödernsche Heide
 Rodenhardt
 Rödelholz
 Rodebusch
 Rocksbüsch
-Rochauer Heide
 Röbeler Wold
 Röbeler Stadtforst
 Gutsforst Rixförde
@@ -4832,13 +4669,11 @@ Rittlebener Wald
 Ritterwald
 Rittermannshäger Holz
 Ritterholz
-Rittergutsheide
 Rißholz
 Ripsdorfer Wald
 Rintger Bruch
 Rintelnscher Hagen
 Ringsee Filz
-Ringenwalder Heide
 Ringenwalder Forst
 Ringener Wald
 Ringelsteiner Wald
@@ -4851,9 +4686,7 @@ Riethholz
 Rieth-Holz
 Rietdorfer Holz
 Riesenschüssel
-Riesdorfer Heide
 Rieschenholz
-Riepsheide
 Riepenholz
 Riensheide
 Riemsloher Wald
@@ -4872,7 +4705,6 @@ Forst Rhoden
 Rhinsmühler Heide
 Rhenser Wald
 Rheinwald
-Rheinsberger Bürgerheide
 Forst Rheinsberg
 Rheindahlener Wald
 Rheinbrohler Wald
@@ -4927,7 +4759,6 @@ Forst Rehna
 Rehloh
 Rehlinger Busch
 Rehhorst
-Rehhornheide
 Rehhecken-Wald
 Rehhahn
 Rehhagen
@@ -4937,9 +4768,7 @@ Rehburger Stadtforst
 Staatsforst Rehburg
 Rehbruch
 Rehberg-Wald
-Reesdorfer Heide
 Redwitzer Wald
-Redliner Heide
 Forst Reddern
 Recherbusch
 Rechberger Buch
@@ -4978,7 +4807,6 @@ Forst Ramm
 Ram Holz
 Rambach
 Ralswieker Forst
-Rakener Heide
 Raitler
 Raitenbucher Forst
 Rainerwald
@@ -4986,18 +4814,14 @@ Raineck Wald
 Rain
 Rahser Bruch
 Rahringsundern
-Rahenerheide
 Rahder Holz
 Ragower Forst
 Forst Rägelsdorf
-Raffheide
 Radstein
 Rädigker Wald
 Radeweger Wald
 Radenslebener Wald
-Radelander Heide
 Radeland
-Radeburger Heide
 Radbruchsforst
 Radauer Holz
 Räckholz
@@ -5039,12 +4863,10 @@ Prül
 Prozeltener Wald
 Prövenholz
 Prötzeler Forst
-Proßmarker Heide
 Propsteiholz
 Propstei
 Prölsdorfer Wald
 Pröbsting Busch
-Probstheide
 Probsteier Wald
 Probst
 Pritzhagener Forst
@@ -5053,10 +4875,8 @@ Prislicher Tannen
 Prinz Louis
 Priestertannen
 Priesterholz
-Prießener Heide
 Priemer Wald
 Priemernsche Heide
-Priborner Heide
 Prezeller Wald
 Pretschener Wald
 Prenzlauer Stadtforst
@@ -5075,8 +4895,6 @@ Posade
 Poppenwald
 Pöppelholz
 Ponholz
-Pommerheide
-Pommelheide
 Polzower Wald
 Polvitzer Forst
 Forst Pölsfeld
@@ -5093,9 +4911,7 @@ Pohlsche Heide
 Forst Pöhla
 Pöhl
 Forst Poggendorf
-Pockinger Heide
 Pochwald
-Plugger Heide
 Plötziner Fichten
 Plößberger Wald
 Plessenholz
@@ -5104,7 +4920,6 @@ Plauener Stadtwald
 Plattenschlag
 Plankenbacher Holz
 Forst Planken
-Planheide
 Planegger Holz
 Pinnower Wald
 Pinnower Forst
@@ -5114,7 +4929,6 @@ Pilsholz
 Pielenhofener Wald
 Forst Picher
 Pfünzer Forst
-Pfügkuffer Heide
 Pfortaer Forst
 Forst Pforta
 Pflückuff
@@ -5137,13 +4951,11 @@ Forst Pfaffroda
 Pfaffen-Wald
 Pfaffenstein
 Pfaffenholz
-Pfaffenheide
 Pfaffendicke
 Pfaffenberg
 Peutscher Forst
 Petriholz
 Peterswald
-Pestruper Heide
 Pessiner Heide
 Perleberger Stadtforst
 Perlacher Forst
@@ -5158,7 +4970,6 @@ Staatsforst Peine
 Forst Pechteich
 Pechernsche Heide
 Pavorsstruve
-Paulsdorfer Heide
 Forst Paulinzella
 Pattrich
 Forst Paterdamm
@@ -5179,7 +4990,6 @@ Panschenhagen
 Pankower Tannen
 Palmlohe
 Palmenwald
-Palingener Heide
 Paintener Forst
 Pagen Holz
 Pafferscheid
@@ -5188,13 +4998,11 @@ Pachtener Buchwald
 Pabstwald
 Pabsdorfer Wald
 Oyler Wald
-Oxstedter Heide
 Ovinghauser Wald
 Ötz-Wald
 Forst Ottrau
 Ottmannsdorfer Wald
 Öttinger Forst
-Otterschützer Heide
 Otterschütz
 Otterlach
 Ottenheimer Wald
@@ -5231,7 +5039,6 @@ Oschatzer Küchenwald
 Forst Osburg
 Orzen
 Ortholz
-Örreler Heide
 Orenhofener Wald
 Örbker Gehege
 Forst Oranienbaum
@@ -5239,7 +5046,6 @@ Oppershausener Holz
 Ophovener Wald
 Omerz
 Olzheimer Wald
-Ölsiger Heide
 Ölpoint
 Olefer Kirchenwald
 Oldisleber Forst
@@ -5314,7 +5120,6 @@ Ober-Holz
 Ober Holz
 Forst Oberhof
 Oberheimbacher Wald
-Ober Heide
 Oberheide
 Oberhagen Buchholz
 Obergebraer Wald
@@ -5360,19 +5165,15 @@ Oberbrunner Holz
 Oberbirken
 Forst Oberaula
 Obdrupholz
-Nützener Heide
 Nudelwald
 Nothaftenholz
-Nossentiner Heide
 Nörvenicher Wald
 Northeimer Wald
 Northeimer Stadtwald
 Nörtener Wald
-Norstedter Heide
 Nordholzer Tannen
 Nordesch
 Nörder Wald
-Norder Heide
 Nordenberger Forst
 Nonnenwald
 Nonnen Wald
@@ -5391,7 +5192,6 @@ Nieplitzer Oberholz
 Staatsforst Nienover
 Nienhofer Forst
 Nienhege
-Nienhagener Heide
 Forst Nienhagen
 Niendorfer Wald
 Niendorfer Tannen
@@ -5405,7 +5205,6 @@ Niederwald
 Nieder Wald
 Niederraschütz
 Niederntudorfer Wald
-Nieder Landiner Heide
 Nieder Lahnsteiner Wald
 Niederheimbacher Wald
 Niederheide
@@ -5420,7 +5219,6 @@ Nicola-Holz
 Nickertshalde
 Nickenicher Wald
 Nickels-Wald
-Nexdorfer Heide
 Neuwieder Stadtwald
 Forst Neuwied
 Neu Wald
@@ -5449,8 +5247,6 @@ Neukirchener Wald
 Forst Neukirchen
 Neuhütten Wald
 Forst Neuhof-Ost
-Neuhöfer Heide
-Neuhofer Heide
 Neuhofer Busch
 Neuheege
 Neuhäuslewald
@@ -5460,7 +5256,6 @@ Forst Neuhaus am Rennweg-Igelshieb
 Staatsforst Neuhaus
 Neuhau
 Forst Neuhardenberger
-Neugrabener Heide
 Forst Neu Glienecke
 Neufahrner Holz
 Neue Welt
@@ -5470,10 +5265,8 @@ Forst Neueschenke
 Neues Bruch
 Forst Neuenstein
 Staatliche Klosterforst Neuensothrieth
-Neuenrieger Heide
 Forst Neuenkrug
 Forst Neuenheerse
-Neuendorfer Heide
 Forst Neuendorf
 Neuendettelsauer Wald
 Neuenahrer Wald
@@ -5496,7 +5289,6 @@ Neubann
 Netzener Forst
 Forst Netze
 Forst Neschwitz
-Neschholzer Heide
 Nepke
 Forst Nentershausen
 Nemitzer Wald
@@ -5509,15 +5301,12 @@ Nebraer Forst
 Nebel Holz
 Forst Naunhof
 Naundorfer Morl
-Naundorfer Heide
 Naumburger Stadtwald
 Forst Naumburg
 Nauheimer Oberwald
 Nauener Stadtforst
-Natteheide
 Nastätter Stadtwald
 Nasser Schlag
-Nasse Heide
 Nassauer Wald
 Forst Nassau
 Nannhofer Wald
@@ -5527,7 +5316,6 @@ Mustiner Holz
 Müsser Dickt
 Muskauer Heide
 Murrhardter Wald
-Mürower Heide
 Murner Holz
 Murgschiffershaftswald
 Mürel
@@ -5541,7 +5329,6 @@ Mundwald
 Mündersche Stadtforst
 Mündener Stadtforst
 Münchsbach Holz
-Münchhausener Heide
 Müncherholz
 Müncheberger Forst
 Münchberger Stadt-Wald
@@ -5569,7 +5356,6 @@ Müggenbusch
 Müdener Wald
 Muckenschupf
 Muckenmahd
-Mückendorfer Heide
 Müchelholz
 Forst Mottgers-Nord
 Försterei Möttau
@@ -5589,7 +5375,6 @@ Moosloh
 Mooslache
 Mooskammer
 Moosholz
-Moosheide
 Moosbacher Wald
 Moosbach
 Moos-Au
@@ -5597,7 +5382,6 @@ Moosanger
 Moortannen
 Försterei Moorsgrund
 Moor-Holz
-Moorheide
 Montabaurer Stadtwald
 Forst Montabaur
 Forst Monschau
@@ -5608,14 +5392,12 @@ Mönchswald
 Mönchstanne
 Mönchsondheimer Holz
 Mönchsholz
-Mönchsheide
 Forst Mönchröden
 Mönchholz
 Mönchforst
 Mönchenhöfener Fichten
 Mönau
 Momberger Wald
-Möllendorfer Heide
 Möllenbecker Holz
 Moischeider Wald
 Forst Moidentin
@@ -5624,8 +5406,6 @@ Moholzer Forst
 Mohn-Holz
 Möhnbach
 Möderitzer Tannen
-Mochlitzer Heide
-Mochheide
 Mochenwanger Wald
 Mittlerer Wald
 Mittlerer Stadt Wald
@@ -5648,7 +5428,6 @@ Mindelheimer Stadtwald
 Miltacher Holz
 Milkeler Heide
 Forst Milkel
-Mildenitzer Heide
 Michelherd
 Michelheidewald
 Michelfelder Wald
@@ -5659,28 +5438,23 @@ Forst Meusebach
 Meuruer Wald
 Metzen
 Metzelthiner Forst
-Meseberger Heide
 Merziger Wald
 Merzenicher Erbwald
 Merzen
-Merzdorfer Heide
 Mertelgarten
 Merscheid
 Meroder Wald
 Merler Hecke
-Mergelheide
 Forst Merenberg
 Merbecker Busch
 Forst Meppen
 Forst Menz
-Mennrathheide
 Meninger Holz
 Forst Mengersgereuth-Hämmern
 Mendener Stadtforst
 Melzinger Heide
 Melsunger Stadtwald
 Forst Melsungen
-Mellenthiner Heide
 Forst Meißner
 Meißendorfer Gehege
 Meisert
@@ -5707,7 +5481,6 @@ Matutschen
 Matuswald
 Mattheiser Wald
 Mathiesheide
-Mathheide
 Masterholz
 Mastbruch
 Massower Holz
@@ -5724,7 +5497,6 @@ Marscheider Wald
 Marschallshagen
 Marnitzer Buchen
 Forst Marnitz
-Marler Heide
 Markwald
 Mark Wald
 Marchwald
@@ -5736,7 +5508,6 @@ Mark Holz
 Markgrafenwald
 Märkerwald
 Forst Markersbach
-Markendorfer Heide
 Markendorfer Forst
 Markdickicht
 Mark
@@ -5784,7 +5555,6 @@ Mahd
 Forst Magenbuch
 Forst Magdeburgerforth
 Madfelder Wald
-Mackenstedter Heide
 Mackeloh
 Machelberger Wald
 Maasholm
@@ -5797,7 +5567,6 @@ Lutzengrundwald
 Lützelsoon
 Lützelforst
 Forst Lüttow Kölzin
-Lüttichauer Heide
 Lutterberger Wald
 Staatsforst Lutter am Barenberge
 Forst Lüttenhagen
@@ -5810,13 +5579,11 @@ Staatsforst Lüß
 Lüschow
 Lupenbach
 Lünsholz
-Lunower Bauernheide
 Forst Lungkwitz
 Klosterforst Lüneburg
 Lunau
 Luittgenblatt
 Forst Luisenthal
-Lühsdorfer Heide
 Luhnstedter Gehege
 Luhner Holz
 Lugewald
@@ -5836,9 +5603,7 @@ Forst Lüchow
 Forst Lübz
 Lübsches Gehölz
 Lübower Holz
-Lubolzer Heide
 Lübnitzer Wald
-Lubminer Heide
 Lübesser Hude
 Lübberitzer Forst
 Lübbener Stadtforst
@@ -5846,7 +5611,6 @@ Forst Lübbenau
 Forst Lübben
 Forst Lößnitz
 Lossaer Forst
-Loskenheide
 Losheimer Forst
 Lörsfelder Busch
 Lorscher Wald
@@ -5868,7 +5632,6 @@ Löhrsdorfer Holz
 Löhren
 Lohrain
 Lohner Holz
-Lohner Heide
 Forst Lohmen
 Löhlitzer Wald
 Löhle
@@ -5883,7 +5646,6 @@ Löhbusch
 Lohbusch
 Lohberger Wald
 Loh
-Loehr Heide
 Forst Lödderitz
 Lochwald
 Lochower Wald
@@ -5906,9 +5668,7 @@ Linnewedel
 Lingener Stadtforst
 Staatsforst Lingen
 Forst Lingelbach
-Lindthaler Bauernheide
 Lindower Stadtforst
-Lindower Heide
 Lindloh
 Lindig
 Lindhörste
@@ -5916,7 +5676,6 @@ Lindhorn
 Lindholz
 Linder Wald
 Lindert
-Linder Heide
 Linden-Wald
 Lindenschlag
 Lindenorter Forst
@@ -5925,12 +5684,10 @@ Lindenhardter Forst
 Linden Graben
 Lindengehau
 Lindenbusch
-Lindenbrücker Heide
 Lindenberger Wald
 Lindenauer Forst
 Lindeloh
 Forst Lindau
-Lindaer Heide
 Lindach Wald
 Lindach
 Linauer Zuschlag
@@ -5938,7 +5695,6 @@ Linasteig
 Limpurger Forst
 Limbacher Hölzer
 Liesner Wald
-Lieskauer Bauernheide
 Liesenicher Wald
 Lieper Tannenheide
 Liepener Forst
@@ -5949,7 +5705,6 @@ Forst Lieberose
 Forst Liebenwerda
 Forst Liebenwalde
 Forst Liebenburg
-Liebenberger Heide
 Liebenauer Kiefern
 Lichtholz
 Lichtes Holz
@@ -5976,10 +5731,8 @@ Lettensturz
 Lettbusch
 Letschower Tannen
 Lesser Wald
-Lerchenfeld
 Lerchenbergwald
 Lerchenbaum
-Leppiner Heide
 Leopolds Wald
 Lenoren Wald
 Lemgoer Mark
@@ -5997,7 +5750,6 @@ Leiberger Wald
 Lehwald
 Lehrwald
 Staatsforst Lehre
-Lehnsdorfer Heide
 Forst Lehnin
 Lehmriede
 Lehmrader Tannen
@@ -6022,7 +5774,6 @@ Staatsforst Lauterberg
 Lauterbacher Holz
 Forst Lauter
 Staats forst Lautenthal
-Laußnitzer Heide
 Laushalde
 Lausetannen
 Laugnaer Wald
@@ -6042,7 +5793,6 @@ Lassahnsche Tannen
 Lappwald
 Lappen-Stuhl
 Lanzer Wald
-Lanzenhagen Bander Heide
 Langweiler Wald
 Langweid Forst
 Langulaer Holz
@@ -6071,7 +5821,6 @@ Langenlonsheimer Wald
 Langenlohe
 Längenloch
 Langenlehstener Tannen
-Langenlehstener Heide
 Staatsforst Langenholzhausen
 Langenholz
 Langenholtenser Wald
@@ -6081,7 +5830,6 @@ Forst Langenfeld
 Langener Wald
 Langenbruch
 Forst Langenberg
-Langemathen Heide
 Staatsforst Langelsheim
 Forst Langeloh
 Lange Leite
@@ -6113,7 +5861,6 @@ Laarbruch
 Forst Laar
 Laag
 Forst Kyffhausen
-Kutzerower Heide
 Kürnach Wald
 Küren Wald
 Kuppelholz
@@ -6135,7 +5882,6 @@ Kuhlshoop
 Kuhkoppel
 Kuhknick
 Kuhholz
-Kuhheide
 Kuhheck
 Kuhblanker Heide
 Kühberger Holz
@@ -6148,12 +5894,9 @@ Küchwald
 Kübelboden
 Krüssauer Forst
 Krummschlag
-Krummendammer Heide
-Krümmeler Heide
 Forst Krumke
 Krumbecker Forst
 Krukower Zuschlag
-Krugschütz-Heide
 Krug Holz
 Krügersdorfer Wald
 Krugauer Heide
@@ -6165,18 +5908,15 @@ Forst Krottorf
 Krottenhiller Wald
 Krötensee-Wald
 Krötenpfuhl
-Kropstädter Heide
 Kroppener Forst
 Kröppel
 Kronwald
 Kron-Holz
-Kroner Heide
 Kronenholz
 Kronenburger Wald
 Kronberger Stadtwald
 Krohner Holz
 Forst Krofdorf
-Kröchlendorffer Heide
 Kröchersche Forst
 Kröbel-Wald
 Kritzkower Gehege
@@ -6205,7 +5945,6 @@ Krechel-Holz
 Krebsburg
 Kratzbusch
 Krattkoppel
-Krassiger Heide
 Kraspen
 Krangener Forst
 Krämersreute
@@ -6244,7 +5983,6 @@ Konreuth
 Konker Wald
 Forst Königs Wusterhausen
 Königswieser Forst
-Königswarthaer Heide
 Forst Königsthal
 Forst Königstein
 Königstädter Wald
@@ -6264,18 +6002,14 @@ Königsberg-Wald
 Königsberger Forst
 Stadtwald Königsberg
 Forst Komthurei Lietzen
-Kolzenburger Heide
 Kolverath
 Forst Kolpin
-Kolpiener Heide
 Kolmannswald
 Kolly
 Köllnischer Wald
-Kollnersheide
 Köllingsmoor
 Köllertaler Wald
 Kollergarten
-Koldings Heide
 Kolbower Tannen
 Kolberbuch
 Kolbenschlag
@@ -6355,7 +6089,6 @@ Forst Klein Wasserburg
 Kleinschmalkaldener Wald
 Forst Klein Schmalkalden
 Kleinmittelstück
-Kleinkrausniker Heide
 Kleinholz
 Klein Hevenbruch
 Klein Gleiner Forst
@@ -6372,10 +6105,7 @@ Kleinen Drüsen
 Kleinenberger Wald
 Kleine Lucie
 Kleine Lissa
-Kleine Leipischer Heide
 Kleine Hollerscheid
-Kleine Henstedter Heide
-Kleine Heide
 Kleine Hasbach
 Kleine Hardt
 Klein Buckower Wald
@@ -6386,7 +6116,6 @@ Klee Holz
 Kleefeld
 Kleckerwald
 Klebwald
-Klausdorfer Heide
 Klassenhart
 Klarhorst
 Kitzkorb
@@ -6404,12 +6133,9 @@ Kirchheimer Wald
 Kirchhalde
 Kirchert
 Kirchen Wald
-Kirchenstocksheide
 Kirchen Holz
 Kirchen-Holz
 Kirchenholz
-Kirchen-Heide
-Kirchenheide
 Forst Kirchen
 Kirchbühl
 Kirchbucherholz
@@ -6422,19 +6148,15 @@ Forst Kieve
 Kiesholz
 Kieselberg
 Kienmooswald
-Kienheide
 Kienbogenposse
 Kielmannsegg
 Kiekenbruch
 Kiehnstücken
 Kiehnlaake
-Kiehn Heide
 Kiehnheide
 Kiefhorst
 Kiefholz
-Kiefheide
 Kiefern-Wäldchen
-Kiebitzheide
 Keuppelrain
 Keulaer Wald
 Ketzürer Heide
@@ -6454,7 +6176,6 @@ Kerkwitzer Wald
 Kenzendorfer Forst
 Kemtauer Wald
 Kempter Wald
-Kemnitzer Heide
 Kemmener Forst
 Kemeler Heide
 Kelsterbacher Wald
@@ -6462,7 +6183,6 @@ Kellmünzer Wald
 Kellerswald
 Kellerschlag
 Kellerholz
-Keitumer Heide
 Keit-Holz
 Keilholz
 Kehrigker Wald
@@ -6475,7 +6195,6 @@ Stiftswald Kaufungen
 Kauber Stadtwald
 Katz Wald
 Forst Katzhütte
-Katzheide
 Katzenriet
 Forst Katzenbach
 Staatsforst Kattenbühl
@@ -6540,7 +6259,6 @@ Kammerau
 Kammberg
 Kamer Mark
 Kameral-Wald
-Kaltes Feld
 Kaltenlohe
 Kaltenbuch
 Kalte Bögen
@@ -6564,7 +6282,6 @@ Kaarzer Holz
 Junkerspitze
 Jünkernwald
 Junkernhofer Forst
-Junkerheide
 Jungwald
 Junginger Wald
 Jung-Holz
@@ -6577,7 +6294,6 @@ Jungfernbirken
 Junger Wald
 Jungenwald
 Jungenheide
-Jühnsdorfer Heide
 Forst Judenbach
 Jüchsener Wald
 Joster Wald
@@ -6598,14 +6314,12 @@ Jessener Stadtforst
 Jersbeker Forst
 Jenaer Forst
 Forst Jena
-Jemmeritzer Heide
 Jederitzer Holz
 Jävenitzer Bauernheide
 Forst Jävenitz
 Jatzkerwald
 Forst Jänschwalde
 Jänkendorfer Forst
-Jänickendorfer Heide
 Jammerholz
 Jameler Forst
 Jakobspfad
@@ -6686,7 +6400,6 @@ Igelshieb
 Igelsbett
 Idarwald
 Huvenhoopsmoor
-Hüttruper Heide
 Hütter Wohld
 Hüttersdorf-Bupricher Wald
 Hüttenhau
@@ -6738,7 +6451,6 @@ Hört-Wald
 Hörter Bruch
 Horstwald
 Horstriede
-Horstmanns Heide
 Horster Holz
 Horstbüsche
 Horst
@@ -6758,7 +6470,6 @@ Hörle
 Horkenbusch
 Hopfner Wald
 Hopfenwinkel
-Hopfenheide
 Hönninger Wald
 Hönig
 Höner Tannen
@@ -6777,7 +6488,6 @@ Staatsforst Holzminden-Schießhaus
 Staatsforst Holzminden
 Gehege Holzkoppel
 Holzkoppel
-Holzhauser Heide
 Forst Holzhausen
 Holzhausen
 Holzfelder Forst
@@ -6802,7 +6512,6 @@ Höllgehau
 Holler Wald
 Hollerschlag
 Hollerscheid
-Holler Heide
 Höllengründe
 Hollener Heide
 Hollenberger Wald
@@ -6843,7 +6552,6 @@ Hohenlohesche Forst Oppurg
 Hohenlinder Gemeinde-Holz
 Hohenkuhnsdorfer Wald
 Höhenkirchner Forst
-Hohenjesarsche Heide
 Hohenhorst
 Hohenholz
 Höhenholz
@@ -6852,7 +6560,6 @@ Hohenfinower Wald
 Hohenfiert
 Hohenecker Forst
 Hohenbühl
-Hohenbuckoer Heide
 Forst Hohenbucko
 Hohenbuche
 Hohenbockaer Forst
@@ -6864,7 +6571,6 @@ Hohe Horst
 Hohehorst
 Hoheholz
 Hohe Holz
-Hohe Heide
 Staatsforst Hohegeiß
 Forst Hohegeiß
 Hohe Falle
@@ -6888,7 +6594,6 @@ Hofer Wald
 Höfenwies
 Hofbachleite
 Hodenbach-Wald
-Höckendorfer Heide
 Hochwurz
 Hochwies Wald
 Hochweitzschener Wald
@@ -6920,7 +6625,6 @@ Hirschreute
 Hirschpfad Wald
 Hirschgehege
 Hirschgarten
-Hirschfelder Heide
 Hirscheck
 Forst Hirschburg
 Hirschbergerloh
@@ -6942,7 +6646,6 @@ Hinterer Pommershofer Wald
 Hinterer Planitz
 Hinterer Anhau
 Hintere Märzenburg
-Hintere Heide
 Hintere Bärenlieb
 Hinsbecker Heide
 Forst Hinrichshagen
@@ -7034,7 +6737,6 @@ Hembachwald
 Heltorfer Forst
 Helsenwald
 Helpter Holz
-Helpter Heide
 Helm Wald
 Staatsforst Helmstedt
 Helmshagener Forst
@@ -7059,7 +6761,6 @@ Forst Heinzebank
 Heinshorst
 Heinrichshorster Wald
 Heinrichshofer Holz
-Heinrichsdorfer Heide
 Heinköpen
 Forst Heinewedel
 Heinachwald
@@ -7085,17 +6786,14 @@ Heilach
 Heid Wald
 Heidseetannen
 Heidhut
-Heidhorn
 Heid Holz
 Heidholz
 Försterei Heidhof
 Heidhof
-Heidenkirchhof
 Heidenholz
 Heiden Holz
 Heidemark
 Heidelberg
-Heidehufen
 Heideholzhausen
 Heideanger Heide
 Wald Heide
@@ -7138,7 +6836,6 @@ Hatter Forst
 Forst Haste
 Haßwald
 Haßloh
-Haßlebensche Heide
 Haßfurt
 Forst Hasserode
 Hasselt
@@ -7149,7 +6846,6 @@ Hasselburger Wald
 Hasselberger Waldung
 Haslach
 Forst Hasenthal
-Hasenheide
 Hasenbrunnen
 Hasenberg
 Haselwald
@@ -7209,7 +6905,6 @@ Hanstedter Vier
 Hansholz
 Hannwald
 Staatsforst Hannover
-Hanneputzheide
 Hankofener Hölzer
 Hänigser Wald
 Hangenwald
@@ -7230,12 +6925,10 @@ Hammerbacher Wald
 Forst Hammer
 Hammelsbusch
 Stadtforst Hameln
-Hämelheide
 Hämeler Wald
 Hambrock
 Hambach Wald
 Forst Hambach
-Halverder Moor
 Forst Haltern
 Halloh
 Hallöh
@@ -7299,7 +6992,6 @@ Häften
 Hafendecke
 Haderwald
 Haderholz
-Hadelner Heide
 Hacker Holz
 Hackenheide
 Hachtenbrunnenwald
@@ -7326,9 +7018,6 @@ Güterholz
 Gutenberger-Wald
 Guteborner Forst
 Forst Güstrow
-Gussower Heide
-Gusower Oberheide
-Gusower Niederheide
 Gürzenicher Bruch
 Gunzlohe
 Forst Güntersberge
@@ -7338,13 +7027,11 @@ Gümmerwald
 Gülzower Holz
 Gülzower Forst
 Guldeloh
-Gühlener Heide
 Gschwandwald
 Grüvingholz
 Grüssower Tannen
 Grünwalder Forst
 Grün Wald
-Grünthaler Heide
 Grünthaler Forst
 Grünschacht
 Grünlas
@@ -7389,7 +7076,6 @@ Groß-Rohrheimer Wald
 Groß Oßniger Wald
 Grossmittel-Stück
 Groß Lujaer Wald
-Großkrausniker Heide
 Großkoppel
 Groß Jehserer Forst
 Großholz
@@ -7399,7 +7085,6 @@ Großhaager Forst
 Großfurraer Wald
 Große Ziethener Heide
 Große Weite
-Große Warthesche Heide
 Große Storkower Stadtforst
 Grosses Ramholz
 Großes Mühlholz
@@ -7446,7 +7131,6 @@ Großer Buchwald
 Großer Bruch-Wald
 Großer Bäbeliner Holz
 Großer Auberg
-Große Oberheide
 Großenrader Holz
 Forst Großenlüder
 Großen Holz
@@ -7461,7 +7145,6 @@ Große Holz
 Große Heide
 Große Hasbach
 Große Hardt
-Große Dingdener Heide
 Große Bockslohe
 Große Ahlen
 Groß Döbberner Wald
@@ -7477,20 +7160,15 @@ Gronauer Holz
 Staatsforst Grohnde
 Gröbner Forst
 Grinderwald
-Grindauer Heide
 Forst Grimnitz
-Grimmsmoor
 Grillenwald
 Grieß-Wald
-Grießener Heide
 Griesrangen
 Gries
 Griemerholz
-Griebener Heide
 Griebener Forst
 Grevesbergische Heide
 Gretloh
-Grethemer Heide
 Grethelmark
 Gresser Forst
 Gressenicher Wald
@@ -7529,14 +7207,12 @@ Grafenschlag
 Grafenhorst
 Forst Gräfenhainichen
 Grafenforst
-Gräfendorfer Heide
 Grafenbucher Forst
 Grafenbrand
 Grabower Wald
 Grabower Stadtforst
 Gräbleshau
 Graben Gehau
-Gräbendorfer Heide
 Goyatzer Wald
 Götzenfurt
 Gottswald
@@ -7554,7 +7230,6 @@ Gössitzer Wald
 Gösloh
 Goslarer Stadtforst
 Gosdaer Heide
-Görzker Kirchenheide
 Gortzer Heide
 Görsdorfer Forst
 Görnitzholz
@@ -7568,27 +7243,22 @@ Forst Gölsdorfer
 Göllheimer Wald
 Forst Golk
 Goldrain
-Goldenstedterheide
 Goldenitzer Tannen
 Forst Golchen
 Göhrener Tannen
 Staatsforst Göhrde
-Gohraer Heide
 Godower Holz
 Godemser Tannen
 Göddenstedter Forst
 Gnötzheimer Holz
 Gnoiener Stadtforst
-Glüsinger Heide
 Glüsing
 Forst Glucksburg
 Glockenschlag
-Globigsheide
 Forst Glindfeld
 Glindbusch
 Glietzer Wald
 Glienholz
-Glienecker Heide
 Glienecker Forst
 Gleichewald
 Glaver Forst
@@ -7606,7 +7276,6 @@ Gladauer Forst
 Forst Girkhausen
 Gimmenhauser Buch
 Giltholz
-Giltener Heide
 Gillersheimer Forst
 Gilkenheide
 Gifhorner Stadtwald
@@ -7632,7 +7301,6 @@ Forst Gernrode
 Gern Gehau
 Gerner Wald
 Germanswald
-Gerlicher Heide
 Gerlaser Wald
 Gerichts-Tannen
 Forst Geraberg
@@ -7652,7 +7320,6 @@ Gelnhausener Stadtwald
 Gellmersdorfer Forst
 Forst Gellershausen
 Gellerser Anfang
-Geldernsche Heide
 Geister Holz
 Geisledener Wald
 Geisheide
@@ -7691,7 +7358,6 @@ Garßener Holz
 Garrensee-Holz
 Garnberg
 Forst Garlstorf
-Garlstedter Heide
 Garlitzer Heide
 Gardelegener Hospitalforst
 Forst Gardelegen
@@ -7701,7 +7367,6 @@ Ganzliner Holz
 Gansacker
 Gammet
 Forst Gallin
-Galkenheide
 Galgenholz
 Galgengehau
 Galgenforst
@@ -7738,7 +7403,6 @@ Fuchs-Wald
 Fuchsschübel
 Fuchslohe
 Fuchslöcher
-Fuchsheide
 Fuchshalde
 Füchsel Holz
 Fuchsbrunnenwald
@@ -7762,7 +7426,6 @@ Friedrichsholz
 Friedländer Tannen
 Forst Friedewald
 Friedewald
-Friedersdorfer Heide
 Friedeholz
 Friedbüsch
 Frickinger Wald
@@ -7809,12 +7472,10 @@ Forstgrund
 Forstbusch
 Förnbacher Forst
 Forlenwald
-Forchheimer Heide
 Fölser Holz
 Föhrig
 Föhrer
 Fohlenweide
-Flürener Heide
 Fluorner Wald
 Flossinger Forst
 Flossenbürger Wald
@@ -7832,10 +7493,8 @@ Flatenhorst
 Flassenholz
 Flamersheimer Wald
 Flakenbruch
-Flache Heide
 Fischling
 Fischerholz
-Fischbeker Heide
 Forst Fischbach
 Fischacher Holz
 Finsterschachen-Wäldl
@@ -7845,7 +7504,6 @@ Finninger Wald
 Finkenwiesel
 Finkenwald
 Finkenstein-Wald
-Finkenheide
 Finkenbusch
 Filz Holz
 Filde
@@ -7868,7 +7526,6 @@ Fensterholz
 Fenken Wald
 Gehege Felsenrade
 Felseck
-Fellhorn
 Felgenhau
 Feldmühlenholz
 Feldgehau
@@ -7888,7 +7545,6 @@ Farchet-Holz
 Fanggrund
 Forst Fallersleben
 Forst Falkenstein
-Falkenhagener Heide
 Forst Falkenhagen
 Falkenhagen
 Falkenberger Forst
@@ -7985,7 +7641,6 @@ Elvershäuser Wald
 Eltmanner Bürgerwald
 Forst Elsterwerda
 Elslake
-Elserheide
 Elsdorfer Bürge
 Els
 Elmschebruch
@@ -8001,7 +7656,6 @@ Elkenberger Holz
 Elft
 Eleonorenwald
 Forst Elend
-Eldenaer Heide
 Forst Elbrighausen
 Elbholz
 Forst Elberberg-Ziegenhagen
@@ -8119,7 +7773,6 @@ Dürrer Schlag
 Dürrenwald
 Dürren-Wald
 Dürrenhembacher Wald
-Dürre Heide
 Dürrbuch
 Dürrbacher Heide
 Dürnbucher Forst
@@ -8142,7 +7795,6 @@ Ducherower Wald
 Dubrow
 Dubraue
 Dübener Heide
-Dübelsheide
 Drülter Holz
 Druhwald
 Drößiger Heide
@@ -8154,7 +7806,6 @@ Drittelwald
 Forst Driedorf
 Drewitzer Wald
 Drewer Wald
-Dresdener Heide
 Dreschenauer Holz
 Dreisteinschlag
 Dreiser Wald
@@ -8174,7 +7825,6 @@ Dorster Wald
 Dorseler Wald
 Forst Dörrberg
 Dornwanger Holz
-Dornswalder Heide
 Dornlache
 Dorngrund Holz
 Dornet
@@ -8194,7 +7844,6 @@ Dollekamp
 Dölitzer Wald
 Dolenz
 Dölauer Heide
-Dohrener Heide
 Döhlerwald
 Döhler Fuhren
 Dohlen
@@ -8210,7 +7859,6 @@ Divitzer Forst
 Distelhau
 Distelbusch
 Disbach-Wald
-Dippoldiswalder Heide
 Forst Dippmannsdorf
 Dingelstädter Stadtwald
 Dillenburger Stadtwald
@@ -8244,7 +7892,6 @@ Die Kuten
 Die Kienheide
 Staatsforst Diekholzen
 Die Horst
-Die Heide
 Die Hecke
 Die Harth
 Die Hart
@@ -8259,7 +7906,6 @@ Die Fahrenhorst
 Die Durnow
 Die Düpte
 Die Dick
-Diedersdorfer Heide
 Forst Diebzig
 Dieburger Wald
 Die Buchen
@@ -8345,7 +7991,6 @@ Das Suppenbruch
 Staatsforst Dassel
 Das Runde Holz
 Das Hohe Holz
-Das Heidchen
 Das Große Holz
 Das Eichholz
 Darzer Tannen
@@ -8360,7 +8005,6 @@ Dangelsdorfer Forst
 Danewitzer Fichten
 Damsdorfer Heide
 Dammrower Forst
-Dammheide
 Dammfeld
 Dämmerwald
 Dammer Tannen
@@ -8378,15 +8022,12 @@ Forst Dalheim
 Daitinger Forst
 Dahmser Holz
 Dahmer Kämmereiforst
-Dahlener Heide
 Dahlener Forst
 Dahlemer Wald
 Dahlemer Holz
 Dachsbühl
 Dachsbau
-Dachheide
 Dachauer Forst
-Daberkower Heide
 Curtswald
 Forst Cursdorf
 Cupernitz
@@ -8398,7 +8039,6 @@ Cramoner Buchen
 Cottbuser Stadtforst
 Cottaer Busch
 Forst Coswig
-Cossenheide
 Forst Cosel
 Forst Corvey
 Staatsforst Coppenbrügge
@@ -8421,7 +8061,6 @@ Carswald
 Forst Carrenzien
 Carolinenhain
 Carlshofer Holz
-Canower Heide
 Forst Cammin
 Camberger Stadtwald
 Staatsforst Calvörde
@@ -8430,7 +8069,6 @@ Calauer Stadtforst
 Bühlower Heide
 Buxheimer Wald
 Bux
-Büürlon
 Butzower Heide
 Butzenwald
 Büttharder Gemeindewald
@@ -8476,7 +8114,6 @@ Burger Heide
 Burgdorfer Holz
 Burgaue
 Forst Büren
-Büngernsche Heide
 Bundorfer Forst
 Bumbeck Gehege
 Bulz
@@ -8491,15 +8128,12 @@ Bugker Wald
 Büdinger Wald
 Buckower Heide
 Buckower Forst
-Buckow
 Bücknitzer Heide
 Forst Bückeburg
-Buckauer Heide
 Buchwörth
 Buchwald
 Buch-Wald
 Buch Wald
-Büchtener Heide
 Buchtalwald
 Buchsteig
 Buchschorren
@@ -8511,11 +8145,9 @@ Buchliet
 Buchknock
 Buchhorst
 Buchholz Heide
-Buchholzer Heide
 Forst Buchholz
 Buch-Holz
 Buch Holz
-Buchheide
 Buchgehren
 Buchflecken
 Forst Buchfart
@@ -8536,7 +8168,6 @@ Forst Buch
 Buch
 Bubesheimer Wald
 Bruxer Holz
-Brüsenwalder Heide
 Brünstholz
 Brunsmarker Tannen
 Bruns Holz
@@ -8554,7 +8185,6 @@ Bruderholz
 Bruckschlag
 Brückner Hölzchen
 Bruckmüsse
-Bruckhauser Heide
 Brückerwald
 Brücker Wald
 Brucker Forst
@@ -8626,13 +8256,11 @@ Braunenmoos
 Braunenberg
 Braudeler Forst
 Braubacher Wald
-Brandtsheide
 Brandslebener Holz
 Brandoberndorfer Wald
 Forst Brandoberndorf
 Brandlholz
 Brandleiten
-Brandiser Heide
 Brandis
 Brandhorst
 Forst Brandholz
@@ -8672,7 +8300,6 @@ Bornstedter Holz
 Forst Börnichen
 Born-Holz
 Borner Holz
-Borker Heide
 Borkener Tannen
 Borgerhau
 Bopparder Stadt Wald
@@ -8685,7 +8312,6 @@ Bömenziener Wald
 Böllenwörth
 Boldevitzer Forst
 Bol
-Boker Heide
 Bokeler Busch
 Boizenburger Forst
 Forst Boitzenburg
@@ -8693,15 +8319,12 @@ Böhrn
 Bohremerwald
 Bohnsterhoop
 Böhner Heide
-Bohmterheide
 Bohmter Heide
-Böhmheide
 Böhmhart
 Böhler Gemeinde-Wald
 Bohlenbruch
 Bogental
 Bogenhorn
-Bogenheide
 Staatsforst Boffzen
 Boeker Wold
 Boeker Forst
@@ -8713,7 +8336,6 @@ Bockstall
 Bocksberger Filz
 Bockmerholz
 Bockhorn
-Bockerter Heide
 Böckeler
 Forst Bockau
 Bobenwald
@@ -8722,7 +8344,6 @@ Blumenthaler Holz
 Forst Blumenow
 Blumberger Forst
 Bluium
-Blossiner Heide
 Blomberger Stadtwald
 Blockkoppel
 Blochwald
@@ -8738,7 +8359,6 @@ Blässerwald
 Blasebusch
 Blank-Holz
 Blankenberger Forst
-Blanke Heide
 Bittkauer Forst
 Bistum
 Bischof Wald
@@ -8751,7 +8371,6 @@ Birnbaumerwald
 Birkwald
 Birkschlag
 Birkholz
-Birkheide
 Birket
 Birkert
 Birkenwerder
@@ -8793,11 +8412,9 @@ Bielsheide
 Stadtforst Biedenkopf
 Forst Biedenkopf
 Forst Bieber
-Beyerner Heide
 Beverunger Stadtforst
 Beverner Wald
 Beune
-Betziner Heide
 Betzhornerleu
 Bettenfürst
 Bettenfelder Wald
@@ -8845,7 +8462,6 @@ Berger Wald
 Bergener Wald
 Bergen
 Bergatreuter Forst
-Bergaer Heide
 Berelries
 Berchumer Heide
 Benzer Wald
@@ -8867,7 +8483,6 @@ Belecker Wald
 Beixenhart
 Beim Weißen Stein
 Beilstein
-Beiersdorfer Heide
 Beienroder Holz
 Behwinde
 Behrensloh
@@ -8876,7 +8491,6 @@ Behrensdorfer Heide
 Behnitzer Heide
 Behlendorfer Wald
 Behlendorfer Forst
-Beetzer Heide
 Beetzer Gutsforst
 Beerenbusch
 Beerbusch
@@ -8893,7 +8507,6 @@ Baurenhau
 Baunzen
 Baumghau
 Baumgarten Holz
-Baumgartener Heide
 Baumgarten
 Baumdick
 Forst Baum
@@ -8912,7 +8525,6 @@ Baubach-Hölzer
 Bätzloh
 Baseln
 Basedower Forst
-Basdorfer Heide
 Basamshart
 Bärwalder Forst
 Baruther Heide
@@ -8948,11 +8560,9 @@ Bären-Lohe
 Bärenlohe
 Bärenloh
 Bärenloch
-Bärenklauer Heide
 Bärenholz
 Forst Bärenfels
 Bärenbruch
-Bardenitzer Heide
 Banzenreuter Wald
 Banwang
 Banwald
@@ -9063,9 +8673,7 @@ Antoni Wald
 Anspacher Wald
 Ansang
 Annweiler Bürgerwald
-Annenheide
 Forst Annarode
-Annaburger Heide
 Forst Annaburg
 Annaberger Ratswald
 Anklamer Stadt-Forst
@@ -9090,8 +8698,6 @@ Amhorst
 Ameisenbühlloh
 Am Blockwege
 Amberger Hölzl
-Amalienhofer Heide
-Alzheide
 Alzeyer Bürgerwald
 Alxheide
 Altwarper Forst
@@ -9122,7 +8728,6 @@ Alter Forst
 Alter Busch
 Alter Bohl
 Alterberg
-Altenwalder Heide
 Altensteiner Wald
 Altenrüthener Wald
 Forst Altenplathow
@@ -9136,7 +8741,6 @@ Altendorfer Wald
 Forst Altenberg
 Forst Altenbeken
 Staatsforst Altenau
-Alte Heide
 Alte Forlen
 Alteburg
 Altdorfer Wald
@@ -9169,7 +8773,6 @@ Ahlter Wald
 Staatsforst Ahlhorn
 Ahlershorst
 Ahlder Wald
-Ahldener Heide
 Ahe
 Ahdener Mark
 Staatsforst Affoldern
@@ -9235,11 +8838,9 @@ Sieben Linden
 Grafenberger Wald
 Möker Holz
 Heistern
-Joelskamp
 Die Wulfis Kamer
 Das Dorenholz
 Abbenburger Forst II
-Hohefeld
 Maillinger Holz
 Bärenmoor
 Salzforst
@@ -9270,9 +8871,6 @@ Bärenwinkel
 Lettenwald
 Heisternbusch
 Grafenbusch
-Achat Comfort Airport Frankfurt
-Intercity Berlin Ostbahnhof
-Ramada Hotel Berlin Alexanderplatz
 Ettenberg
 Stecklerslau
 Hagenschieß-Brenntenhau
@@ -9350,13 +8948,11 @@ Tofte Skov
 Tisvilde Hegn
 Tinning Skov
 Tinnet Krat
-Tinghede
 Tinggård Plantage
 Timring Plantage
 Teglværkskov
 Teglstrup Hegn
 Tårup Skov
-Tarm Hede
 Tågerød Skov
 Svinkløv Klitplantage
 Svennerup Skov
@@ -9413,7 +9009,6 @@ Slotved Skov
 Slotslyngen
 Slauggård Plantage
 Slagslunde Skov
-Skrolleshede
 Skramsø Plantage
 Skovsende Plantage
 Skovhuse Skov
@@ -9431,7 +9026,6 @@ Sibberup Vang
 Sevel Plantage
 Sekshøje Plantage
 Sæbygård Skov
-Sandobberne
 Sanddal Plantage
 Saltø Skov
 Rye Sønderskov
@@ -9477,14 +9071,12 @@ Oreby Skov
 Østerskov
 Øster Lovnkær
 Østerild Plantage
-Østerhede
 Ørbækgård Plantage
 Øjesø Plantage
 Ødsted Skov
 Omstrup Skov
 Oleskobbel
 Oksholm Skov
-Oksenvad Hede
 Oksby Plantage
 Nystrup Plantage
 Nyrup Skov
@@ -9497,8 +9089,6 @@ Norringure
 Nordskoven
 Nordskov
 Nordre Feldborg Plantage
-Nordby Hede
-Nørre Vosborg Hede
 Nørreskov
 Nørlund Skov
 Nørlund Plantage
@@ -9547,16 +9137,13 @@ Leestrup Skov
 Langskov
 Langø Plantage
 Ladegård Skov
-Kvong Hede
 Kronhede Plantage
-Kronhede
 Krogenberg Hegn
 Kristianssæde Skov
 Kristianslund
 Kærgård Plantage
 Krattet
 Krageskov
-Krageris Hede
 Korsør Skov
 Korselitse Østerskov
 Københoved Skov
@@ -9583,10 +9170,8 @@ Kirkeskov
 Kelstrup Plantage
 Keldskov
 Katholm Skov
-Kåthede
 Kastrup Storskov
 Kalvshoved
-kallemærsk hede
 Kalby Ris
 Kajbjerg Skov
 Jyndevad Plantage
@@ -9594,13 +9179,11 @@ Jyderup Skov
 Jordrup Skov
 Jonstrup Vang
 Istrup Plantage
-Ilderhede
 Hytterkobbel
 Hvidbjerg Klitplantage
 Husby Klitplantage
 Hundsbæk Plantage
 Humleore
-Hovhede
 Hoverdal Plantage
 Hovedskov
 Hovborg Plantage
@@ -9618,16 +9201,13 @@ Højes Ris
 Høgsholt
 Høgildgård Plantage
 Holmeskov Dyrehave
-Holmen
 Hollænderskov
 Holbæk Amts Sandflugtsplantage
 Ho Klitplantage
 Hjortenæs
 Hjerl Hede Plantage
-Hjelm Hede
 Hjardemål Plantage
 Hjardemål Klitplantage
-Hestlund Hede
 Hestehave
 Hesselvig Plantage
 Hesede Skov
@@ -9647,7 +9227,6 @@ Hansted Skov
 Hannenov Skov
 Hals Sønderskov
 Hals Nørreskov
-Hals Mose
 Hagsholm Skov
 Hagenskov
 Gyttegårds Plantage
@@ -9663,7 +9242,6 @@ Grindsted Plantage
 Gribskov
 Grevindeskov
 Grane Plantage
-Gråhede
 Gødding Skov
 Gludsted Plantage
 Gjorslev Bøgeskov
@@ -9722,10 +9300,8 @@ Draved Skov
 Døvling Plantage
 Dørup Skov
 Donslund Sande
-Donskær
 Donnerup Plantage
 Djævlekrog
-Djeld Hede
 Det Plessenske Overdrev
 Denderup Vænge
 Delhoved Skov
@@ -9792,7 +9368,6 @@ Alslev Skov
 Ål Plantage
 Almindingen
 Allestrupgård Plantage
-Alhede
 Ålbæk Klitplantage
 Åker Plantage
 Addit Skov
@@ -9807,7 +9382,6 @@ Folekobbel
 Hørup Skov
 Fryndesholm
 Gellerup Skov
-Copenhagen Strand (Min 2 Nts Stay)
 Forêt des Zerrifa
 Forêt Domaniale du Zeramna
 Forêt Domaniale de Zeralda
@@ -10229,12 +9803,6 @@ El Robledal
 Cuesta La Cal
 Mata Alta
 La Cueva
-Congreso
-Corcega
-Barcelo Formentor Hotel
-Castillo De Sol Apartamentos
-Apartamentos Sunset Beach Club
-Hi Binimar
 Yachī Den Ch’aka
 Seyo Ch’aka
 Seyī Ch’aka
@@ -10636,7 +10204,7 @@ Bois de Saint-Pierremont
 Bois Saint-Père
 Forêt de Saint-Pée
 Forêt de Saint-Palais
-Forêt See Saint-Michel, Forêt Dominiale de Saint-Michel
+Forêt Dominiale de Saint-Michel Forêt See Saint-Michel
 Forêt Dominiale de Saint-Michel
 Bois Saint-Michel
 Bois de Saint-Maurice
@@ -12720,7 +12288,6 @@ Les Écorcelles
 Bois de Beuge
 bois de Vede
 Bois de Plagne
-De L’Avenir Exclusive Hotels
 Bois de Punta Mina
 Reserve Forestière des Lacs
 Reserve Forestière de la Ikoï Mondah
@@ -12732,7 +12299,6 @@ Xylotymbou Forest
 Ágios Geórgios
 Áchna
 Wyre Forest
-Winfrith Heath
 Wayland Wood
 Spanhoe Wood
 Sherwood Forest
@@ -12741,7 +12307,6 @@ Savernake Forest
 Sandall Beat Wood
 Saint Leonards Forest
 Royal Forest
-Roudham Heath
 Forest of Rossendale
 Rhidorroch Forest
 Reay Forest
@@ -12757,7 +12322,6 @@ Kings Standing Wood
 Kingley Vale
 Kelham Hills
 Inglewood Forest
-Holton Heath
 Holkham Meals
 Hayley Wood
 Forest of Harris
@@ -12771,7 +12335,6 @@ Freevater Forest
 Fannich Forest
 Epping Forest
 East Monar Forest
-Dunsmore Heath
 Dukes Wood
 Drummond Hill
 Delamere Forest
@@ -12789,16 +12352,13 @@ Bedgebury Park Woods
 Balmoral Forest
 Balmacaan Forest
 Forest of Atholl
-Ashdown Forest
 Applecross Forest
 Forest of Alyth
 Abernethy Forest
 Pembrey Forest
 Ogmore Forest
-Fens Moss
 Hall Forest
 Blairs Wood
-Deer’s Den
 Gueval Wood
 Fowlershill Wood
 Parkhill Wood
@@ -12812,7 +12372,6 @@ Logie Wood
 Saw Wood
 Stoke Woods
 Redford Wood
-Jay’s Grave
 Munerigie Wood
 Llantrisant Forest
 Burns Quarry Wood
@@ -12830,7 +12389,6 @@ Hoar Wood
 Holmwood Common Wood
 Lothian Wood
 Pot Wood
-Burgh
 Eight Acre Copse
 Saham Wood
 Great Mornshill Wood
@@ -12846,13 +12404,12 @@ Park Wood
 Greaves’s Wood
 East Wood
 Rough Wood
-Putney Heath
 Baker’s Avenue Wood
 Charlisle Wood
 William Wood
 Currie Wood
 West Wood
-The Homewood
+Homewood
 Flight Pond Wood
 Cuckoo Wood
 Old Park wood
@@ -12874,14 +12431,11 @@ Such Hey Wood
 Meadow Hey Wood
 Dam Wood
 Foxall Wood
-Rosewood London (Executive )(Sp2)
-Tickner’s Heath
 Big Wood
 Strip Wood
 Clayton Wood
 Daffy Wood
 Dunnet Forest
-Sheet’s Heath
 Callendar Wood
 Craighead Wood
 Saint Helen’s Wood
@@ -12892,8 +12446,6 @@ Hale Wood
 Pulans Wood
 Minepit Wood
 Hurst Wood
-Kladbishche Yelkan-Don
-Kurgan Gorebi
 Tshiauri Forest
 Bois de Terre Blanche
 Le Bois Diable
@@ -12902,16 +12454,9 @@ Bois Changement
 Tour a flux
 Arboretum de l’Égyptienne
 Le Huet
-Le Déhus
-La Varde
-Le Creux és Faies
-Le Trepièd
-Druid’s Altar
-Himmerland Hede
 Forêt de Sainte-Marie
 Forêt de Féfé
 Bosque Robobube
-ΠΕΡΙΟΧΗ  ΠΕΡΙΒΟΛΙΟΥ
 Petrified Forest of Lesbos
 Dásos Schiniá
 Mahagony Forest - planted 1928
@@ -12989,7 +12534,6 @@ Malo Osoje
 Podi
 Dera
 Mala Dubrava
-Bolnica Rebro
 Šiljakovečka Dubrava
 Téb-erdő
 Sóstói-erdő
@@ -13042,8 +12586,6 @@ Kehutanan Dempok
 Cagaralam
 Hutan Wisata Ketu
 Kebun Raya Unmul Samarinda
-Makam Mbahperkasa
-Makam Prabugeusanulun
 Uteuen Jalang
 Lhokpranca
 Uteuen Coba
@@ -13135,8 +12677,6 @@ Unugh Wood
 Dromillihy Wood
 Aultagh Wood
 Beaghaooha Wood
-Saint Manchan’s Grave
-Faisi’s Grave
 Carew’s Wood
 Glenbower Wood
 Ballyvolane Wood
@@ -13167,7 +12707,7 @@ Tikincor Wood
 Gurteen Wood
 Glen Poer Wood
 Coolnamuck Wood
-The Pines
+Pines
 Ballynaboley Wood
 Clonassy Wood
 Carrigatubbria Wood
@@ -13209,7 +12749,7 @@ Clonad Wood
 Pickering Forest
 Ballyteage Wood
 Ballyreagh Wood
-The Giants Cut
+Giants Cut
 Drummin Wood
 Lough Crewe Forest
 Greetlagh
@@ -13229,10 +12769,7 @@ H̱oreshat HaMeyyasedim
 H̱oreshat Tal
 Gan Le’ummi H̱oreshat Tal
 H̱oreshat Ya‘ala
-David’s Tomb
-Qever Ben Gurion
 Ya‘ar Yattir
-Sheikh ‘Attīr
 Pardes Gan H̱ayyim
 Ya‘ar HaMitnadev
 Ya’ar HaMeginnim
@@ -13251,13 +12788,10 @@ Ya’ar Bet Ha’Emeq
 Ya‘ar Tefen
 Ya‘ar Naẖal Limonin
 Ya‘ar Rekhes Korazim
-Qever Rabbi H̱alafta UVanayw
 Ya‘ar Gilon
 Ya‘ar Yuvallim
-Qever H̱avaqquq
 Ya‘ar Missad
 Ya‘ar Massad
-Sheikh Radgha
 Ya‘ar H̱eq
 Ya‘ar H̱of Karmel
 Ya‘ar ‘En HaShofet
@@ -13514,7 +13048,6 @@ Vinhar Reserved Forest
 Rit
 Shīsham
 Kālūwāla Reserved Forest
-Garādi Mahādev
 Borkui Chaukl
 Nāngal Māla Protected Forest
 Khudāna Protected Forest
@@ -13820,8 +13353,6 @@ Rāta Forest
 Pātan Forest
 Dāng Dudhbhāt Reserve Forest
 Pīparpāni Resrved Forest
-Dreams Inn Greater Noida
-Best Western Hotel Bliss
 Narhāli Jungle
 Aishaban Bīr
 Lauj Forest
@@ -13878,7 +13409,6 @@ Salpathar Forest
 Siwat Forest
 Sohniāli Forest
 Varnau Forest
-Brevet Major Robertson’s Grave
 Rāmpur Ptotected Forest
 Pānchora Protrcted Forest
 Umri Ptotected Forest
@@ -13895,7 +13425,6 @@ Mangrūl Forest
 Sānvlīgarh Reserved Forest
 Murjha Reserevd Forest
 Chhatwa Ptotected Forest
-Sālār Pīr
 Reserved Forest Paigāh
 Wuntlkat Forest
 Wuntikat Forest
@@ -14021,7 +13550,7 @@ Rānga Forest
 Buna Saribel Forest
 Kokurun Forest
 Nilagrār Forest
-RMI Forest
+Rmi Forest
 Domal Forest
 Raenūr Forest
 Bāltal Forest
@@ -14418,7 +13947,7 @@ Katehr Forest
 Dābi Dāhr Forest
 Ul Forest
 Kohl Kopar Forest
-The Forest
+Forest
 Rijwalta Forest
 Dharbal Forest
 Konun Forest
@@ -14831,12 +14360,9 @@ Musram Bāgh
 Khurshīd Bāgh
 Rāipur Grant
 Ashrafnagar Grant
-100 Feet Hospital
-JoelWebsites
 Basātīn Dhiyābāt
 Bustān as Sayyid Raḩmān
 ‘Arab al ‘Azīz
-Qabr ash Shawardal
 Bustān Ḩammūd al ‘Azīz
 Bustān ‘Abbūd as Sarḩān
 Bustān Muḩammad Jasām
@@ -14848,7 +14374,6 @@ Maḩmūd ash Shāwī
 Bustān ‘Alī Ḩamzah
 Bustān Muḩammad Hāshim al Mukhlif
 Bustān Shākir ‘Awwād
-Qabr Şadīd
 Bustān Muşţafá Najīb
 Bustān Maḩmūd Ḩusayn Muḩammad
 Bustān Wahab Muşţafá
@@ -14889,7 +14414,6 @@ Bustān Jāsim al Ḩamdī
 Bustān Ḩājj ‘Abbās
 Bustān ‘Abd Salmān
 Bustān Sayyid Kāmil an Na‘jī
-Qabr Mullā Jāsim
 Bustān Kāz̧im Shu‘ayl
 Bustān Hādī aţ Ţārūsī
 Bustān ‘Aţīyah
@@ -15128,14 +14652,8 @@ Bustān ‘Annānah
 Bustān Ḩasan Jāsim
 Nūrī Chāy
 Bustān ‘Ayn Ţawīl
-Qabr Ismā‘īl
-Qabr Abū Rabs
-Qabr Manāwar Aţnaf
-Qabr Ibn al Mathuwd
-Qabr ‘Alīyah
 Bustān Muḩammad
 Al Ghābāt
-Qabr Ibrāhīm Bāyiz
 Basātīn Khazraj
 Bustān Albū Jūrī
 Bustān Albū Jīlī
@@ -15198,9 +14716,7 @@ Al Ḩājj ‘Alī al Bayā‘
 ‘Abd al Wahhāb Bah
 Bustān Sayyid Majīd
 Shajarah Dārahkahī Mīrhash
-Imām ‘Abd Allāh
 Bustān Ḩamūd al Khiḑr
-Maqbarat Kūtil
 Bustān As‘ad Ḩasan
 Sarāb-e Mahastān
 Hūnū
@@ -15236,7 +14752,6 @@ Cheshmeh Mūnes
 Bahārestān
 Zangūyeh-ye Bālā
 ‘Efatābād
-Qabr-e Sheykhān
 Ā’īneh Qarī
 Zard Ālīū
 Tūvīq-e Pā’īn
@@ -15493,7 +15008,6 @@ Aḩmadābād
 ‘Abdolābād
 ‘Abbāsābād-e Fallāḩ
 Āb Band
-Kākā Mobārak
 Mazra‘eh-ye Kamīz
 Mazra‘eh-ye Reẕvān
 Jangal-e Būlā
@@ -15539,7 +15053,6 @@ Nakān
 Pādīn
 Nāgūk
 Bāgh-e Shamsābād
-Maqbareh-ye Seyyed Moḩammad
 Dowdowkalīn
 Qarah Qāch
 Bāl Yowrdī
@@ -16119,8 +15632,6 @@ Shū Kalāt
 Māzghū
 Salīmī
 Gamīzī
-Maqbareh-ye Khvājeh Moḩammad
-Maqbareh-ye Ḥājj ‘Os̄mān-e Afghānī
 Chāh Zanbūrī
 Chāleh Alīās
 Bīdūyeh
@@ -16145,8 +15656,6 @@ Nūrābād
 Eslāmābād
 Qal‘eh Rīgī
 Sefīd Bāgh
-Maqbareh-ye Sheykh Şūfī
-Mazār-e Ākhūnd Mollā ‘Abd or Raḩmān
 Nābahīyen
 Nakhlestān-e Yāvīshkī
 Nakhlestān-e Gerahvan
@@ -16168,12 +15677,7 @@ Pūzeh Chek
 ‘Azīzeh
 Deh-e Bābū
 Akbarābād Dehesh
-Maqbareh-ye Sheykh Moşţafá
-Maqbareh-ye Sheykh Badr od Dīn-e Jāmī
-Maqbareh-ye Pīr-e Sabzpūsh
 Āsīāb Ashtī
-Maqbareh-ye Jahānmīrzā
-Pīrnīāz Moḥammad
 Kandehvand
 Bakhtīārī
 Bāgh-e Māhūnak
@@ -16448,8 +15952,6 @@ Bīādeh
 Ḩūrak
 Narmak
 Kalāteh-ye Ālbālū
-Mazār-e Bībī Nūr
-Zīāratgāh-e Khvājeh
 Kalāteh-ye Qasū’ī
 Tak-e Ālmālū
 Kohneh Bāgh
@@ -16786,7 +16288,6 @@ Chāh Z̄ū ol Faqārī
 Chāh Ḩājj Moḩammad
 Chāh Shamsāyī
 Mazra‘eh-ye Omīdīyeh
-Manţaqeh-ye Maz̄habī-ye Shāh Ḩassan
 Kandar Oţāq
 Nakhlestān-e Ābshūr-e Ja‘far
 Nakhlestān-e Ābshūr-e Raf‘at
@@ -17490,255 +16991,37 @@ Jangal-e Nowbandī
 Jangal-e Estālī
 Jangal-e Jahān Namā
 Jangal-e Lāk Māzī
-Yztaskálaheiði
-Víkurheiði
-Víknaheiði
-Víkingavatnsheiði
-Vestursléttuheiði
-Vesturheiði
 Vaglaskógur
-Vaðlaheiði
-Túnheiði
-Tunguselsheiði
-Tunguheiði
 Tögl
-Þorsteinsheiði
 Þórðarstaðaskógur
-Teigaselsheiði
-Svínafellsheiði
-Svaðbælisheiði
-Stuðlaheiði
-Stórahversmór
-Stóradalsheiði
-Steinheiði
-Staðarheiði
-Snæbýlisheiði
-Smjörvatnsheiði
-Sléttuheiði
-Skúmstungnaheiði
-Skógaheiði
-Skjöldólfsstaðaheiði
-Skinnalónsheiði
-Skeggjastaðaheiði
-Skálarheiði
-Skaftafellsheiði
 Sigríðarstaðaskógur
-Setsbergsheiði
-Seljalandsheiði
-Seljaheiði
-Sandvíkurheiði
-Sandfellsheiði
-Reykjaheiði
-Raufarhafnarheiði
-Rauðabergsheiði
-Prestsbakkaheiði
 Núpsstaðarskógar
-Núpsstaðarheiði
-Núpsheiði
-Núpaheiði
-Mývatnsheiði
-Múlaheiði
-Mosvallaheiði
-Mörtunguheiði
-Möðrudalsheiði
-Mjóafjarðarheiði
-Miðskálaheiði
-Miðheiði
-Miðfjarðarheiði
-Merkurheiði
-Merkisheiði
 Meiðavallaskógur
-Mælifellsheiði
 Lundsskógur
-Lónsheiði
-Ljótarstaðaheiði
 Litla-Sandfellsskógur
-Litlahversmór
-Litla-Heiði
-Leirdalsheiði
-Laxárdalsheiði
-Langavatnsheiði
-Lágheiði
-Lágaheiði
-Læknisstaðaheiði
-Kyrfugilsheiði
-Kúluheiði
-Kollumúlaheiði
-Klausturselsheiði
-Kirkjubæjarheiði
-Kerlingardalsheiði
-Keldunessheiði
-Kasþvammsheiði
-Kálfafellsheiði
-Jökuldalsheiði
-Hvannárheiði
-Hvannamýri
-Hvammsheiði
-Hrollaugsstaðaheiði
-Hróaldsstaðaheiði
-Hrífunesheði
-Hraunfellsheiði
-Holtsheiði
-Hólaheiði
-Hofteigsheiði
-Hofsstaðaheiði
 Höfðaskógur
-Höfðabrekkuheiði
-Hnausheiði
-Hjarðarhagaheiði
-Hjaltadalsheiði
-Hjálmárdalsheiði
 Hellisskógur
-Hellisskógsheiði
-Hellisheiði
-Helkunduheiði
-Heljardalsheiði
-Hauksstaðaheiði
-Haukafellsheiði
-Hamarsheiði
-Hálsar
 Hallormsstaðaskógur
-Háheiði
-Hágangaheiði
-Grímsstaðaheiði
-Grænalág
-Giljaheiði
-Geirlandsheiði
-Garðsheiði
-Gagnheiði
-Fossheiði
-Fljótsheiði
-Fljótsdalsheiði
-Flatheiði
-Flateyjardalsheiði
-Fjarðarheiði
-Fjallaheiði
 Fitjaskógar
-Fellsheiði
-Fellaheiði
-Fauskheiði
-Eyvindarstaðaheiði
 Eyjólfsstaðaskógur
-Eskifjarðarheiði
 Egilsstaðaskógur
 Dalsskógar
-Dalsheiði
-Dalaheiði
 Burstarfellsskógar
-Búrfellsheiðir
-Buðlungavallaheiði
-Búðaheiði
-Brekknaheiði
-Breiðdalsheiði
-Bótarheiði
-Borgarhafnarheiði
-Blesahraunsheiði
-Bergárdalsheiði
-Baldursheimsheiði
-Bakkaheiði
 Bæjarstaðaskógur
-Axarfjarðarheiði
-Austursléttuheiði
 Austurskógar
-Austurheiði
-Austaraselheiði
-Auðkúluheiði
-Ásheiði
-Arnarstakksheiði
-Árheiði
-Völlur
-Vogaheiði
-Víðidalstunguheiði
-Vatnsheiði
 Vatnaskógur
-Vaðalfjallaheiði
-Tröllatunguheiði
-Trjekyllisheiði
-Tjarnheiði
-Tindafjallaheiði
-Þorskafjarðarheiði
 Þingvallaskógur
-Þingmannaheiði
 Teigsskógar
-Strandarheiði
-Steingrímsfjarðarheiði
-Steinadalsheiði
-Spenaheiði
-Snartartunguheiði
-Snæfjallaheiði
-Skriðuheiði
-Skötufjarðarheiði
-Skorarheiði
-Skarðsheiði
-Skálmardalsheiði
-Skagaheiði
-Selárdalsheiði
-Sandsheiði
-Sæluhúsaheiði
-Sælingsdalsheiði
-Rjúpnaheiði
-Rauðamelsheiði
-Rafnseyrarheiði
-Öldugilsheiði
-Ófeigsfjarðarheiði
-Njarðvíkurheiði
-Mosfellsheiði
-Miðvörðuheiði
-Miðdalsheiði
-Lyngdalsheiði
-Látraheiði
-Lækjarheiði
-Kollafjarðarheiði
-Klofningsheiði
-Kleifaheiði
-Kambsheiði
 Húsafellsskógur
-Hrunaheiði
-Holtavörðuheiði
-Hólmavatnsheiði
-Hólknaheiði
-Hofsheiði
-Hnjötsheiði
-Hestfjarðarheiði
 Helluskógar
-Heiðin Há
-Heiðabæjarheiði
-Haukagilsheiði
-Haukadalsheiði
-Hallkelstaðaheiði
 Hafnarskógur
-Hafnaheiði
-Hælsheiði
-Háaheiði
-Grímstunguheiði
-Grímsdalsheiði
-Grafheiði
-Gilsbrekkuheiði
-Gaflfellsheiði
-Fróðárheiði
-Fossadalsheiði
 Fellsendaskógur
 Efstadalsskógur
-Dynjandisheiði
 Dýjaskógur
-Dufansdalsheiði
-Bryggjuheiði
-Breiðadalsheiði
-Botnsheiði
-Botnaheiði
-Bolungavíkurheiði
 Bolaskógur
-Bláskógaheiði
 Bakskógur
-Bæjardalsheiði
-Baðsheiði
-Arnarvatnsheiði
-Álftafjarðarheiði
-Aðalbólsheiði
-Kóngsheiði
-The Nest
+Nest
 Krákunesskógur
-Gunnarshaugur
 Bosco Bellia
 Bosco di Padiglione
 Pineta di Licola
@@ -17757,9 +17040,7 @@ Bosco Rinfreddo
 Macchia del Semaforo
 Macchia della Cerreta
 L’Uccellanda
-WW1 war hero Giannino Ancillotto
 Foresta Umbra
-Ipogeo degli Aureli
 Fosso al Leccione
 Ḩawţat al Jurnah
 Ghābat Shuhadā’ Silāḩ al Midfa‘īyah
@@ -17770,9 +17051,7 @@ Toriya Mori
 Jinga Mori
 Ippai Mori
 Kyōga Mori
-Hirata Atsutane no Haka
 Futatsumori
-Fujiwara Fujifusa no Haka
 Tsukushi Mori
 Yamabushi Mori
 Tengu Mori
@@ -17787,20 +17066,13 @@ Kuro Mori
 Chōja Mori
 Haginaga Mori
 Eboshi Mori
-Shōnin Zuka
 Matsu Mori
 Chōbōsan Shizen Kyūyō Rin
-Tōshi Gunjin no Haka
 Tazawa Mori
 Matamatsu
-Hōshin Zuka
 Nishi Mui
 Kurushi Mui
-Minamotono Yoritomo Haka
 Bukkyōgatake Genshirin
-Oriental
-Urban Hotel Kyoto
-Osaka Garden Palace
 Kinukakeno Mori
 Yubutano Mori
 Kyūshū Daigaku Kasuya Enshūrin
@@ -17810,7 +17082,6 @@ Fuji Susono
 Fujisan Genshirin
 Aokiga Hara
 Goten Niwa
-Kamenoyama Kofun
 Jombo Forest
 Witu Forest
 Western Molo Forest
@@ -18039,9 +17310,7 @@ Akela Forest
 Aberdare Forest
 Ganda Forest
 Sigiria Forest
-Talchuluu-Mazar
 Zaukinskoye Lesnichestvo
-Mazar Guroval
 Atollwide Copra Production
 old Copra Plantation
 Pisonia Tree Cover
@@ -18049,7 +17318,7 @@ Pisonis and Heliotrope Cover
 General Shrub Cover
 Shrub Cover
 Mainly Coconut Covered
-SE Shrub Cover
+Se Shrub Cover
 North mainly Copra Plantation
 Mainly Copra Production
 abandoned Coconut Plantation
@@ -18087,9 +17356,6 @@ Djivani
 Forêt du Kartala
 Ouraléni
 Tsinimouamidji
-Ibangsiljanggunmyo
-Lotte Seoul (Main Wing)
-Robero Hotel Jeju
 Midongsansumogwon
 Geumgang-jayeonhyuyangnim
 Jangtaesanjayeonhyuyangnim
@@ -18099,169 +17365,30 @@ Daegusumogwon
 Unmunsanjayeonhyuyangnim
 Ganwoljayeonhyuyangnim
 Mogila Umyr
-Mogila Tlyau-Mambet
-Mogila Tirek-Mula
 Mogila Temir
 Mogila Tagan
-Mogila Saytan-Chara
-Mogila Sardzhan
-Mogila Kyzybiyur
-Mogila Kurgan
-Mogila Kirel’
-Mogila Kaz-Mambet
-Mogila Kara-Mulla
-Mogila Itos
-Mogila Iske-Mula
-Mogila Din’
-Mogila Baktychil’dy
-Mogila Ardzhan-Mula
-Mogila Lak
-Mogila Oba
-Mogila Bormola
-Mogila Turambek
-Mogila Bektas
-Mogila Diyermen
-Mogila Tasobabidayyk
-Mogila Bayet
-Mogila Ospan
-Mogila Tamdasha
-Mogila Kosuan
-Mogila Gubernatora
-Mogila Smagul
-Mogila Baybasy
-Mogila Rakhimzhan
-Mogila Kozhakhmet
-Mogila Makat
-Mogila Akish
-Mogila Kadyr
-Mogila Turlugul
-Mogila Eskitam
-Mogila Murzabay
-Kurgan Obo
-Mogila Bayzhigit
-Tur Kol’kara
-Mogila Butamola
-Mogila Omarmola
-Mogila Mykhaymola
-Mogila Kasnyrbek
-Mogila Shoparbay
-Mogila Kamalak
-Mogila Batima
-Mogila Santay
-Mogila Omar
 Pankrat’yev Sad
-Mogila Kokayak
-Mogila Utugu
-Mogila Tyul’ku-Bay
-Mogila Tuzla
-Mogila Turgan
-Mogila Tolmas
-Mogila Tolar
-Mogila Tokubay
-Mogila Toksulu
-Mogila Toguz
-Mogila Tleubaya
 Mogila Teresken
-Mogila Taneke
-Mogila Syuin
-Mogila Saman-Batyr
 Mogila Norbata
 Bor Naurzumkaragay
-Mogila Mokash
-Mogila Mardzha
-Mogila Mar
-Mogila Mantybay
-Mogila Kyz-Mola
-Mogila Kurumbay
-Mogila Kurtubay
 Mogila Kulizhan
 Mogila Kulanbay
-Mogila Kuchukpay
-Mogila Kostam
 Bugor Kongur-Tyube
-Mogila Kogul
-Mogila Kizyl-Bash
-Mogila Kipchak-Bay
-Mogila Kiinbay-Mulla
 Mogila Khodzham-Kul’
-Mogila Kazybek
-Mogila Kayran
-Mogila Karabek
-Mogila Itbay
-Mogila Isnazar
-Mogila Iskara
-Mogila Ishim-Mola
-Mogila Iliker
-Mogila Dzhuman-Bay
-Mogila Dyurt-chiy
-Mogila Chuybas
-Mogila Churun
-Mogila Chumchek
 Mogila Chabyk-Mola
 Mogila Bzau
 Mogila Buzhban
-Mogila Bisyakbay
-Mogila Bayzak
-Mogila Bayye
-Mogila Baygunchuk
-Mogila Bayandy
-Mogila Barak
 Mogila Ayvas
-Mogila Aul’ye
-Mogila Aulabay
-Mogila Atybay
-Mogila Ashin-Dzhily
 Mogila Asay
 Les Arakaragay
 Les Amankaragay
-Mogila Alim-Kurgan
-Mogila Ak-Mola
-Mogila Akhmet
-Mogila Ak-Gumbez
-Mogila Ak-Dzhar
-Mogila Air-Bergek
-Mogila Abdak
-Kurgan Sarybel’
 Golimantova Lesnaya Dacha
 Shingistayskaya Lesnaya Dacha
 Lesnichestvo Tyumen’
 Les Kurumbay
 Les Turtap
 Les Shukyragash
-Mogila Abdrakpak
-Mogila Shargabay
-Kurgan Zhangyztobe
-Kurgan Zhetitobe
-Kurgan Kumtobe
-Kurgan Aktobe
 Urochishche Il’tezhe
-Qyzemshek Qorghany
-Kurgan Karasuan
-Mogila Beskempir
-Bugor Toytobe
-Kurgan Kumistobe
-Kurgan Damulla
-Mogila Kavgarana
-Mogila Ul’bimazar
-Kurgan Tortkol’
-Kurgan Tortkol’tobe
-Kurgan Ushtobe
-Mogila Moldybek
-Mogila Ulembay
-Mogila Talgarkorgan
-Mogila Tel’sary
-Mogila Besbaykargan
-Mogila Almay-Kumbez
-Mogila Bata-Ul’gun
-Mogila Kopmola
-Mogila Kumbez
-Mogila Murde
-Mogila Kaib
-Mogila Yesmurat
-Mogila Akhay
-Mogila Kishimola
-Mogila Nazar
-Mogila Dulat
 Dông Visa
 Dông Thani
 Dông Thamphalan
@@ -18981,7 +18108,6 @@ Güetlewald
 Tüfrütte
 Hochrütte
 Flaksera
-Litzga
 Dürrabodawald
 Yodalipa
 Yodaela
@@ -20340,7 +19466,6 @@ Vilzeno Mežs
 Vidrižu Gārša
 Vergales Mežs
 Valevas Mežs
-Lielais Ķemeru Tīrelis
 Tadaines Mežs
 Sventes Mežs
 Strenci Mežs
@@ -20355,12 +19480,10 @@ Nurmenes Mežs
 Nitaure Mežs
 Nīcgales Mežs
 Misca Mežs
-Maztīrelis
 Lielā Gārša
 Madonas Mežs
 Liksnas Mežs
 Liepa Mežs
-Lādzēnu Tīrelis
 Lacplesis Mežs
 Kursīšu Mežs
 Kalsnavas Mežs
@@ -20371,8 +19494,6 @@ Gulbene Mežs
 Dvietes Mežs
 Dikļi Mežs
 Cesvaines Mežs
-Cenas Tīrelis
-Briģu Tīrelis
 Birzgale Mežs
 Bārtas Mežs
 Bānuži Mežs
@@ -20384,7 +19505,6 @@ Populis
 Trulis
 Siliņš
 Raganbirzis
-Skanste
 Washkat Ḩimārayn
 Nukhaylāt at Tamrīyāt
 Nakhīl al Muşayfiq
@@ -20663,7 +19783,6 @@ Pădurea Kugureşti
 Les Ovrezh
 Les Borchak
 Mujev Lom
-Softin Grob
 Alan’ i Zombitsy
 Alan’ i Vohitromby
 Forêt de Vohidrazana
@@ -20866,7 +19985,6 @@ Višarički Orman
 Strižečka Šuma
 Stara Šuma
 Temna Bukva
-Varrezat-Graveyard
 Orman
 Veličkove Šume
 Gustata Gora
@@ -21005,7 +20123,6 @@ I-n-Assouk
 Ikoakene
 Tazoumbost Tadoura
 Amris
-Namadi
 I-n-Kilivi
 Akoukou
 Ti-n-Tedemit
@@ -21037,9 +20154,6 @@ Forêt de Sago
 Tenfouchkît Berbâré
 Oumm Agleïlé
 Ghreïdât Timerdîne
-Il-Mansab
-Tal-Qortin
-Coral
 Lisungwe Local Authority Forest
 Diampwe Local Authority Forest
 Chimvua Local Authority Forest
@@ -21050,7 +20164,6 @@ Selva La Montaña
 Uxpanapa Forest Poblado 13
 Monte Sigual
 Cerro San Juan Atzacualoya
-Mallorca Hotel And Suites
 Presidente Adolfo Ruíz Cortines
 Hutan Simpang Madai
 Hutan Rizab Mata Ayer
@@ -21343,7 +20456,6 @@ Rizab Bukit Kinta
 Rizab Orang Asli Kampung Pengkalan Tereh
 Dusun Hitam Jampai
 Hutan Lipur Teladas
-Makam Sultan Mohamad Mansor Shah
 Rizab Melayu Sungai Tinggi
 Rizab Melayu Pulau Pasir Hitam
 Hutan Rizab Kekal Bukit Sai
@@ -21359,7 +20471,6 @@ Dusun Rambai Pena
 Dusun Bukit Tampoi
 Dusun Siamang
 Rizab Istana
-Makam Diraja Sri Menanti
 Dusun Dato Murad
 Hutan Lipur Gunung Panti
 Floresta Maúma
@@ -21416,199 +20527,109 @@ Eba Island Forest Reserve
 Uwa Forest Reserve
 Roni East Forest
 Yan Tumaki Forests
-Zwindersche Veld
-Zwarte Venen
-Zwarte Dennen
-Zwarte Bergen
-Zunasche Heide
 Zuilensteinse Bos
-Zuid Hijkerzand
-Zuidgeestsche Heide
-Zuiderheide
 Zuiderbos
 Zonderbosch
-Zilvensche Heide
 Zelderse Driessen
 Zeisterbos
 Zeesserbosch
-Zeelstse Heide
 Zeddammerbosch
-Zandsteeg
 Zandenbos
 Zandbos
 Zalkerbosch
 Zaarderheiken
 Wouwsche Plantage
-Wooldse Veen
 Wolvenbosch
-Wolfhoeksche Heide
 Wolfhezerbossen
 Woldberg
-Woensdrechtsche Heide
 Wittenberg
-Wittelterveld
 Willemsbos
-Wilde Kamp
 Wilbrinksbos
 Wieselsche Bosch
-Wierdense Veld
-Wezepsche Heide
-Westerveld
 Westerbos
-Westeindsche Heide
-Wellsche Heide
-Wellenseindse Heide
-Wekeromse Zand
-Wasven
-Wapserzand
-Wapserveld
-Wapsernoordenveld
 Wandelbos
 Wallebos
-Walbeckheide
-Vlakte van Waalsdorp
-Vughtsche Heide
 Vresselsebos
 Vreebosch
-Vrederust
-Vrachelse Heide
 Vossenbosch
-Voorste Heide
 Visvijverbos
 Vierhouter Bos
-Vierhoutense Heide
-Vier Bergen
 Venakkerbosch
 Veluwenbos
 Veldese Bos
 Veldersbos
 Vegilinbossen
-Vasserheide
 Van der Huchtbos
 Van Coehoornbos
 Valtherbos
-Usselerveen
 Ulvenhoutsche Bosch
-Ullingse-Bergen
-Ulicootsche Heide
 Ugchelse Bos
-Uddelsche Buurtveld
-’t Zand
-Turnhoutse Heide
-Turfwater
 Tuimelaarsbos
 Trentsebossen
-Tongerensche Heide
 Tonckensbos
 Tolheksbos
-’t Kleine Ganzenveld
-Tienraijsche- en Swolgenderheide
 ’t Groeske
-Terwispelergrootschar
 Boswachterij Terschelling
-Terletsche Heide
 Tellingenbos
-Tafelbergheide
 Stroese Zand
 Strijbosch
-Strijbeeksche Heide
-Straatse Heide
 Stippelberg
-Stevensbergen
 Stevenbeeksebossen
 Sterrenbosch
-Steenveld
 Steenderbosch
 Steegberg
 Zuigerplas bos
-Staartsche Heide
 Sprielderbos
-Spreeuwelse Heide
 Spijkbos
-Speulderveld
 Speulderbosch
 Spelderholt
 Spanderswoud
 Spaarbankbos
-Sonse Heide
-Somerenseheide
 Smoddebos
-Smitsveen
 Smithuyserbos
 Slingerbos
 Sikkelbosch
 Schweibergerbos
-Schoonheterheide
 Schoonheten
-Schoonebeekerveld
-Schillenveen
-Schijvenveld
-Scharreveld
 Schandelosche Heide
 Schaluinen
-Schaijkse Heide
 Schadijksche Bosschen
 Ruurlo
-Rug van het Veen
-Rucphensche Heide
-Rucphensche en Langendijksche Heide
-Rovertsche Heide
-Roosduinen
 Rondbosch
-Rolderveld
 Roggebotsebos
 Roelagerbos
 Roekelse Bos
 Roekebosch
 Robbenoordbos
 Ritskebosch
-Rijtsche Heide
 Rijsterbos
 Riggelenbos
 Ridderoordse Bossen
-Rheder-en Worthrhederheide
-Rhedensche Heide
 Reyntjesbos
 Reulsberg
-Rethsche Heide
 Renkumse Beek
-Renderklippen
 Remmersteinsche Bosch
 Remmersbosch
 Reigerbosch
-Refelingsche Heide
 Reemsterbosch
-Reeksche Heide
 Reeënbosschen
 Rechteren
-Rechte Heide
 Ravensbos
-Ramenberg
 Radiobos
 Putterbos
 Putbos
 Prattenburgse Bos
 Pottersbos
 Postelsbos
-Plateaux
 Planken Wambuis
 Pelincksbos
-Peelven
 Peelse Heide
-Peel de Veluwe
-Papenvoortse Heide
 Pannenhoef
 Padenbos
-Paarsche Heide
 Paardenbos
 Overwater
 Overloonse Duinen
-Oud-Reemsterzand
-Oud-Reemsterveld
 Oudenbosch
-Oude Huizenlid
-Oude Buisse Heide
-Otterlose Zand
 Otterlose Bos
 Orvelterbosje
 Orderbos
@@ -21616,115 +20637,62 @@ Oranjewoud
 Oranjebosch
 Oosterzand
 Oostermaet
-Oosterheide
 Oosterbos
-Oostelbeerse Heide
 Onderveld
 Onderste Bos
 Ommerbos
 Bossen van Olterterp
-Oldebroekse Heide
-Oisterwijkse Heide
-Oirschotse Heide
 Oeienbos
 Odoornerdennen
-Nulandsche Heide
-Nuilerveld
 Nuilerbos
-Notterveen
-Noordseveld
 Noordlaarderbos
-Noord-Hijkerveld
-Noorderveld
-Noorderheide
 Noordbargerbos
 Nonnenbosschen
 Nollebos
-Nolderveld
 Nijreesbos
-Nieuw-Reemsterveld
 Nieuwe Werk
-Nieuwe Heide
 Nieuwe Bork
 Nieuw-Bosch
-Neterselse Heide
 Nerhovensche Bosschen
 Neppelenbroek
 Nederrijk
 Nederheide
 Munnicksbos
 Moretusbossen
-Mooker Heide
-Molenveld
-Molenschotsche Heide
 Molenheide
 Molenbosschen
-Moersche Heide
-Mispeleindse Heide
 Middelhart
 Middachterbosschen
 Mepperdennen
-Melickerheide
-Meeuwenveen
 Meervelderbosch
 Mastbosch
 Marisberg
 Mariënbos
-Mantingerzand
 Mantingerbos
-Mandeveen
 Maldense Vlak
 Makken
 Maartensdijkse Bossen
 Maarsbergse Bos
-Maanschoten
 Maalbergsche Heide
 Lycklamabossen
 Lutterveld
 Luntersche Buurtbosch
-Luchense Heide
 Lovinkbos
 Loosdrechtsche Bosch
-Loonsche Heide
-Looierheide
 Loobos
-Logtsche Heide
-Loenermark
 Loenense Bos
-Lippenhuisterheide
-Limitische Heide
 Liesselse Bossen
-Lieshoutse Heide
-Lieropse Heide
 Lierderbos
 Lheederzand
 Leuvenumse Bos
-Leuvensche Heide
 Leurse Bos
-Lentse Veen
-Leggelderveld
-Legerplaats Ossendrecht
 Leeremarksche Heide
-Leenderheide
-Lattropperveld
-Lange Bleek
-Landschotse Heide
-Landrumerheide
-Lage Heide
-Laagveld
 Laagbroek
 Kuinderbos
-Kuikseindse Heide
-Kruishaarsche Heide
 Kruisbergse Bossen
-Kraloërheide
 Krabbebossen
-Kraanvensche Heide
-Koude Heide
 Korterbos
-Kootwijksche Veld
 Kooibos
-Koningsheide
 Koningsbosch
 Koningenbosch
 Kokerbos
@@ -21732,254 +20700,133 @@ Koepelbos
 Koelbroek
 Kocherbos
 Kniphorstbosch
-Knegselsche Heide
 Klimberg
-Kleine Oisterwijksche Heide
 Keulse Slagen
-Ketelmeren
 Kerkwijkerbosch
-Kerkeindse Heide
 Kempkensberg
-Kemperheide
-Katlijkerheide
 Kanaalbossen
-Kampinasche Heide
-Kamperzand
-Kamperklippen
 Kaapse Bossen
 Jonkerbosch
 Jolderenbos
 Imbosch
 IJzerenbos
-Huurnerveld
 Hupkesbosch
 Hunzebos
 Hultensche Bos
-Hulselse Heide
-Hullenzand
 Houtribbos
 Houthuizerheide
-Houtdorperveld
-Horstveen
-Hoog Soerensche Veld
 Hoog Soerensche Bosschen
 Hooghuis
-Hooge Veen
-Hooge Heide
-Hoog Buurlosche Heide
 Honeschbos
-Holtherzand
 Hollumerbos
 Hollands Schwarzwald
 Hollandse Veld
 Hollandse Hout
 Hollandsche Bosschen
-Hoge Stoep
 Hoenderloose Bos
-Hoekenbrink
 Hoekelumse Bos
 Heumense Bos
-Heukelomseheide
 Het Zand
 Het Lingebos
 Het Hurkske
 Het Helder
 Het Groote Veld
-Het Eeuwig Leven
 Het Bos
 Het Blok
 Hertgang
 Hertenbosch
-Herselse Heide
 Heringsbosch
 Herbertusbossen
 Hendriksbosch
 Hellecaterveld
-Helena Peel
 Heilooërbosschen
 Heijensebassen
-Heidse Peel
-Heezerenbos
 Heeswijksche Heide
 Heesberg
 Haulsterbossen
 Hatertsebos
-Hartenhulberg
 Hardersbos
 Hapertse Bos
 Hamberg
-Halkenveen
 Haarsterbosch
-Haarlerveld
 Haardennen
-Haaksbergerveen
 Haagsche Bosch
 Gulpdal
 Grotelsche Bosch
 Grote Heide van Asten
 Groot Lankhorst
-Groote Zand
-Groote Heide
-Groevenbeekse Heide
-Groenplak
-Griendtsveense Peel
-Gorsselse Heide
 Goorsche Bosschen
-Ginkelse Heide
-Geysterenderheide
 Geysteren
 Gerendal
-Geeneindse Heide
-Gasselterheide
-Garderense Veld
 Galgeneind
 Galgenberg
-Galderse Heide
-Gaalsche Heide
-Fochtelooërveen
-Flip Hul
-Flierveld
-Fayersheide
 Ewijckshoeve
-Ermelose Heide
 Epserbosch
 Engelandse Bos
-Engbertsdijksvenen
-Empese-en Tondense Heide
 Emmerdennen
 Elzetterbos
-Elspeterstruiken
-Elspeter Heide
 Elspeter Bos
-Elsenerveld
 Elfbergen
 Elbertsbos
-Einderheide
-Edese Heide
 Edese Bos
 Echobos
-Dwingeloose Heide
-Drunensche Heide
 Drouwenerveld
-Doornspijkse Heide
-Doldersummerveld
-Doesburgerheide
-Dintherse Heide
 Dikkersbosch
 Dijkgatsbos
 Dieverveld
-Diessensche Heide
-Dierense Hoogte
-Diaconieen
 De Zandstuwe
 De Zandleij
-De Valouwe
-Deurnse Peel
-Deurnsche Heide
-De Sijsten
 De Sijsselt
 De Moeren
-De Moerbleek
-De Mast
-Delleburen
-De Kril
-De Hooge Heide
-De Hoenderboom
 Deelerwoud
-Deelense Zand
 De Dellen
 De But
-De Bult
-De Borkeld
 Datesbos
-Dalerveense Veen
 Crailosche Bosch
 Corversbos
 Compagnonsbossen
-Collsche Heide
 Coendersbosch
 Clingebos
 Chaambos
-Castelreesche Heide
-Cartierheide
-Bussumerheide
 Bunterbosch
-Bunnerveen
 Buinerveld
-Buikheide
 Bruggenbosch
-Brouwhuisse Heide
 Broekeldbosch
 Broedersbosch
 Brestbos
-Breklenkampse Veld
-Breeveen
-Breeheide
-Breeheese Heide
 Bredasche Bosch
-Bramerveld
-Brakelsche Heide
 Braakmanbossen
-Braakhuizensche Heide
 Bovenveld
 Bovenste Bos
-Bosserheide
-Boshoverheide
 Boschoord
 Borgbos
-Boeschoten
 Bloemkampen
 Blindenbosch
-Blesdijkerheide
-Blerickse Heide
 Blerickse Bergen
-Blarikshorst
-Blaricumerheide
-Beuninger Achterheide
 Berkenheuvel
-Bergvennen
 Bergsham
 Bergherbos
-Bergentheimerveen
 Berg en Bos
-Bentelerheide
 Bennekomse Bos
-Bendersche Heide
-Beekse Heide
-Beekhuizerzand
 Beekhuizense Bos
-Baronie Cranendonck
 Bankenbos
 Ballonzuilbossen
-Balingerzand
 Balgenbosch
 Baarnse Bos
-Asselsche Heide
 Asselsche Bosch
-Arnhemsche Heide
 Appense Bos
-Appelsche Heide
 Anserdennen
 Annendaalsbos
 Annanina’s Rust
 Anholtse Broek
-Amsterdamse Veld
 Amsterdamse Bos
 Amhoftsbos
 Amerongse Bos
 Amelterbos
 Aerlese Peel
-Adderveen
 Adderbosjes
-Achterveld
-Aarlesche Heide
-Aamsveen
-Aalstheide
-Aalderveld
 Diemerbos
 Penbos
-Kleine Kweek
-Rijk der Heide
 Lage Vuursche
 Hoge Vuursche
 Varaldskogen
@@ -21989,8 +20836,6 @@ Haslimarka
 Vestre Hasli Skog
 Bokemoa
 Hanumānnagar
-Community Health Centre
-Everest
 Sleṣmāntak Forest
 Bāghmārā Forest
 Topside Coral Pinnacles and Shrubs
@@ -22004,24 +20849,24 @@ Mangatu State Forest
 Kaingaroa State Forest
 Kaimanawa State Forest
 Golden Downs State Forest
-ROWALLAN FOREST
-DEAN FOREST
-WAITUTU FOREST
+Rowallan Forest
+Dean Forest
+Waitutu Forest
 Shirkers Bush
-TAKITIMU FOREST
-BURWOOD BUSH
-SNOWDON FOREST
-BLACKMOUNT FOREST
+Takitimu Forest
+Burwood Bush
+Snowdon Forest
+Blackmount Forest
 Mackinnons Garden
 Butlers Bush
-LETHAM BUSH
+Letham Bush
 Bairds Bush
 Firewood Bush
 Barcoo Bush
 Taylors Bush
 Island Bush
-LONGWOOD FOREST
-WOODLAW FOREST
+Longwood Forest
+Woodlaw Forest
 Eastern Bush
 Douglas Bush
 Otahu Bush
@@ -22029,108 +20874,108 @@ Wellwood Bushes
 Priory Bushes
 Lonekers Bush
 Broadlands Bush
-MOTU BUSH
+Motu Bush
 Mangapiri Bush
 Te Karara Bush
 Cockburns Bush
 Dog Bush
 Twelve Mile Bush
-EYRE FOREST
+Eyre Forest
 Peters Bush
-TARINGATURA FOREST
-HOKONUI FOREST
+Taringatura Forest
+Hokonui Forest
 Cox Bush
 Glencoe Bush
 Dusky Plantation
-LEITHEN BUSH
+Leithen Bush
 Croydon Bush
 Mararua Bush
-HOKONUI  FOREST
-PARINGA FOREST
+Hokonui Forest
+Paringa Forest
 Green Island Bush
 Little Green Bush
-OHAU FOREST
-HUNTER FOREST
+Ohau Forest
+Hunter Forest
 Kidds Bush
 McEwens Bush
-DUSKY FOREST
-BEAUMONT FOREST
-WEST TAPANUI FOREST
-RANKLEBURN  FOREST
-BEAUMONT  FOREST
+Dusky Forest
+Beaumont Forest
+West Tapanui Forest
+Rankleburn Forest
+Beaumont Forest
 Governors Bush
 Teawapuhe Bush
 Darts Bush
-NASEBY FOREST
-GLENDHU FOREST
-BERWICK FOREST
-WAIPORI FOREST
-LAKE IANTHE FOREST
+Naseby Forest
+Glendhu Forest
+Berwick Forest
+Waipori Forest
+Lake Ianthe Forest
 Darkey Jims Bush
 Garretts Bush
-The Painted Forest
+Painted Forest
 Burns Bush
 Dennistoun Bush
-RAINCLIFF FOREST
-WAIMATE FOREST
+Raincliff Forest
+Waimate Forest
 Kelceys Bush
 Hook Bush
 Gunns Bush
-HERBERT FOREST
-PAPAROA FOREST
+Herbert Forest
+Paparoa Forest
 Mawhera  Forest
 Rockwood Forest
-THIRTEEN MILE BUSH
-MOUNT HUTT FOREST
+Thirteen Mile Bush
+Mount Hutt Forest
 Kowai Forest
-ALFORD FOREST
+Alford Forest
 Mills Bush
-MOUNT THOMAS FOREST
-OXFORD FOREST
-GLEN ARLIE FOREST
-COALGATE FOREST
-BALMORAL FOREST
+Mount Thomas Forest
+Oxford Forest
+Glen Arlie Forest
+Coalgate Forest
+Balmoral Forest
 Gills Bush
 Home Bush
-ASHLEY FOREST
+Ashley Forest
 Pigeon Bush
 Burwood Plantation
 Chaneys Plantation
-BOTTLE LAKE FOREST
-EYREWELL FOREST
-BIG BUSH FOREST
+Bottle Lake Forest
+Eyrewell Forest
+Big Bush Forest
 Big Bush
 Wandle Bush
 Settlers Bush
-TARAMOUKOU FOREST
-POUIATOA FOREST
-MATIRANGI FOREST
-TE WERA FOREST
-TUIHU FOREST
-RIMUNUI FOREST
-TARERE FOREST
-MOKI FOREST
-MAKINO FOREST
-OKARA FOREST
-TANGARAKAU FOREST
-TOI FOREST
-WAITAANGA FOREST
-REREKINO FOREST
-WHANGAMOMONA FOREST
-MOUNT MESSENGER FOREST
-WAITOTARA FOREST
-SANTOFT FOREST
-PUKEPOTO FOREST
-TONGARIRO FOREST
+Taramoukou Forest
+Pouiatoa Forest
+Matirangi Forest
+Te Wera Forest
+Tuihu Forest
+Rimunui Forest
+Tarere Forest
+Moki Forest
+Makino Forest
+Okara Forest
+Tangarakau Forest
+Toi Forest
+Waitaanga Forest
+Rerekino Forest
+Whangamomona Forest
+Mount Messenger Forest
+Waitotara Forest
+Santoft Forest
+Pukepoto Forest
+Tongariro Forest
 Moturoa Bush
-ERUA FOREST
-WAIMARINO FOREST
-LISMORE FOREST
-WAITARERE  FOREST
-KOHITERE FOREST
-WAITARERE FOREST
+Erua Forest
+Waimarino Forest
+Lismore Forest
+Waitarere Forest
+Kohitere Forest
+Waitarere Forest
 Okahukura Bush
-KARIOI FOREST
+Karioi Forest
 Hassett Wood
 Atawhitiki Bush
 Ngamotu a te Ahimaire Bush
@@ -22147,86 +20992,86 @@ Pahoka Bush
 Parkinson Bush
 Holloway Bush
 Mitchell Bush
-PUKETOI FOREST
-NGAUMU FOREST
-AUPOURI FOREST
+Puketoi Forest
+Ngaumu Forest
+Aupouri Forest
 Haupatoto Bush
-HEREKINO FOREST
-MAUNGATANIWHA FOREST
-OMAHUTA FOREST
-OTANGAROA FOREST
-RAETEA FOREST
-WARAWARA FOREST
-TAPUWAE FOREST
-WAIPOUA FOREST
-WAIMA FOREST
-PUKETI FOREST
-WAITANGI FOREST
-PUKEWHARARIKI FOREST
-OPUA FOREST
-RAKAUTAO FOREST
-MOTATAU FOREST
-MANGAKAHIA FOREST
-MATARAUA FOREST
-TOKAWHERO FOREST
-MARLBOROUGH FOREST
-KAIHU FOREST
-HOUTO FOREST
-TANGIHUA FOREST
-MANGONUI FOREST
-RUSSELL FOREST
-GLENBERVIE FOREST
-RUAKAKA FOREST
-PUKENUI FOREST
-MAKARAU FOREST
-WOODHILL FOREST
-RIVERHEAD FOREST
+Herekino Forest
+Maungataniwha Forest
+Omahuta Forest
+Otangaroa Forest
+Raetea Forest
+Warawara Forest
+Tapuwae Forest
+Waipoua Forest
+Waima Forest
+Puketi Forest
+Waitangi Forest
+Pukewharariki Forest
+Opua Forest
+Rakautao Forest
+Motatau Forest
+Mangakahia Forest
+Mataraua Forest
+Tokawhero Forest
+Marlborough Forest
+Kaihu Forest
+Houto Forest
+Tangihua Forest
+Mangonui Forest
+Russell Forest
+Glenbervie Forest
+Ruakaka Forest
+Pukenui Forest
+Makarau Forest
+Woodhill Forest
+Riverhead Forest
 Walker Bush
 Goldie Bush
-HUTIWAI FOREST
-MATAITAI FOREST
-MANGATAWHIRI FOREST
-MARAMARUA FOREST
-PUREORA FOREST
-NIHONIHO FOREST
-KINLEITH FOREST
-TAHORAKURI FOREST
-BROADLANDS FOREST
-ROTOITI FOREST
-ROTOMA FOREST
-TARAWERA FOREST
-MATAHINA FOREST
-OMATAROA FOREST
-KAINGAROA FOREST
-WHIRINAKI FOREST
-WAIOEKA FOREST
-WAIKEREA FOREST
-TUHOE FOREST
-TANEATUA FOREST
-WAIMANA FOREST
-KERERUTAHI FOREST
-WAIOTAHI FOREST
-MATAHI FOREST
-WAIKAREITI FOREST
-PANEKIRI FOREST
+Hutiwai Forest
+Mataitai Forest
+Mangatawhiri Forest
+Maramarua Forest
+Pureora Forest
+Nihoniho Forest
+Kinleith Forest
+Tahorakuri Forest
+Broadlands Forest
+Rotoiti Forest
+Rotoma Forest
+Tarawera Forest
+Matahina Forest
+Omataroa Forest
+Kaingaroa Forest
+Whirinaki Forest
+Waioeka Forest
+Waikerea Forest
+Tuhoe Forest
+Taneatua Forest
+Waimana Forest
+Kererutahi Forest
+Waiotahi Forest
+Matahi Forest
+Waikareiti Forest
+Panekiri Forest
 Ngamoko Forest
-WATERWORKS BUSH
+Waterworks Bush
 Jacobs Bush
-MANGATU FOREST
+Mangatu Forest
 Tumunui Bush
-KARAMEA FOREST
-MOKIHINUI FOREST
+Karamea Forest
+Mokihinui Forest
 Quinney Bush
 Baigents Bush
 Faulkners Bush
 Max’s Bush
-HIRA FOREST
-RAI FOREST
-MANGAWHAI FOREST
-DOME FOREST
-OMAHA FOREST
-KAIMANAWA FOREST
-KAWEKA FOREST
+Hira Forest
+Rai Forest
+Mangawhai Forest
+Dome Forest
+Omaha Forest
+Kaimanawa Forest
+Kaweka Forest
 Otutu Bush
 Omarukoko Bush
 Haumingi Bush
@@ -22235,51 +21080,49 @@ Blowhard Bush
 Boyds Bush (Kaimoko)
 Paramahao Bush
 Motumai Bush
-WILLOWFLAT FOREST
-MOHAKA FOREST
-AWAHOHONU FOREST
-WHARERATA FOREST
-ESK FOREST
-TANGOIO FOREST
-TANGIMOANA FOREST
+Willowflat Forest
+Mohaka Forest
+Awahohonu Forest
+Wharerata Forest
+Esk Forest
+Tangoio Forest
+Tangimoana Forest
 Waikaia Bush
 Waiuku Forest
-HONONU FOREST
+Hononu Forest
 Kawhaka Forest
-NEMONA FOREST
-WAIMEA FOREST
-KAKAHU FOREST
-RUATORIA FOREST
-MANUTAHI FOREST
-MATA FOREST
-KAKAPOTAHI FOREST
-GREAT BARRIER FOREST
-MIKONUI FOREST
-WAIPU GORGE FOREST
-MARERTU FOREST
-PUKEORA FOREST
-AOKAUTERE FOREST
+Nemona Forest
+Waimea Forest
+Kakahu Forest
+Ruatoria Forest
+Manutahi Forest
+Mata Forest
+Kakapotahi Forest
+Great Barrier Forest
+Mikonui Forest
+Waipu Gorge Forest
+Marertu Forest
+Pukeora Forest
+Aokautere Forest
 Omahu Bush
-TIVIDALE FOREST
-AWAROA FOREST
+Tividale Forest
+Awaroa Forest
 Tunnicliff Forest
 Kainui Forest
 Whakapaingarara/Tapu Bush
-OVERTON FOREST
-CAIRN PEAK FOREST
-RUGGED HILL FOREST
+Overton Forest
+Cairn Peak Forest
+Rugged Hill Forest
 Taylors Forest
 Springhill Forest
 Crosswood Forest
 Waikatea
 Hineroa Forest
 Nahaka Forest
-An Nabī Ayūb Grave
 San Matias-San Carlos Protected Forest
 Tumbi
 Paiviwat
 Lala
-Mercure Sydney Potts Point
 Tulayon Forest
 Tubuan Forest
 Sohoton Forest
@@ -22302,26 +21145,6 @@ Sinacdoran Forest
 Lebak Coconut Plantation
 Nagaha Hill Forest
 Arboretum Forest
-Ali Bāba Ziārat
-Chinar Ziārat
-Hāji Gul Bāba Ziārat
-Pīr Bain Bāba Ziārat
-Khushān Roz Bābā Ziārat
-Akhūn Sāhib Ziārat
-Sata
-Buda Bābā Ziārat
-Khawagai Ziārat
-Shaikh Bābā Ziārat
-Ghundai Ziārat
-Qāzi Mauli Ziārat
-Miān Sahib Ziārat
-Bādo Bābā Ziārat
-Shahīdan Ziārat
-Shahīd Ziārat
-Sher Shankai
-Aūlia Hāji Ibrāhīm
-Aūlia Gandar Pīr
-Aūlia Qutab Shāh
 Warāi
 Kallar
 Nawāzio Jalbāni
@@ -22329,36 +21152,6 @@ Ali Bakhsh Jalbān
 Ubhākappo
 Singhārki
 Qādir Dīno Shāh
-Ziārat Ābān Shāh
-Ziārat Māi Pīr
-Mīrānwāli Ziārat
-Paitiāniwāri Miān
-Dhīlari Ziārat
-Pīr Kotal Ziārat
-Shahīd
-Ziārat Saiyid Rakkhal Shāh
-Patal
-Māi Pīr
-Talarki Dan
-Jurok Ziārat
-Mujad Ziārat
-Gwarām Pīr
-Perangi Mela
-Tanga Ziārat
-Pīr Hazar Ziārat
-Kādam Nikka Ziārat
-Shura Kherawa Ziārat
-Ziārat Shaikh Ahmad Bāba
-Shaikh Bāba Ziārat
-Minawir Baba Ziārat
-Gul Bāba Ziārat
-Hasir Bāba Ziārat
-Mula Muhammad Ziarat
-Damkata Ziārat
-Bahrām Bāba Ziārat
-Ghani Bāba Ziārat
-Miān Bāba Ziārat
-Munara Bābā Ziārat
 Rakh Taramman
 Thirchak Unclassed Forest
 Sarla Forest
@@ -22380,19 +21173,12 @@ Rakh Khānpur
 Kachcho Khānot Reserved Forest
 Jhalārīn Shimāli
 Domel
-Ayān Pīr
 Rakh Wazir Khan
 Mudke Unclassed Forest
 Faizpur Unclassed Forest
 Korotāna Unclassed Forest
 Katarband Unclassed Forest
 Rakh Chandrāi Protected Forest
-Mūsa Bāba Ziārat
-Chalgazai Ziārat
-Owa Batak Ziārat
-Ziārat Fateh Bāba
-Nandan Shahīd Ziārat
-Ghuta Kari Ziārat
 Rakh Trāp
 Rakh Nārian
 Rakh Kairi
@@ -22403,38 +21189,20 @@ Rakh Sukhwahan
 Rakh Makhad
 Rakh Maira Nalhad
 Rakh Gokhi
-Dabbang Bāba Ziārat
-Sarbādal Bāba Ziārat
 Palosa Forest
 Rakh Pandori
-Fāzil Faqīr
 Rakh Abdu Khān
-Dāwa Ziārat
-Pir Ziārat
-Wasta
-Shaikh Nika Ziārat
-Ziārat Ibrāhīm Gul
-Shaikh Dani Ziārat
-Markhān Nika Ziārat
-Talpan Ziārat
-Badal Ziārat
-Malik Azhdar Ziārat
-Āti Bāba Ziārat
-Shāhīd Ziarat
 Rakh Kot Chhajji Unclassed Forest
 Rakh Kisrān Unclassed Forest
 Rakh Mari Unclassed Forest
 Rakh Tawin Unclassed Forest
 Rakh Guliāl Unclassed Forest
-Buchaki Shahid Ziārat
 Maira Nalhad Unclassed Forest
 Bhajur Unclassed Forest
 Uchri Unclassed Forest
 Dandi Unclassed Forest
 Datwāl Kalān Unclassed Forest
 Utrān Unclassed Forest
-Abak Bāba Ziārat
-Ziārat Bāba
 Rakh Jalwal Unclassed Forest
 Aranwāli Unclassed Forest
 Rakh Mundwāl
@@ -22442,77 +21210,14 @@ Rakh Chauntra
 Dhok Mila Unclassed Forest
 Hāsal Unclassed Forest
 Pilo Unclassed Forest
-Shamadād Ziārat
-Baghtāwar Muqām Ziārat
-Mīrbāgh Ziārat
-Ziārat Akhūn Khāk
-Badi Ziārat
-Gānr Khākiān
-Zindai
-Lalu Ziārat
-Daulatyār Ziārat
-Karai
-Kānokai
-Loe Adirah
-Shāh Hussain Ziārat
-Mulla Kāmal Akhund Ziārat
-Momingi
-Hako Ziārat
-Lāli Nika Ziārat
-Takri Pīr Ali Said
 Gazki
-Shafi Muhammad
-Dandi Katch
-Drehadīra Ziārat
 Lunda Kachhi
-Yarn Khāk Ziārat
-Lāl Shāh Ziārat
-Gajjan Nāga
 Rakh Makhdum-ul-Mulk
 Bet Jhangāni
 Rakh Khairewāla
 Rakh Nawān Kot
 Rakh Chaubāra
 Old Rakh Shergarh
-Ziārat Jūgal Shahīd
-Ziārat Khen Khaira
-Ziārat Shaikh Faqīr
-Goth Sūbedār
-Goth Ali Muhammad
-Kas
-Mazār Sakhi Bachal Shāh
-Hadīra
-Mian Tārar
-Sarkai
-Gurdi Ziārat
-Ghurzandi
-Shākha
-Mogila Sapay
-Abbās
-Domāndai Ziārat
-Sanzai
-Kāiāra Kot
-Ziārat Pīr Kambūra
-Ziārat Mangia Pīr
-Saiyid Rākhel Shāh
-Kakoi
-Pīr Dost Muhammad
-Pir Dharenu
-Ziārat Sami Pir
-Zehri Pīr
-Ziārat Ali Faqīr
-Mujād Pīr
-Ratta Pīr
-Sangjāt
-Kehar Shāh Ziārat
-Bamba Pīr Ziārat
-Kanna Kadhāi
-Sakhi Dalīl Khān
-Āri Pīr
-Zare Shahīdān Ziārat
-Timi Ziārat
-Nargasi Ziārat
-Dodo Ziārat
 Rakh Dagrānwāla
 Rakh Dala
 Rakh Mahota Khānsar Aulakh
@@ -22550,31 +21255,15 @@ Rakh Lūku
 Rakh Roda
 Rakh Burāna
 Rakh Tāla Khatwān
-Shimli Ziārat
-Sakhi Ziārat
-Bābarke Ziārat
-Mīr Akhūnd Ziārat
-Hasan Faqīr Ziārat
 Māīlop
 Siāh Jangal
 Reku Forest
-Diloi
-Gunbad
-Torkānr Hadīra
-Jamāl Nīka Hadīra
-Pānīka Hadīra
-Ziārat Bāba Mīr Hasan
-Nādān Bāba Ziārat
-Kāg Bāba Ziārat
 Karam Rakh
 Palāli Rakh
 Kālāpera Rakh
-Dokāni
-Tarheri
 Bhingra Rakh
 Dab Rakh
 Arpoi Rakh
-Sinjālat Bāba Ziārat
 Rakh Kusak
 Rakh Makhiāla
 Rakh Awān
@@ -22582,24 +21271,7 @@ Rakh Charāgah Bhera
 Lāla Mūsa Protected Forest
 Rakh Bāba Bhūreshāh
 Gunna Bīt Rakh
-Moqām
 Rakh Kotla
-Bānde Bāba Ziārat
-Bādo Bāba Ziārat
-Goban Shahīd Ziārat
-Bakiānro Ziārat
-Mena Ziārat
-Shekh Bāba Ziārat
-Gūjar Ghundai Ziārat
-Miān Allahdād Bāba Ziārat
-Qāzi Bāba Ziārat
-Mandāo Bāba Ziārat
-Ghani Ziārat
-Dīn Bāba Ziārat
-Hāji Bāba Ziārat
-Ingar Bāba Ziārat
-Karamār Ziārat
-Ziārat Sorna Bāba
 Sillan Forest
 Batgirān Forest
 Chhalkāni Forest
@@ -22658,14 +21330,8 @@ Rakh Bhūneki
 Rakh Thāh Sech
 Rakh Harsa Ghunianke
 Rakh Halla
-Pardesi di Qabr
 Thiki Unclassed Forest
 Rakh Chacku
-Darbār Shāh Madār
-Garangai Ziārat
-Ghaibāna
-Nāsir Shahīd Ziārat
-Pīr Haider Nikka Ziārat
 Rakh Narakki
 Bet Daryāi
 Rakh Bet Mīr Hazār Protected Forest
@@ -22676,57 +21342,21 @@ Rakh Bilewāli
 Chhina Malāna Protected Forest
 Rakh Basti Ārif
 Rakh Hamzewāli
-Shaikh-ud-Din Nikka
-Mulla Dāhya
-Purdil Ziārat
-Khwāja Nika Ziārat
-Pīl Aghbarg
-Shanglun
-Shahīdān
-Shāhbo Nīka Ziārat
-Shurnu Hadīra
-Shaikh Yāru
-Maghdūd Takrai Ziārat
-Ziārat Pīrak Pīr
-Ismāīl
-Khwās Nika
-Malik Dīnār Ziārat
-Sobāni Ziārat
-Pīr Panja Ziārat
-Ziārat Shāh Mardān
-Shīshāri
-Rāhju
-Bībī nā Put
-Ziārat Shāh Jāfar
 Gumbāz Grass Rakh
-Shin Lwar Hadira
-Mara Yūsuf Hadīra
-Mulla Nika Hadīra
-Karkand Hadira
-Sra Kute Hadira
-Mijli
-Shaikh Mubārak
-Kādu
 Bāgh Rais Ghāzi Khān
 Rakh Holta Īsan
 Rakh Raqba Nasir
-Ziārat Hāji Hāroon
 Rakh Chak Lāwa
 Rakh Ban Sanbal
 Rakh Salwan
 Rakh Bhakhra
 Kundiān Plantation
-Pīr Shāh Bāz
-Shanari Shahīd
-Kālākot
-Behrām Shāh
 Rakh Kotla Sher Muhammad
 Rakh Langarwāh
 Rākh Bāqir Shāh
 Rakh Thul Meghrāi
 Sarki Rakh
 Rakh Kotli Lāl
-Daīm Faqīr Maqām
 Bagnār Forest
 Bani Forest
 Katsi Forest
@@ -22852,15 +21482,10 @@ Dumnag Forest
 Lunda Forest
 Pariwāla Forest
 Rakh Ferozepore
-Malikār Bāba Ziārat
-Ziārat Āqil Shāh
 Rakh Thattha
 Rakh Bodo
 Rakh Balchāni
 Rakh Lakri
-Ziārat Khunat Bāba
-Zarand Obo
-Ziārat Hayāt Mir
 Rakh Rangpur Baghur
 Rakh Rahdari
 Rakh Shāhwāla
@@ -22871,48 +21496,13 @@ Rakh Khīu
 Rakh Kārluwāla
 Rakh Haidarābād
 New Rakh Nawānkot
-Barak Ziārat
-Pīr Malhu
-Pīr Kamal’s Tomb
-Anjtalai
 Tarkhānwāla
-Ziārat Shaikh Ghaus
-Ziārat Bāba Ismāīl
 Richhmār Forest
-Yūsuf Bāba Ziārat
-Bibi Zangala Ziārat
-Akhūn Bāba Ziārat
-Munshi Cham
-Koka Bāba Ziārat
-Chalghozai Bāba
-Umar Khān Khel
-Ziārat Sam Baba
-Babarki Ziarat
-Ziārat Pir Zahoodin
-Sultan Bāba Ziārat
 Dojangā
-Owe Shahīdān
-Indai Sar Tsāh
-Raghai Hadīra
-Kandao Bāba
-Dher Bāba Kandao
-Ziārat Dīwāna Bāba
-Sra Khwa
-Tarah
-Ghargai
-Mochi Ziārat
-Umer Lakri Ziārat
-Ziārat Boli Buland
-Chiltan Ziārat
-Bībi Ziārat
 Woodcock Spinney
-Mūsa Nika
-Korai Tsāh
 Rakh Dhāndla
 Ghāzi Arāīn Forest
 Samundri Forest
-Marjān Aika
-Sar Shāh Ziārat
 Bāgh-i-Shahīdān
 Gol Bāgh
 Bāgh-i Jinnāh
@@ -22921,28 +21511,14 @@ Jinnāh Bāgh
 Lathe Jungle
 Burīda Jungle
 Drājāb Jungle
-Zardārre Kalag
-Ghand Pīr
 Chād Bagh
-Safed Damb
-Mandūro Baba
-Kutri Malang Bāba Ziārat
-Mirza Gul Bāba Ziārat
-Bahadur Khān Baba Ziārat
 Cantonment Forest
-Lagrai Bāba Ziarat
 Rakh Toi Bānda
 Rakh Chitti
 Rakh Gulial
 Rakh Tora Bhera
 Takht Pari Unclassed Forest
-Ziārat Pīr Wabzo
-Shānkh
-Māi Lālīn Ziārat
-Ziarat Hussain Shāh
-Ziārat Amīr Pīr
 Hoot Ābād Bāgh
-Khusān
 Pail Forest
 Chhijāna Forest
 Jāwa Forest
@@ -22953,50 +21529,17 @@ Hasan Ali Āfandi Bāghīcha
 Kaloiān Forest
 Sāil Suheri Forest
 Ir
-Ziārat Bibi Lori
-Pīr Sawāi
 Sarān Forest
-Pīr Dars Goria
-Ziārat Hāle Tabarbi
 Dand
 Samarkand North Unclassed Forest
 Rangpur Unclassed Forest
 Warhāl Unclassed Forest
 Rahna Unclassed Forest
 Surla Unclassed Forest
-Ziārat Bāba Nūr Shāhwati
-Ziārat Bāba Muhammad Bakhsh
-Bari Faqīr Ziārat
-Thadro Jhal
 Farid Bagh
-Jaman Shāh Graveyard
-Ziārat Shād Shăh
-Ziārat Hanga Shāh
 Rakh Chāh Khiali
-Qādir Bakhsh Jogi
 Rakh Muhib Shah
-Ziārat Mānā Pīr
-Ziārat Dāto Pir
-Shahīd Shāh Ziārat
-Ziārat Bhitāi Pīr
-Mazār Shāh Qāsim
-Qubba Shāhdād
-Ziarat Rashid Bādshāh
-Ziārat Māi Mulla Zai
-Syed Bedhi Shāh
-Pīr Chabbu
-Ziarat Khairuddin
-Pīr Ali Hyder
-Pir Mohammad Ashābi
-Dallu Mashāikh Graveyard
-Hāji Gul Ghaib
-Āri Pīr Ziārat
 Bachal Fruit Farm
-Ziārat Mullān Māibi
-Ziārat Nūr Shāh
-Ziārat Jall Bāba
-Tibba Shaikh Wazir
-Ziārat Hāji Sheikh
 Rakh Paluhān
 Rakh Sidu
 Rakh Nikru Shahīd
@@ -23011,56 +21554,16 @@ Durag
 Morung Mushk
 Rakh Chenakhi
 Khush Jungle
-Shāh Hasan Ziārat
-Ziārat Bībi Shali
-Ziārat Mazārdān
-Ziārat Sheikh Hussain
-Ziārat Mir Inām
 Bāgh Hajl Shāhdād
-Saiyid Mir Jān
 Chaudhry Zubair Farm
 Rakh Azmatwāla
 Rakh Uchhali
 Rakh Jabbi
 Rakh Thalwāli
-Hāji Gumbaz
 Sherojangal
 Bashir Chāndio Bagh
 Mansur Āli Āfandi Bagh
-Dag Mulla Ziārat
-Tangi Bāba Ziārat
-Shāhid Ziārat
-Shalgazi Ziārat
-Katsarai Bāba Ziārat
-Ziārat Ghani Bāba
-Ziarāt Khilwat
 Shaikh Ismail Ziārat
-Khawārzan Ziārat
-Ziārat Sheikh Gujar Bāba
-Ziārat Khūn Khazān Bāba
-Ziārat Wali Bāba
-Ziārat Shāh Mast Bāba
-Miān Ziārat
-Ding Bāba Ziārat
-Ziārat Bāba Khujry
-Ziārat Sheikh Azīm
-Ziārat Kāka Sahīb
-Ziārat Shoiab
-Ziārat Liār Bāba
-Ziarāt Faqīr Bāba
-Ziārat Lārhi Imām
-Ziārat Mashom
-Ziārat Shāh Sikandar
-Shāhid Bāba Ziārat
-Peri Salah Ziārat
-Sharomain Bāba Ziārat
-Ziārat Zafar Bāba
-Shakai
-Ziarat Amīr Muhammad
-Model Colony New Graveyard
-Ziārat Kharrakai Bāba
-Ziārat Sheikh Suliman Bāba
-Dherai Bāba Ziārat
 Māta Ranjoti Forest
 Bhariot Forest
 Nariola Forest
@@ -23079,54 +21582,22 @@ Anri Forest
 Panjāl Forest
 Dara Forest
 Sarar Forest
-Ziārat Panj Pīr
 Teri Forest
-Ziarat Pir Baba
 Kanhati Forest
 Gudwan Forest
-Ziarat Matu Baba
-Ziarat Muhmmad Shah
-Ziarat Mian Ba
 Miran Forest
-Nūri Bela Ziārat Bāba Faqir Shāh
-Ziārat Said Manzūr
-Ziārat Captain Hussain Khān Shāhid
-Ziārat Rehmanwalī
 Panjār Forest
-Ziārat Gāla Pīr
 Lasdana Forest
-Ziārat Pīr Yousaf Shāh
-Reoi Grave Yard
-Sarai Bāba Ziarat
-Masar Ziārat
-Khuda na Ziārat
-Syed Abād
 Guzāra Forest
-Qutab Shāhi Baba Ziārat
 Ken Forest
 Bān Jungle
 Kailāri Forest
 Shaikh Zaidwāla Toba Number One
-Zīarat Ghorow Pīr
-Zīarat Ghulam Haider Shāh
 Shaikh Zaidwāla Toba Number Two
-Ziārat Jagmāt Faqīr
-Jaggowāli Qabar
 Faiz Fruit and Nursery Farm
-Jindwāri Turbat
-Nūro Faqīr
-Saiyyed Siddīque Shāh
-Wādūwāli Ziārat
 Dabbīwāli Rakh
-Agarwāli Ziārat
-Ziārat Hussein Shāh
 Sadiqābād Jungle
-Dhotāl
-Shahīd Muhammad Sher
-Shohīd Muhammad Wakīl
-Ziarat Pottha Sharif
 Lakhi Forest
-Takya Ragia Imam
 Chhechhan Forest
 Pāna Forest
 Paur Forest
@@ -23141,20 +21612,6 @@ Dhārdharachh Forest
 Nage Thal Forest
 Nāge Thal Forest
 Othana Forest
-Ziārat Pīr Bangāl
-Ziārat Shāh Ali
-Gotem Sar
-Nallāni
-Mike Sang
-Jummāni
-Ziārat Sultān Shāh
-Ziārat Shāh Hussain
-Āi
-Ziārat Piran Sāhib
-Ziārat Langar Shāh
-Ziārat Pīr Ahmad Shāh
-Kungu Shāh Ziarāt
-Shāhid Dost Muhammad
 Nadleśnictwo Złota Wieś
 Nadleśnictwo Zagozdżon
 Nadleśnictwo Waliły
@@ -23370,7 +21827,6 @@ Nadleśnictwo Bartodzieje
 Las Kraszewski
 Nadleśnictwo Hańcza
 Las Kamieniec (Kamieniec Forest)
-Centrum Praktyki Psychologicznej
 Łubianki
 Borek
 Bois du Goéland
@@ -23407,7 +21863,6 @@ Zaytūn al Karm
 Karm al Bāshā
 Banī Qays
 Al Murabba‘ah
-Qabr ash Shaykh ‘Alī
 Pinhal do Viveiro
 Pinhal da Vinha
 Pinhal de Vigia
@@ -23522,7 +21977,6 @@ Forêt de Bois-Blanc
 Forêt de Belouve
 Pădurea Mija
 Pădurea Comarovo
-Bellu Graveyard
 Pădure Bordângului
 Pădure Golumbului
 Pădure Hoşlagu
@@ -23544,18 +21998,16 @@ Pădure Gogoşu
 Pădurea Cuceva
 Pădurea Dâlmei
 ocna mures
-CHILIE LIVADA
+Chilie Livada
 Letea - stejar 400 de ani și cai sălbatici
 Pădurice
 Vučanska Šuma
 Majdanska Šuma
-Vraneško Groblje
 Manastrirska Šuma
 Creni Lug
 Ostružnička Šuma
 Stojnička Šuma
 Gornje Šume
-Sveti Ilija
 Kelebijska Šuma
 Manastirska Šuma
 Krnja Jela
@@ -23579,7 +22031,6 @@ Naklo
 Kućine
 Radinska Šuma
 Mikića Šuma
-grave
 Mikulja
 Azanjska Alija
 Kravarnik
@@ -23593,56 +22044,6 @@ Ozeretskiy Lesouchastok
 Okovskiy Les
 Khrenovskoy Bor
 Buzulukskiy Bor
-Kurgan Kachurin
-Kurgan Malyy Ankulach
-Kurgan Bychkov
-Kurgan Sumasshedshiy
-Kurgan Ara-Kuyu
-Kurgan Kechegan-Tyube
-Kurgan Tungutar
-Kurgan Ale-Kuga
-Kurgan Perekrestok
-Kurgan Kozhar-Tyube
-Kurgan Yevoy-Tyube
-Kurgan Adzhi-Gerim-Tyube
-Kurgan Azamai
-Kurgan Teshkma-Tyube
-Kurgan Yangazy-Kol’
-Kurgan Kuyasly
-Kurgan Biy-Tyube
-Kurgan Taushi
-Kurgan Mengeli
-Kurgan Bezymyannyy
-Anton Kurgan
-Kurgan Kulanshi
-Kurgan Ravmnny
-Kurgan Tukuy Zapadnyy
-Kurgan Tukuy Yuzhnyy
-Kurgan Khadzhi Murat
-Kurgan Kop-Tyube
-Kurgan Orta-Tyube
-Kurgan Best-Tyube
-Kurgan Kazan-Khadzni
-Kurgan Kos-Tyube
-Kurgan Yaryk
-Kurgan Kulbensh
-Kurgan Avgasha
-Kurgan Dzhanimey-Granichnyy
-Kurgan Dzhanimey-Karanogayskiy
-Kurgan Chemchey
-Kurgan‘ Selekey Tyube
-Kurgan Zheltyy Bugor
-Kurgan Perekrestnyy
-Kurgan Besh-Tyube
-Kurgan Tagan
-Andrey Kurgan
-Kurgan Atchibar
-Kurgan Kalmyk-Kurgan
-Kurgan Kolodin
-Kurgan Malyy Amur
-Kurgan Pokrey
-Kurgan Tass-Tyube
-Kurgan Eki-Ulyak
 Lesnichestvo Raninskoye
 Ilovayskoye Lesnichestvo
 Nereyskiy Les
@@ -23815,7 +22216,6 @@ Les Laptev Kolok
 Les Trubin
 Les Afanas’yev
 Les Burtsev Osinnik
-Mogila Beringa
 Les Morskoy
 Les Krayniy
 Bobrovskaya Lesnaya Dacha
@@ -23869,8 +22269,6 @@ Lesnaya Dacha Shegarskaya
 Ryam Frolovskiy
 Ryam Solomennyy
 Kasmalinskaya Lesnaya Dacha
-Kurgan Stepana Razina
-Mogila Kurmak-Ali
 Les Latsova
 Les Konskaya Dacha
 Les Yazykovskiy
@@ -23880,8 +22278,6 @@ Kryazhevskiy Bor
 Les Andreyevskiy
 Les Yermakovskiy
 Les Ivanovskiy
-Mogila Naursbay
-Kurgan Rytyy
 Les Vyazovskiy
 Les Yemel’yanovskiy
 Les Vislyy
@@ -23933,21 +22329,9 @@ Les Mandrovskaya Dacha
 Ukholovskoye Lesnichestvo
 Les Kresty
 Les Boyarskiy
-Kurgan Khimin
-Kurgan Verblyud
-Kurgan Krasnyy
 Krasnoarmeyskoye Lesnichestvo
 Lesnichestvo Verkhnezhirovskoye
-Kurgan Ibragimov
 Lesozashchitnaya Stantsiya Lesnichestvo Volgo-Donskogo
-Kurgan Dvorik
-Kurgan Dzhal’dzhe
-Kurgan Aikha-Khar-Tolga
-Kurgan Khar-Tolga
-Kurgan Il’kov
-Kurgan Nugra-Tolga
-Kurgan Chokha-Tolga
-Kurgan Gorvun-Adryk
 Les Bol’shiye Atmaly
 Uchebnoye Lesnichestvo
 Les Tret’yak
@@ -23987,7 +22371,6 @@ Les Gar’
 Les Bol’shoy Bor
 Les Krasnyy
 Les Malyy Dabandinskiy
-Mogila Bonyvura
 Zelënyye Bory
 Rassoshnyye Bory
 Kandal’skaya Lesnaya Dacha
@@ -24054,8 +22437,6 @@ Juzur ar Rimth
 Al Jibjūb
 Ḩīsh adh Dhiyābah
 Ḩīsh Abū Wuthaylah
-Palace
-Park Hyatt Jeddah Marina Club And Spa
 Vallée de Mai
 Baţḩā’
 Ghābat al Qash
@@ -24071,38 +22452,28 @@ Ghābat Ash Shātāwi
 Ghābat Aḑ Ḑiresa
 Ghābat al Qom
 Ghābat Bal‘ar
-Smygheden
 Pitholmsheden
-Fjällboheden
 Varaskogen
 Vanneberga Fure
 Trollamon
 Tiomilaskogen
-Svedmon
 Stadsskogen
 Sörskogen
-Sörmon
-Skanörsljung
 Sandskogen
-Sadiokielas
 Röneskog
 Pålamalm
 Ottenbylund
 Nyvångsskogen
 Lygnersvider
 Lojstahed
-Larvshed
 Kongalund
 Kölsåsskogen
 Klyftamon
-Kidanjuonje
-Kåtekielas
 Kartåsen
 Horna Fure
 Hälsingeskogen
 Finnskogen
 Edaskog
-Brattforsheden
 Bokeskogen
 Äspet
 Årskogen
@@ -24123,7 +22494,6 @@ Csergői-erdő
 Perbetei-erdő
 Csenke
 Csőszházerdő
-Uvs Congress and Educational Centre
 Forêt Classée de Thiès
 Forêt de Tambacounda-Nord
 Forêt de Sadiata
@@ -24159,13 +22529,10 @@ Forêt Classée des Narangs
 Gouye Niaye
 Forêt de Dèni Youssou
 MonaMofaCamp
-Galo Qundhar
-Graf van Eilerts de Haan
 Rap Majaak
 Farajala
 KayoKaji
 Bako Forest
-Bentiu Graveyard
 ’Aza Forest
 Taufikia Forest
 Kwalgak
@@ -24180,7 +22547,6 @@ Al Baţayţah
 Bustān Maţlas
 Arḑ Siţrūn
 Bustān aţ Ţayyāf
-Qabr Ayyūbī
 Karm as Sayyid
 Bustān al ‘Uyūn
 Ḩirsh Mas‘adah
@@ -24199,7 +22565,6 @@ Bustān Ḩasan
 Bustān ad Dabbūsh
 Karm al Abyaḑ
 Karm al ‘Abd
-Qabr ‘Awdah an Niqār
 Margada Adjaoui
 Forêt Classée de Timbéri
 Mérèp
@@ -24214,7 +22579,6 @@ Al Fatiatia
 Madardé
 Am Djamia
 Tagouani
-Les Bosquets
 Bois du Chaudron
 Forêt d’Yakouéou
 Forêt de Oua Oua
@@ -24254,47 +22618,7 @@ Dong Ban No
 Dong Ba I Om
 Dong Na Kho
 Dong Nong Khaen
-Peninsula (Grand Balcony)
-Avista Hideaway (Bueno Vista)
-Samui Boat Lagoon
-Rajaburi Boutique
-Gold Orchid Bangkok Hotel Mana
-Casa Del M Resort
-Aloft Bangkok Sukhumvit Soi 11
-Mogila Yul-Mazar
-Mogila Uaarsha
-Gŭr Araba
-Mazar Duzdoybulok
 Mogila Yekke-Seney
-Kurgan Adzharlidepe
-Kurgan Muyun
-Mogila Khodzhagar
-Mogil’nik Yulbaraliboba
-Mogila Tukhdar
-Mogila Kozlour
-Mogila Moshatata
-Kurgan Kyurenkala
-Kurgan Karadepe
-Kurgan Karauldepe
-Kurgan Anchadepe
-Kurgan Koshadzhi
-Kurgan El’kendepe
-Kurgan Khoshadepe
-Kurgan Erkdepe
-Kurgan Grendepe
-Kurgan Apardype
-Kurgan Aglachi
-Kurgan Balayalyk
-Kurgan Kiikdepe
-Kurgan Karatokay
-Kurgan Akdepe
-Mogila Beodi-Musum
-Kladbishche Shekhit
-Kurgan Karakala
-Mogila Kulmurza
-Kladbishche Otlymakhtum
-Kladbishche Nurgel’dy
-Kurgan Gekdzhuk
 Forêt de l’Oued Zan
 Forêt de la Kesra
 Forêt de Dar Chichou
@@ -24302,13 +22626,11 @@ Kürtoluğuormanı
 Kızıldağormanı
 Çandır Atatürk Ormanı
 Çamormanı
-Küp Mezarlar
 Atatürk Orman Çiftliği
 Alaçamormanları
 Kazıklı Bağları
 Kumru Bağları
 İlezibahçesi
-Mogila Sheykh-Ibrakhim-El’-Afshani
 Mardinbahçeleri
 Hasabağları
 Sady Zyunnar
@@ -24317,18 +22639,11 @@ Bakırkırıbahçeleri
 Gengene Ormanı
 Belgrad Ormanı
 Gölköy Orman Fidanlığı
-Terelek Kaya Mezarı
-Ayancık Kaya Mezarı
-Sakaeli Kaya Mezarları
-Gökbel Kaya Mezarı
-Horizini Kaya Mezarı
 Duacı Orman Alanı
 Barış Manço Ormanı
 Atatürk Ormanı
 Onbeş Yıl Atatürk Anı Ormanı
 Günlük Ormanı
-Çucalcı Hacı Ahmet Bey Mezarı
-Koçhisar Kaya Mezarı
 Atatürk Kent Ormanı
 Soğukpınar Ormanı
 Karakuz Ormanı
@@ -24348,7 +22663,6 @@ Coconut Woodland
 Xibao Nongchang
 Dongshi Linchang
 Huisun Linchang
-Fullon Hot Spring Resort (Classic Twin)
 Ngezi Forest
 Laianai Forest
 Jozani Forest
@@ -24357,11 +22671,9 @@ Kaniaga Forest
 Champesha Forest
 Rushosho Forest
 Veliko-Anadol’skiy Lesnoy Massiv
-Kurgan Mogila Golubovka
 Les Goryachkovskaya Dacha
 Les Kisirnyak
 Les Krasnyy Rog
-Mogila Nechaya
 Les Tsirskaya Dacha
 Les Chervin
 Les Shel’minovo
@@ -24526,7 +22838,6 @@ Serule
 Buhirigi
 Scrub Land only
 Grass and Scrubb Vegetation only
-Guano Digger Graveyard
 Grass and Scrubland only
 Low Scrub Cover
 Scrub Cover
@@ -24637,7 +22948,7 @@ Olympia State Forest
 Pennyrile State Forest
 Tygarts State Forest
 Alexander State Forest
-The Big Woods
+Big Woods
 Kisatchie National Forest
 Baileys Woods (historical)
 Blacks Hilltop Orchard
@@ -24757,7 +23068,7 @@ Green Bank State Forest
 Lebanon State Forest
 Muttontown Woods
 Penn State Forest
-The Pine Barrens
+Pine Barrens
 Wharton State Forest
 Authors Grove
 Barrs Woods (historical)
@@ -24811,7 +23122,7 @@ Cherokee Orchard
 Chestnut Grove
 Chickasaw State Forest
 Franklin-Marion State Forest
-The Glades
+Glades
 Grundy State Forest
 Indian Mountain State Forest
 Lewis State Forest
@@ -24848,7 +23159,7 @@ Starks Thicket
 Whispering Cedars
 Woodward Grove
 Beech Forest
-The Cedars
+Cedars
 Conway-Robinson Memorial State Forest
 Cumberland State Forest
 Elm Spring Orchard
@@ -25007,7 +23318,7 @@ Forest Glen Woods
 Forty Acre Woods
 Fullerton Woods East
 Fullerton Woods West
-GAR Woods
+Gar Woods
 Gap Grove (historical)
 La Grange Park Woods
 Green Valley County Forest Preserve
@@ -25244,10 +23555,10 @@ Willard Woods
 Willowdale State Forest
 Winchendon State Forest
 Windsor State Forest
-The Woods
+Woods
 Worthington State Forest
 Wrentham State Forest
-The Black Woods
+Black Woods
 Bowdoin Pines
 Crockett Cove Woods
 Durham State Forest
@@ -25405,7 +23716,7 @@ Mast Yard State Forest
 Meadow Pond State Forest
 Merrimack River State Forest
 Nottingham State Forest
-The Oaklands
+Oaklands
 Opechee Bay Tract
 Pine River State Forest
 Pitcher Mountain State Forest
@@ -25546,14 +23857,14 @@ Gallitzin State Forest
 Haldeman State Forest
 Howard State Nursery
 Clear Creek State Forest
-The Long Woods
+Long Woods
 Moshannon State Forest
 Pennsylvania State University Experimental Forest
 Rothrock State Forest
 Sproul State Forest
 State Forest Lands
 Susquehanna State Forest
-The Pennsylvania State University Experimental Forest
+Pennsylvania State University Experimental Forest
 Tiadaghton State Forest
 Tioga State Forest
 Tuscarora State Forest
@@ -25706,13 +24017,12 @@ Flambeau River State Forest
 Governor Knowles State Forest
 Hemlock Grove
 Kettle Moraine State Forest
-Upland Hills Health
 Nicolet National Forest
 Nine Mile Forest
 Northern Highland-American Legion State Forest
 Point Beach State Forest
 Rahr Memorial School Forest
-The Yankee Woods
+Yankee Woods
 Truvilles Woods
 Uhrenholdt Memorial State Forest
 Wausaukee State Forest
@@ -25735,7 +24045,7 @@ Douglas Ranger District
 Fort Valley Experimental Forest
 Globe Ranger District
 Jasper Forest
-The Junipers
+Junipers
 Kaibab National Forest
 Lakeside Ranger District
 Long Valley Experimental Forest
@@ -25965,7 +24275,7 @@ Rita Blanca National Grassland
 Aspen Patch
 Big Birch
 Cedar Grove
-The Cottonwoods
+Cottonwoods
 Cracker Grove
 Desert Experimental Range
 Dixie National Forest
@@ -26098,7 +24408,7 @@ Priest River Experimental Forest
 Saint Joe National Forest
 Salmon National Forest
 Targhee National Forest
-The Thorns
+Thorns
 Beaverhead National Forest
 Bitterroot National Forest
 Clearwater State Forest
@@ -26192,7 +24502,7 @@ Uinta National Forest
 Wasatch National Forest
 Wasatch-Cache National Forest
 Webb Cedars
-The Woodpile
+Woodpile
 Adams Woods
 Anderson Woods
 Argonne Forest
@@ -26262,7 +24572,6 @@ Medicine Bow National Forest
 Shoshone National Forest
 Teton National Forest
 Thunder Basin National Grassland
-Chief Situk Grave
 Kahaluu Forest Reserve
 Kahikinui Forest Reserve
 Kahuku Forest Reserve
@@ -26369,7 +24678,6 @@ Big Woods State Forest
 Vallecitos Federal Sustained Yield Unit
 Conejos Peak Ranger District
 Zahniser Woods
-Cosmetic Surgery Center
 Kisatchie National
 Camino Real Ranger District
 El Rito Ranger District
@@ -26383,127 +24691,19 @@ Mouse River State Forest South Unit
 Nowesta Memorial Grove
 Silky Woods
 Woodpecker Woods
-Laguardia Airport Laguardia Room
-Comfort Inn La Guardia Airport
-Fairfield Inn & Suites Tampa Fairgrounds Casino
-Hyatt 48 Lex
-Baymont Inn & Suites Lemars
-Best Western Resort Hotel & Conference Center
-Holiday Inn Express Hotel & Suites Corpus Christi-Portland
-Holiday Inn Express Hotel & Suites Cincinnati-N Sharonville
-Baymont Inn & Suites Pensacola
-Hilton Garden Inn Twin Falls
-Sleep Inn & Suites Haysville
-Howard Johnson Houston Nasa-Clearlake
-Courtyard Houston Nasa Clear Lake
-Fairfield Inn & Suites Anaheim Buena Park Disney North
-Fairfield Inn & Suites San Antonio Downtown Alamo Plaza
-Residence Inn San Antonio Downtown Alamo Plaza
-Doubletree St. Paul Downtown
-Gulf Coast Holiday Homes. Marco Island
-Hilton Garden Inn Albuq. N Rio Rancho
-Holiday Inn Express Boca Raton West
-Hampton Inn Suites South Burlington
-Hampton Inn Rutland. Vt
-Red Roof Inn Atlanta Smyrna
-Rodeway Inn
-Hampton Inn Danville
-W Minneapolis-The Foshay
-Microtel Inn Airport
-Super 8 Chicago Northlake O’Hare South
-Hampton Inn Moab
-Days Inn & Suites Mobile
-Best Western Inn Of Jasper
-Hampton Inn & Suites Jacksonville S. Bartram Park
-Comfort Inn
-Comfort Suites
-Rodeway Inn Pacific Beach
-Shilo Inn Suites Twin Falls
-Clarion Hotel Lacrosse
-Quality Inn & Suites Canton
-Holiday Inn Express Dodge City
-Hampton Inn El Dorado Ar
-Bluegreen Vacations Suites At Hershey. Ascend Resort Collection
-Comfort Suites Hudson
-Fairfield Inn & Suites Pittsburgh New Stanton
-Do Not Use
-Courtyard Chicago Oakbrook Terrace
-Holiday Inn Express Fort Campbell-Oak Grove
 Nesbit Blueberry Plantation
-Hampton Inn Suites Prattville
-Wingate By Wyndham Pueblo
-Holiday Inn Express Hotel & Suites Seaside-Convention Center
-Travelodge Sylmar Ca
-Courtyard St. George
-Residence Inn Dallas Plano The Colony
-Knights Inn Temple
-Doubletree By Hilton Phoenix Tempe
-Super 8 Indianapolis Ne Castleton Area
-Super 8 Columbus
-Travelodge Inn & Suites Orlando Airport
-Best Western Orlando East Inn & Suites
-Hotel Indigo Raleigh Durham Airport At Rtp
-Arlington
-Howard Johnson Inn Executive Center
-Naples Bay Resort
-La Quinta Inn & Suites 988
-Hilton Garden Inn Nashvillevan
-Hilton Garden Inn New Orleans Convention Ctr
-Crowne Plaza Northwest Brookho
-Homewood Suites Houston Kingwood
-Holiday Inn Express Hotel & Suites Abilene
-Quality Inn Mystic
-Quality Inn & Suites Miamisburg
-Comfort Suites Denver West Federal Center
-Hampton Inn Suites Westfordchelmsford
-Hampton Inn Chicago Elgin I90
-Super 8 Baytown Mont Belvieu
-Days Inn Beaumont
-Microtel Inn Beckley
-Rodeway Inn & Suites Corona
-Hilton Garden Inn Valencia Six Flags
-Microtel Inn By Wyndham Georgetown
-Fairfield Inn & Suites Oklahoma City Airport
-Doubletree By Hilton Princeton
-Holiday Inn Express Hotel & Suites East Lansing
-Ramada Convention Center Eau Claire
-Quality Inn Pismo Beach
-All Seasons Suites
-Emerald Isle By Oaseas Resorts
-Sleep Inn & Suites Manchester
-Holiday Inn Express Hotel & Suites Rolla @ Univ Of Missouri Rolla
-Super 8 Old Saybrook
-Holiday Inn Express Dandridge
-Comfort Inn & Suites Mansfield
-Grandstay Hotel & Suites Appleton
-Wyndham Garden Duluth
 Vanderwhacker Mountain Wild Forest
 Huntington Wildlife Forest
 Fenimore Woods
 American River Cherry Orchard
 Apalachacola National Forest
-Hampton Inn Louisville-Airport-FairExpo Ctr
-Hampton Inn Columbia Md
-Baymont Inn & Suites Atlanta Airport South
-Holiday Inn Express Sorrento Valley
-Motel 6 Eureka 1342
-Motel 6 Carpinteria South
-Hampton Inn & Suites Grafton
 Pine-Oak Scrub
 Sumpter National Forest
 Sumpter National Forest (Oconee County)
 Lady Bird Johnson Grove
-Point Plaza Suites At City Center
 El Dorado National Forest
 McCarty Woods
 Reitz Ravine Woods
-Mogila Sulama
-Mogila Kidk
-Mogila Boba-Itmas
-Mogila Khodzha-Mokhammed
-Mogila Tash-Mulla
-Mogila Kutebar
-Mogila Bidel’bek
 Montañas de Veguitas
 Montañas de Turén
 Montaña de Turén
@@ -26568,7 +24768,6 @@ Prey Kambang
 Rừng An Sơn
 Surdup Šuma
 Garaćeva Šuma
-Cvetkov Grob
 Šaljiljanska Šuma
 Ghāb Shamhān
 Āl Wahās
@@ -26789,7 +24988,6 @@ Grabouw Staatsbos
 Ceder Berg Forest Reserve
 Cecilia State Forest
 Bokkerivier Staatsbos
-Holiday Inn Express Cape Town Hotel
 Stinkhoutkloof
 Zuma
 Yanga
@@ -27063,7 +25261,5 @@ Chesa Forest Land
 Mbembesi Forest Land
 Banti Forest Area
 Mukuvisi Woodlands
-Chenurazha
 Gokwe Fossil Forest
 Le Bois de Ronsart
-Leonardo Plaza Hotel Dead Sea
