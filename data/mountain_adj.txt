@@ -6,11 +6,13 @@ black
 blue
 blessed
 brooding
+brown
 cloudy
 cold
 deadly
 deep
 desolate
+divine
 dread
 dusky
 endless
@@ -26,9 +28,11 @@ holy
 ice-clad
 icy
 lofty
+looming
 lonely
 long-echoing
 misty
+mountainous
 mournful
 murky
 mystic
@@ -52,6 +56,7 @@ sunny
 tall
 trackless
 torrid
+towering
 wailing
 white
 windswept
