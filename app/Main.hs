@@ -20,7 +20,10 @@ abode a = list [ sof, a ]
 
 theyhunt a = list [ word "where they", anverb, word "the", a ]
   where anverb = choose $ map word [ "hunt", "eat", "fight", "worship", "dread" ]
-        
+
+
+trees ta t = list [ perhaps ( 1, 2 ) ta, t ]
+
 
 
 whodrink wadj rivers = list [ word "who drink the", wadj, word "waters of the", rivers ]
@@ -37,9 +40,14 @@ dressedin colours clothes = list [ participle, perhaps ( 1, 2 ) colours, clothes
 shininglike armour shinies = list [ word "their", armour, participle, shinies ]
   where participle = choose $ map word [ "shining like", "gleaming like", "glinting like", "glistening like" ]
 
-topos p sing plural = list [ p, randrep (0, 1) adjecclause ]
-  where adjecclause = list [ word ",", opts, word "," ]
-        opts = choose [ abode plural, abode plural, theyhunt sing ]
+
+
+topos_animal sing plural = list [ word ",", opts, word "," ]
+  where opts = choose [ abode plural, abode plural, theyhunt sing ]
+
+topos_forest tree tree_adj = list [ word "the", adj, tree, grove, word "of" ]
+  where adj = perhaps ( 0, 1 ) tree_adj
+        grove = choose $ map word [ "forests", "woods", "groves", "copses", "thickets", "wildwoods", "jungles" ]
 
 
 numbers = choose $ map word [ "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" ]
@@ -89,6 +97,8 @@ main = do
   wadj <- loadOptions (dataDir ++ "water_adj.txt")
   animal <- loadOptions (dataDir ++ "animals_sing.txt")
   animals <- loadOptions (dataDir ++ "animals_plural.txt")
+  trees <- loadOptions (dataDir ++ "trees.txt")
+  tree_adj <- loadOptions (dataDir ++ "tree_adj.txt")
   weapons <- loadOptions (dataDir ++ "weapons.txt")
   heroes <- loadOptions (dataDir ++ "heroes.txt")
   hero_adj <- loadOptions (dataDir ++ "hero_adj.txt")
@@ -98,7 +108,9 @@ main = do
   armour <- loadOptions (dataDir ++ "armour.txt")
   shining <- loadOptions (dataDir ++ "shining.txt")
   warriors <- return $ list [ epithet hero_adj hero_noun, heroes ]
-  topoi <- return $ topos places animal animals
+  p_animal <- return $ list [ places, topos_animal animal animals ]
+  p_forest <- return $ list [ topos_forest trees tree_adj, places ]
+  topoi <- return $ choose [ places, p_animal, p_forest ]
   waters <- return $ whodrink wadj water
   armedwith <- return $ wavingtheir weapons
   dress <- return $ dressedin colours clothes
