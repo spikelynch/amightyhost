@@ -16,6 +16,7 @@ divine
 dread
 dusky
 endless
+fathomless
 fearful
 frosty
 gaunt
@@ -57,6 +58,7 @@ tall
 trackless
 torrid
 towering
+vertical
 wailing
 white
 windswept
