@@ -1,4 +1,5 @@
 agile
+angel
 bad
 bandy
 beef
@@ -14,6 +15,7 @@ brave
 breast
 bright
 broad
+bull
 chest
 clear
 claw
@@ -23,17 +25,21 @@ cross
 curly
 dank
 dark
+dog
 dour
 deep
+devil
 dewy
 fair
 fast
 fat
 firm
+first
 flat
 flaxen
 frank
 free
+gin
 glad
 god
 golden
