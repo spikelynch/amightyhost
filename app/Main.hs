@@ -54,6 +54,8 @@ topos_mountains m m_adj peaks = list [ word "the", adj, peaks, word "of", m ]
   where adj = perhaps ( 0, 1 ) m_adj
 
 
+topos_desert d d_adj d_sands = list [ word "the", d_adj, d_sands, word "of the", d ]
+
 numbers = choose $ map word [ "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" ]
 
 howmany = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
@@ -107,6 +109,9 @@ main = do
   mountains <- loadOptions (dataDir ++ "mountains.txt")
   mountain_adj <- loadOptions (dataDir ++ "mountain_adj.txt")
   peaks <- loadOptions (dataDir ++ "peaks.txt")
+  deserts <- loadOptions (dataDir ++ "desert.txt")
+  desert_adj <- loadOptions (dataDir ++ "desert_adj.txt")
+  sands <- loadOptions (dataDir ++ "sands.txt")
   weapons <- loadOptions (dataDir ++ "weapons.txt")
   heroes <- loadOptions (dataDir ++ "heroes.txt")
   hero_adj <- loadOptions (dataDir ++ "hero_adj.txt")
@@ -119,7 +124,8 @@ main = do
   p_animal <- return $ list [ places, topos_animal animal animals ]
   p_forest <- return $ list [ topos_forest trees tree_adj, forests ]
   p_mountains <- return $ topos_mountains mountains mountain_adj peaks
-  topoi <- return $ choose [ places, p_animal, p_forest, p_mountains ]
+  p_desert <- return $ topos_desert deserts desert_adj sands
+  topoi <- return $ choose [ places, p_animal, places, p_desert, p_forest, p_mountains ]
   waters <- return $ whodrink wadj water
   armedwith <- return $ wavingtheir weapons
   dress <- return $ dressedin colours clothes
