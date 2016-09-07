@@ -45,9 +45,9 @@ shininglike armour shinies = list [ word "their", armour, participle, shinies ]
 topos_animal sing plural = list [ word ",", opts, word "," ]
   where opts = choose [ abode plural, abode plural, theyhunt sing ]
 
-topos_forest tree tree_adj = list [ word "the", adj, tree, grove, word "of the" ]
+topos_forest tree tree_adj grove = list [ word "the", adj, trees, grove, word "of the" ]
   where adj = perhaps ( 0, 1 ) tree_adj
-        grove = choose $ map word [ "forests", "woods", "groves", "copses", "thickets", "wildwoods", "jungles" ]
+        trees = perhaps ( 2, 3 ) tree
 
 
 topos_mountains m m_adj peaks = list [ word "the", adj, peaks, word "of", m ]
@@ -93,36 +93,38 @@ prephr phrase = list [ phrase, word "," ]
 getDir (x:xs) = x
 getDir _      = "./"
 
+load d file = loadOptions (d ++ file)
   
 main :: IO ()
 main = do
   args <- getArgs
-  dataDir <- return $ getDir args
-  places <- loadOptions (dataDir ++ "places.txt")
-  water <- loadOptions (dataDir ++ "waterways.txt")
-  wadj <- loadOptions (dataDir ++ "water_adj.txt")
-  animal <- loadOptions (dataDir ++ "animals_sing.txt")
-  animals <- loadOptions (dataDir ++ "animals_plural.txt")
-  trees <- loadOptions (dataDir ++ "trees.txt")
-  tree_adj <- loadOptions (dataDir ++ "tree_adj.txt")
-  forests <- loadOptions (dataDir ++ "forests.txt")
-  mountains <- loadOptions (dataDir ++ "mountains.txt")
-  mountain_adj <- loadOptions (dataDir ++ "mountain_adj.txt")
-  peaks <- loadOptions (dataDir ++ "peaks.txt")
-  deserts <- loadOptions (dataDir ++ "desert.txt")
-  desert_adj <- loadOptions (dataDir ++ "desert_adj.txt")
-  sands <- loadOptions (dataDir ++ "sands.txt")
-  weapons <- loadOptions (dataDir ++ "weapons.txt")
-  heroes <- loadOptions (dataDir ++ "heroes.txt")
-  hero_adj <- loadOptions (dataDir ++ "hero_adj.txt")
-  hero_noun <- loadOptions (dataDir ++ "hero_noun.txt")
-  colours <- loadOptions (dataDir ++ "colours.txt")
-  clothes <- loadOptions (dataDir ++ "clothes.txt")
-  armour <- loadOptions (dataDir ++ "armour.txt")
-  shining <- loadOptions (dataDir ++ "shining.txt")
+  load <- return $ (\f -> loadOptions ((getDir args) ++ f))
+  places <- load "places.txt"
+  water <- load "waterways.txt"
+  wadj <- load "water_adj.txt"
+  animal <- load "animals_sing.txt"
+  animals <- load "animals_plural.txt"
+  trees <- load "trees.txt"
+  tree_adj <- load "tree_adj.txt"
+  forests <- load "forests.txt"
+  groves <- load "groves.txt"
+  mountains <- load "mountains.txt"
+  mountain_adj <- load "mountain_adj.txt"
+  peaks <- load "peaks.txt"
+  deserts <- load "desert.txt"
+  desert_adj <- load "desert_adj.txt"
+  sands <- load "sands.txt"
+  weapons <- load "weapons.txt"
+  heroes <- load "heroes.txt"
+  hero_adj <- load "hero_adj.txt"
+  hero_noun <- load "hero_noun.txt"
+  colours <- load "colours.txt"
+  clothes <- load "clothes.txt"
+  armour <- load "armour.txt"
+  shining <- load "shining.txt"
   warriors <- return $ list [ epithet hero_adj hero_noun, heroes ]
   p_animal <- return $ list [ places, topos_animal animal animals ]
-  p_forest <- return $ list [ topos_forest trees tree_adj, forests ]
+  p_forest <- return $ list [ topos_forest trees tree_adj groves, forests ]
   p_mountains <- return $ topos_mountains mountains mountain_adj peaks
   p_desert <- return $ topos_desert deserts desert_adj sands
   topoi <- return $ choose [ places, p_animal, places, p_desert, p_forest, p_mountains ]
