@@ -30,6 +30,7 @@ solitary
 starlit
 starry
 sun-drenched
+sweltering
 thirsty
 trackless
 windy

@@ -8,14 +8,17 @@ deciduous
 deep-shadowed
 dim
 distant
+dusky
 eerie
 enchanted
 fair
 fertile
 flower-laden
+fragrant
 fruit-bearing
 hoary
 holy
+hushed
 immemorial
 leafy
 lofty
@@ -23,6 +26,7 @@ lost
 lovely
 mighty
 misty
+mossy
 murky
 noble
 old
