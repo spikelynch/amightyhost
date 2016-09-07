@@ -3,10 +3,12 @@ brakes
 bush
 canopies
 chaparral
+chases
 coppices
 copses
 dales
 dells
+dingles
 forests
 glades
 glens
@@ -15,6 +17,7 @@ hollers
 hollows
 jungles
 moots
+parks
 rainforests
 scrub
 stands
@@ -22,4 +25,5 @@ thickets
 valleys
 wealds
 wildwoods
+wold
 woods
