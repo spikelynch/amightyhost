@@ -2,6 +2,7 @@ ankled
 armed
 armoured
 backed
+beaten
 beating
 begotten
 big
@@ -39,6 +40,7 @@ greaved
 groined
 haired
 handed
+harnessed
 headed
 hearted
 hewn
@@ -57,10 +59,12 @@ made
 maned
 may-care
 mouthed
+muscled
 necked
 omened
 prowed
 renowned
+seasoned
 shanked
 shod
 shouldered
