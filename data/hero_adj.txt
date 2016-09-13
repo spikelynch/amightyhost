@@ -1,3 +1,4 @@
+able
 agile
 angel
 bad
@@ -18,6 +19,7 @@ breast
 bright
 broad
 bull
+cheese
 chest
 clear
 claw
