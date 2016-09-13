@@ -1,3 +1,4 @@
+ankled
 armed
 armoured
 backed
@@ -23,6 +24,7 @@ drenched
 dressed
 drinking
 eating
+elbowed
 eyed
 faced
 famed
@@ -43,8 +45,10 @@ hewn
 hung
 hungry
 jawed
+jointed
 kempt
 kissed
+kneed
 legged
 limbed
 loined
@@ -73,4 +77,6 @@ thighed
 thirsty
 throated
 tongued
+voiced
 vowed
+wristed

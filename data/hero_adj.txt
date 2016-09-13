@@ -5,6 +5,7 @@ bandy
 beef
 beer
 big
+blonde
 blood
 bloody
 bold
@@ -26,6 +27,7 @@ curly
 dank
 dark
 dog
+double
 dour
 deep
 devil
@@ -33,6 +35,7 @@ dewy
 fair
 fast
 fat
+fierce
 firm
 first
 flat
@@ -58,6 +61,7 @@ hyacinth
 ill
 iron
 keen
+knock
 lantern
 lean
 leather
@@ -66,6 +70,7 @@ lithe
 live
 long
 loose
+loud
 love
 low
 mean
@@ -79,10 +84,12 @@ pale
 pork
 proud
 quick
+raven
 red
 rosy
 ruddy
 sad
+sandy
 shaggy
 slack
 small
@@ -100,14 +107,18 @@ surly
 swart
 swarthy
 swift
+stickle
+stiff
 tall
 tawny
 thick
 thin
 tight
+triple
 warm
 water
 well
 whey
+wild
 wine
 world
