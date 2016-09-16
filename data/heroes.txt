@@ -2,19 +2,21 @@ Amazons
 Anzacs
 Green Berets
 Gurkhas
-highlanders
-minutemen
-rebels
 Rough Riders
 WACs
 WAVEs
 abreks
 acolytes
+agents
+agents provocateurs
+agitators
+anarchists
 armchair activists
 artillerymen
 assassins
 astronauts
 auxilliaries
+avant-gardistes
 b-boys
 bacchantes
 bandits
@@ -46,15 +48,16 @@ cavalrymen
 centurions
 cheerleaders
 churls
-colour bearers
 cold warriors
-coxcombs
+colour bearers
 commandos
+communards
 condottieri
 consultants
 cornerboys
 corybantes
 cosmonauts
+coxcombs
 cuirassiers
 dacoits
 dames
@@ -67,6 +70,7 @@ doughboys
 dragoons
 ensigns
 eunuchs
+engineers
 exquisites
 fact-finders
 fellows
@@ -78,6 +82,7 @@ fops
 foresters
 freebooters
 freemen
+frondeurs
 fuglemen
 furies
 fusiliers
@@ -86,20 +91,21 @@ gangsters
 gendarmes
 girls
 goldbricks
-grenadiers
 greenhorns
+grenadiers
 grognards
 guardsmen
 guerillas
 gunners
-hajduks
 hags
+hajduks
 harpooneers
 heldentenors
 hellions
 helots
 henchmen
 heroes
+highlanders
 hillbillies
 hinds
 hobbledehoys
@@ -113,7 +119,9 @@ hussars
 hussies
 illuminati
 initiates
+insurgents
 invincibles
+invisibles
 irregulars
 janissaries
 jarls
@@ -135,17 +143,21 @@ maccaronies
 mamelukes
 marauders
 marines
+marshals
 mehmetçiks
 men
 men-at-arms
 mercenaries
 militants
 militiamen
+minutemen
 miscreants
 monsters
 murderers
 musketeers
+mutineers
 myrmidons
+nationalists
 ne'er-do-wells
 ninjas
 nobles
@@ -156,8 +168,10 @@ outlaws
 paladins
 paratroopers
 partisans
+patriots
 peacekeepers
 peers
+peons
 pirates
 pistoleers
 poilus
@@ -168,18 +182,22 @@ postulants
 princes
 privateers
 privates
+quartermasters
 ragazzi
 rakehells
 rangers
 rankers
-rapscallions
 raparees
+rapscallions
 rascals
+rebels
 recidivists
 redcoats
 redshirts
 regulars
 reprobates
+revanchists
+revolutionaries
 rogues
 ronin
 rude boys
@@ -187,14 +205,15 @@ ruffians
 salarymen
 samurai
 sappers
+scalawags
 scamps
 scapegraces
-scalawags
 scofflaws
 scoundrels
 scouts
 scrappers
 secretaries
+separatists
 sepoys
 she-devils
 shield-maidens
@@ -206,6 +225,9 @@ spear-carriers
 spies
 spitfires
 spotters
+stewards
+subversives
+suffragettes
 swains
 sweethearts
 swords
@@ -215,11 +237,11 @@ territorials
 thieves
 thugs
 tommies
-tóraithe
 trainbandsmen
 trappers
 tribunes
 tyros
+tóraithe
 upstarts
 varlets
 vassals
@@ -227,6 +249,7 @@ vigilantes
 villains
 villeins
 viragos
+warfighters
 warriors
 weekend warriors
 whiggamores
