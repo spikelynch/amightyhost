@@ -14,6 +14,7 @@ anarchists
 armchair activists
 artillerymen
 assassins
+assistants
 astronauts
 auxilliaries
 avant-gardistes
@@ -45,12 +46,15 @@ camisards
 camp followers
 carabinieri
 cavalrymen
+cavalieros
 centurions
 cheerleaders
 churls
+clowns
 cold warriors
 colour bearers
 commandos
+commissars
 communards
 condottieri
 consultants
@@ -64,6 +68,7 @@ dames
 dandies
 dastards
 demons
+deputies
 dervishes
 diggers
 doughboys
@@ -99,6 +104,7 @@ guerillas
 gunners
 hags
 hajduks
+harlequins
 harpooneers
 heldentenors
 hellions
@@ -126,6 +132,7 @@ irregulars
 janissaries
 jarls
 jawans
+jokers
 junkers
 kerns
 kinsmen
@@ -144,15 +151,19 @@ mamelukes
 marauders
 marines
 marshals
+matadors
 mehmetçiks
 men
 men-at-arms
 mercenaries
 militants
 militiamen
+mimes
 minutemen
 miscreants
 monsters
+mountebanks
+mummers
 murderers
 musketeers
 mutineers
@@ -172,6 +183,7 @@ patriots
 peacekeepers
 peers
 peons
+picadors
 pirates
 pistoleers
 poilus
@@ -182,6 +194,7 @@ postulants
 princes
 privateers
 privates
+protagonists
 quartermasters
 ragazzi
 rakehells
@@ -195,6 +208,7 @@ recidivists
 redcoats
 redshirts
 regulars
+rejoneadors
 reprobates
 revanchists
 revolutionaries
@@ -258,4 +272,5 @@ women
 wrestlers
 yeomen
 yobbos
+zanies
 zouaves
