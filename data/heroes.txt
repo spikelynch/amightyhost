@@ -11,6 +11,7 @@ agents
 agents provocateurs
 agitators
 anarchists
+analysts
 armchair activists
 artillerymen
 assassins
@@ -22,6 +23,7 @@ b-boys
 bacchantes
 bandits
 barbarians
+bards
 bashi-bazouks
 bastards
 beaux
@@ -63,6 +65,7 @@ corybantes
 cosmonauts
 coxcombs
 cuirassiers
+cup-bearers
 dacoits
 dames
 dandies
@@ -70,6 +73,7 @@ dastards
 demons
 deputies
 dervishes
+developers
 diggers
 doughboys
 dragoons
@@ -78,6 +82,7 @@ eunuchs
 engineers
 exquisites
 fact-finders
+fedayeen
 fellows
 fighters
 fishwives
@@ -94,6 +99,7 @@ fusiliers
 gallants
 gangsters
 gendarmes
+ghillies
 girls
 goldbricks
 greenhorns
@@ -163,6 +169,7 @@ minutemen
 miscreants
 monsters
 mountebanks
+muchachos
 mummers
 murderers
 musketeers
@@ -197,6 +204,7 @@ privates
 protagonists
 quartermasters
 ragazzi
+raiders
 rakehells
 rangers
 rankers
@@ -208,6 +216,7 @@ recidivists
 redcoats
 redshirts
 regulars
+reivers
 rejoneadors
 reprobates
 revanchists
@@ -257,6 +266,7 @@ tribunes
 tyros
 tóraithe
 upstarts
+ultras
 varlets
 vassals
 vigilantes
@@ -273,4 +283,6 @@ wrestlers
 yeomen
 yobbos
 zanies
+zetas
 zouaves
+
