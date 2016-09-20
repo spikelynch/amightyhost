@@ -127,7 +127,7 @@ main = do
   p_forest <- return $ list [ topos_forest trees tree_adj groves, forests ]
   p_mountains <- return $ topos_mountains mountains mountain_adj peaks
   p_desert <- return $ topos_desert deserts desert_adj sands
-  topoi <- return $ choose [ places, p_animal, places, p_desert, p_forest, p_mountains ]
+  topoi <- return $ choose [ places, places, p_animal, p_animal, p_desert, p_forest, p_mountains ]
   waters <- return $ whodrink wadj water
   armedwith <- return $ wavingtheir weapons
   dress <- return $ dressedin colours clothes
