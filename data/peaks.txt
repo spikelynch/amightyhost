@@ -1,5 +1,6 @@
 arêtes
 battlements
+bluffs
 boulders
 chasms
 cliffs

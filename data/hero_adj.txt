@@ -6,9 +6,11 @@ bandy
 beef
 beer
 big
+bleak
 blonde
 blood
 bloody
+bluff
 bold
 bottom
 bow
@@ -102,6 +104,7 @@ shaggy
 slack
 small
 silk
+soft
 spindle
 star
 steely
