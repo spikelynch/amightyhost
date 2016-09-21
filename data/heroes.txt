@@ -7,6 +7,7 @@ WACs
 WAVEs
 abreks
 acolytes
+adamites
 agents
 agents provocateurs
 agitators
@@ -102,6 +103,7 @@ gendarmes
 ghillies
 girls
 goldbricks
+goliards
 greenhorns
 grenadiers
 grognards
@@ -116,6 +118,7 @@ heldentenors
 hellions
 helots
 henchmen
+heresiarchs
 heroes
 highlanders
 hillbillies
@@ -141,6 +144,7 @@ jawans
 jokers
 junkers
 kerns
+khlysty
 kinsmen
 klephts
 knights
@@ -190,6 +194,7 @@ patriots
 peacekeepers
 peers
 peons
+perfecti
 picadors
 pirates
 pistoleers
@@ -220,7 +225,9 @@ reivers
 rejoneadors
 reprobates
 revanchists
+revisionists
 revolutionaries
+ribaldi
 rogues
 ronin
 rude boys
@@ -243,6 +250,7 @@ shield-maidens
 shifta
 shitkickers
 skaters
+skopty
 soldiers
 spear-carriers
 spies
@@ -265,8 +273,11 @@ trappers
 tribunes
 tyros
 tóraithe
+unionists
+unitarians
 upstarts
 ultras
+vagabundi
 varlets
 vassals
 vigilantes
