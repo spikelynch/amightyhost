@@ -56,7 +56,7 @@ topos_mountains m m_adj peaks = list [ word "the", adj, peaks, word "of", m ]
 
 topos_desert d d_adj d_sands = list [ word "the", d_adj, d_sands, word "of the", d ]
 
-numbers = choose $ map word [ "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" ]
+numbers = choose $ map word [ "several", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" ]
 
 howmany = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
 
