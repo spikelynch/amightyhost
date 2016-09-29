@@ -23,6 +23,7 @@ fruit-bearing
 hoary
 holy
 hushed
+ill-defined
 immemorial
 impenetrable
 leafy
@@ -46,6 +47,7 @@ rainy
 resplendent
 royal
 sacred
+savage
 scented
 sclerophyll
 shadowy
@@ -60,6 +62,7 @@ sunny
 sylvan
 tall
 tangled
+temperate
 trackless
 tropical
 unbroken

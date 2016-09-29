@@ -11,6 +11,7 @@ brooding
 brown
 cloudy
 cold
+cyclopean
 deadly
 deep
 desolate
@@ -41,6 +42,7 @@ murky
 mystic
 night-dark
 piney
+precipitous
 red
 rocky
 sacred
@@ -57,10 +59,12 @@ sullen
 sunless
 sunny
 tall
+tempestuous
 trackless
 torrid
 towering
 vertical
+vertiginous
 wailing
 white
 windswept
