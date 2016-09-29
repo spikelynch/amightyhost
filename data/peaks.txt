@@ -1,7 +1,9 @@
 arêtes
 battlements
 bluffs
+buttes
 boulders
+bornhardts
 chasms
 cliffs
 cols
@@ -15,8 +17,13 @@ flints
 foothills
 glaciers
 hills
+hoodoos
+inselbergs
+knobs
+koppies
 massifs
 mesas
+monadnocks
 moraines
 mountains
 nunataks
@@ -37,6 +44,7 @@ stacks
 stones
 tepuis
 towers
+tuyas
 uplands
 valleys
 walls
