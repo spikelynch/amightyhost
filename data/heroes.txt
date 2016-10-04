@@ -8,6 +8,8 @@ WAVEs
 abreks
 acolytes
 adamites
+adjuncts
+adjutants
 agents
 agents provocateurs
 agitators
@@ -53,6 +55,7 @@ cavalieros
 centurions
 cheerleaders
 churls
+clerics
 clowns
 cold warriors
 colour bearers
@@ -181,6 +184,7 @@ mutineers
 myrmidons
 nationalists
 ne'er-do-wells
+neophytes
 ninjas
 nobles
 observers
@@ -263,6 +267,7 @@ swains
 sweethearts
 swords
 tankers
+templars
 termagants
 territorials
 thieves
@@ -284,6 +289,7 @@ vigilantes
 villains
 villeins
 viragos
+visiting fellows
 warfighters
 warriors
 weekend warriors
