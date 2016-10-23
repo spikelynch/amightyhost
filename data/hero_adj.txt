@@ -31,6 +31,7 @@ cross
 curly
 dank
 dark
+disease
 dog
 double
 dour
@@ -47,6 +48,7 @@ firm
 first
 flat
 flaxen
+flea
 frank
 free
 gin
@@ -80,6 +82,7 @@ live
 long
 loose
 loud
+louse
 love
 low
 mean

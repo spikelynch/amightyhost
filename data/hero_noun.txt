@@ -6,6 +6,7 @@ beaten
 beating
 begotten
 big
+bitten
 blooded
 bodied
 boned
@@ -49,6 +50,7 @@ hearted
 hewn
 hung
 hungry
+infested
 jawed
 jointed
 kempt
@@ -66,6 +68,7 @@ necked
 omened
 prowed
 renowned
+ridden
 seasoned
 shanked
 shod
