@@ -1,7 +1,16 @@
 A Mighty Host!
 ==============
 
-A homegrown state monad text generator which powers the Twitter bot
-@amightyhost.
+Haskell code which powers the Twitter bot [@amightyhost](https://twitter.com/amightyhost).
 
 See http://bots.mikelynch.org/amightyhost/ for context.
+
+The reusable part of this repository is the TextGen library, which is
+now factored out to https://github.com/spikelynch/textgen
+
+To install amightyhost, check it out with git, cd to the repo and:
+
+    > stack build
+    > stack install
+    > ~/.local/bin/amightyhost-exe ./data
+
