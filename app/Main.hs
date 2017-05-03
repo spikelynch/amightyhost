@@ -4,6 +4,7 @@ import Control.Monad (forM)
 import Control.Monad.Loops (iterateUntil)
 import Data.List (intercalate)
 import Data.Char (toUpper)
+import Text.Read (readMaybe)
 import System.Random
 import System.Environment (getArgs)
 import qualified Data.Text as T
@@ -12,7 +13,10 @@ import qualified Data.Text.IO as Tio
 outfile = "hosts.txt"
 
 nlines = 200
-max_length = 140
+
+default_max_length :: Int
+default_max_length = 140
+
 
 abode a = list [ sof, a ] 
   where sof = choose $ map word [ "abode of", "haunt of", "country of", "land of", "home of", "place of", "realm of" ]
@@ -94,11 +98,20 @@ getDir (x:xs) = x
 getDir _      = "./"
 
 load d file = loadOptions (d ++ file)
+
+
+maxLength :: [ String ] -> Int
+maxLength (a:b:cs) = case readMaybe b of
+  (Just i) -> i
+  Nothing  -> default_max_length
+maxLength _        = default_max_length
+
   
 main :: IO ()
 main = do
   args <- getArgs
   load <- return $ (\f -> loadOptions ((getDir args) ++ f))
+  max_length <- return $ maxLength args
   places <- load "places.txt"
   water <- load "waterways.txt"
   wadj <- load "water_adj.txt"
