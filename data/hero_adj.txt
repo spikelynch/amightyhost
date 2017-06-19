@@ -43,6 +43,7 @@ fair
 fame
 fast
 fat
+father
 fierce
 firm
 first
@@ -91,6 +92,8 @@ meat
 milk
 mighty
 moon
+mother
+oak
 open
 owl
 noble
@@ -112,6 +115,7 @@ soft
 spindle
 star
 steely
+stony
 stout
 straight
 strong
