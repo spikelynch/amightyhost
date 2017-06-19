@@ -72,6 +72,7 @@ ill
 iron
 keen
 knock
+knuckle
 lantern
 lean
 leather
@@ -134,6 +135,7 @@ water
 weather
 well
 whey
+whip
 wild
 wind
 wine

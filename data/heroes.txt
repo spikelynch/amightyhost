@@ -29,6 +29,7 @@ barbarians
 bards
 bashi-bazouks
 bastards
+bishōnen
 beaux
 beldames
 bowmen
@@ -69,6 +70,7 @@ corybantes
 cosmonauts
 coxcombs
 cuirassiers
+cunts
 cup-bearers
 dacoits
 dames
@@ -97,6 +99,7 @@ foresters
 freebooters
 freemen
 frondeurs
+fuckers
 fuglemen
 furies
 fusiliers
@@ -122,6 +125,7 @@ hellions
 helots
 henchmen
 heresiarchs
+heretics
 heroes
 highlanders
 hillbillies
@@ -175,6 +179,7 @@ mimes
 minutemen
 miscreants
 monsters
+motherfuckers
 mountebanks
 muchachos
 mummers
@@ -183,6 +188,7 @@ musketeers
 mutineers
 myrmidons
 nationalists
+navvies
 ne'er-do-wells
 neophytes
 ninjas
