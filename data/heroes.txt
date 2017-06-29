@@ -45,6 +45,7 @@ bucks
 buffalo gals
 buffalo soldiers
 buggers
+bullies
 burglars
 bushwhackers
 caitiffs
@@ -169,6 +170,7 @@ marauders
 marines
 marshals
 matadors
+matelots
 mehmetçiks
 men
 men-at-arms
@@ -206,6 +208,7 @@ peers
 peons
 perfecti
 picadors
+pilots
 pirates
 pistoleers
 poilus
@@ -240,11 +243,13 @@ revolutionaries
 ribaldi
 rogues
 ronin
+roustabouts
 rude boys
 ruffians
 salarymen
 samurai
 sappers
+sailors
 scalawags
 scamps
 scapegraces
@@ -272,6 +277,7 @@ suffragettes
 swains
 sweethearts
 swords
+swordsmen
 tankers
 templars
 termagants
@@ -301,6 +307,7 @@ warriors
 weekend warriors
 whiggamores
 wildmen
+wingmen
 women
 wrestlers
 yeomen
