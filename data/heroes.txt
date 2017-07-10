@@ -10,6 +10,7 @@ acolytes
 adamites
 adjuncts
 adjutants
+adversaries
 agents
 agents provocateurs
 agitators
@@ -38,7 +39,9 @@ boys
 braves
 bravos
 brawlers
+brethren
 brigands
+brothers-in-arms
 brutes
 buccaneers
 bucks
@@ -56,6 +59,7 @@ cavalrymen
 cavalieros
 centurions
 cheerleaders
+chevau-léger
 churls
 clerics
 clowns
@@ -69,6 +73,7 @@ consultants
 cornerboys
 corybantes
 cosmonauts
+counterinsurgents
 coxcombs
 cuirassiers
 cunts
@@ -90,10 +95,12 @@ engineers
 exquisites
 fact-finders
 fedayeen
+fedaykin
 fellows
 fighters
 fishwives
 flankers
+flying pickets
 foederati
 fops
 foresters
@@ -105,6 +112,7 @@ fuglemen
 furies
 fusiliers
 gallants
+galoots
 gangsters
 gendarmes
 ghillies
@@ -146,6 +154,7 @@ insurgents
 invincibles
 invisibles
 irregulars
+itinerates
 janissaries
 jarls
 jawans
@@ -184,6 +193,7 @@ monsters
 motherfuckers
 mountebanks
 muchachos
+mujahideen
 mummers
 murderers
 musketeers
@@ -209,6 +219,7 @@ peons
 perfecti
 picadors
 pilots
+pioneers
 pirates
 pistoleers
 poilus
@@ -236,6 +247,7 @@ redshirts
 regulars
 reivers
 rejoneadors
+reservists
 reprobates
 revanchists
 revisionists
@@ -272,6 +284,7 @@ spies
 spitfires
 spotters
 stewards
+stormtroopers
 subversives
 suffragettes
 swains
@@ -302,8 +315,11 @@ villains
 villeins
 viragos
 visiting fellows
+volunteers
+wanderers
 warfighters
 warriors
+wayfarers
 weekend warriors
 whiggamores
 wildmen
