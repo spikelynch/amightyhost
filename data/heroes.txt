@@ -7,6 +7,7 @@ WACs
 WAVEs
 abreks
 acolytes
+activists
 adamites
 adjuncts
 adjutants
@@ -16,6 +17,7 @@ agents provocateurs
 agitators
 anarchists
 analysts
+antifas
 armchair activists
 artillerymen
 assassins
@@ -48,6 +50,7 @@ bucks
 buffalo gals
 buffalo soldiers
 buggers
+buglers
 bullies
 burglars
 bushwhackers
@@ -55,10 +58,12 @@ caitiffs
 camisards
 camp followers
 carabinieri
+catamites
 cavalrymen
 cavalieros
 centurions
 cheerleaders
+chieftains
 chevau-léger
 churls
 clerics
@@ -69,7 +74,9 @@ commandos
 commissars
 communards
 condottieri
+conscripts
 consultants
+contractors
 cornerboys
 corybantes
 cosmonauts
@@ -87,11 +94,14 @@ deputies
 dervishes
 developers
 diggers
+divines
 doughboys
 dragoons
+drummers
 ensigns
 eunuchs
 engineers
+entrepreneurs
 exquisites
 fact-finders
 fedayeen
@@ -99,6 +109,7 @@ fedaykin
 fellows
 fighters
 fishwives
+flag-bearers
 flankers
 flying pickets
 foederati
@@ -124,10 +135,13 @@ grenadiers
 grognards
 guardsmen
 guerillas
+guides
 gunners
+gunzels
 hags
 hajduks
 harlequins
+harlots
 harpooneers
 heldentenors
 hellions
@@ -173,7 +187,9 @@ levellers
 levies
 libertines
 loyalists
+lords
 maccaronies
+maenads
 mamelukes
 marauders
 marines
@@ -230,8 +246,10 @@ postulants
 princes
 privateers
 privates
+prostitutes
 protagonists
 quartermasters
+ragamuffins
 ragazzi
 raiders
 rakehells
@@ -248,6 +266,8 @@ regulars
 reivers
 rejoneadors
 reservists
+rent boys
+rentiers
 reprobates
 revanchists
 revisionists
@@ -278,13 +298,18 @@ shifta
 shitkickers
 skaters
 skoptsy
+slappers
+slatterns
+sluts
 soldiers
 spear-carriers
 spies
 spitfires
 spotters
 stewards
+stooges
 stormtroopers
+strongmen
 subversives
 suffragettes
 swains
@@ -301,6 +326,7 @@ tommies
 trainbandsmen
 trappers
 tribunes
+trulls
 tyros
 tóraithe
 unionists
@@ -310,7 +336,9 @@ ultras
 vagabundi
 varlets
 vassals
+vestals
 vigilantes
+virgins
 villains
 villeins
 viragos
