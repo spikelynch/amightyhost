@@ -17,6 +17,23 @@ nlines = 200
 default_max_length :: Int
 default_max_length = 140
 
+--
+-- A NUMBER of
+--
+
+-- TODO: have "a hundred", "a dozen" but "a score of"
+
+number :: TextGenCh
+number = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
+
+numbers :: TextGenCh
+numbers = choose $ map word [
+  "several",
+  "two", "three", "four", "five", "six", "seven", "eight", "nine",
+  "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
+  "sixteen", "seventeen", "eighteen", "nineteen"
+  ]
+
 
 --
 -- ADJECTIVE-PARTICIPLING WARRIORS
@@ -35,6 +52,31 @@ whodrink :: Vocab -> TextGenCh
 whodrink v = list [
   v "water_drink", v "water_adj", word "waters of the", v "rivers"
   ]
+
+--
+-- WAVING their WEAPONS
+--
+waving :: Vocab -> TextGenCh
+waving v = list [
+  v "flourish", perhaps ( 3, 5 ) $ word "their", v "weapons"
+  ]
+
+--
+-- WEARING COLOURED GARMENTS
+--
+
+wearing :: Vocab -> TextGenCh
+wearing v = list [ v "wearing", perhaps ( 1, 2 ) v "colours", v "clothes" ]
+
+--
+-- their ARMOUR SHINING like (a LOT of) SHINY THINGS
+
+shining :: Vocab -> TextGenCh
+shining v = list [ word "their", v "armour", v "shining", shinies ]
+  where shinies = choose [ v "shinies", manyshinies ]
+        manyshinies = aan $ list [ number, v "shinies" ]
+        number = choose $ map word [ "hundred", "thousand", "myriad" ] 
+
 
 
 --
@@ -82,52 +124,27 @@ desert v = list [
   word "the", v "desert_adj", v "sands", word "of the", v "deserts"
   ]
 
+--
+-- SENTENCES
+--
+-- From PLACE came N WARRIORS WHO (DRINK|CARRY|WEAR|SHINE)
+-- PLACE sent N WARRIORS WHO (DRINK|CARRY|WEAR|SHINE)
+-- N WARRIORS WHO (DRINK|CARRY|WEAR|SHINE) came from PLACE
+-- (CARRY|WEAR)ING, N WARRIORS (WHO DRINK) arrived from PLACE 
 
-
-
-flourish = choose $ map word [ "brandishing", "waving", "flourishing", "carrying", "armed with", "bearing", "humping", "hoisting", "loading", "tossing", "shouldering" ] 
-
-wavingtheir v = list [
-  v "flourish", perhaps (3, 5 ) $ word "their", v "weapons"
-  ]
-
-dressedin colours clothes = list [ participle, perhaps ( 1, 2 ) colours, clothes ]
-  where participle = choose $ map word [ "wearing", "clad in", "dressed in", "sporting" ]
-
-
-shininglike armour shinies = list [ word "their", armour, participle, shinies ]
-  where participle = choose $ map word [ "shining like", "gleaming like", "glinting like", "glistening like" ]
-
-
-
-
-numbers = choose $ map word [ "several", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" ]
-
-howmany = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
-
-
-
-
-
--- From PLACE came N WARRIORS, DOING
--- PLACE sent N WARRIORS, DOING
--- N WARRIORS WHODRINK CAME FROM PLACE DOING
-
--- N WARRIORS DOING CAME FROM PLACE
-
--- DOING, WARRIORS, WHODRINK, CAME FROM PLACE
-
-host place warriors waters arms dress simile = choose [ s1, s2, s3, s4 ]
-  where s1 = list [ word "From", place, word "came", band ]
-        s2 = list [ place, word "sent", band ] 
-        s3 = list [ band, word "came from", place ]
-        s4 = list [ action, howmany, warriors, attr, word "arrived from", place ]
-        band = list [ howmany, warriors, whodo ]
-        whodo = perhaps ( 3, 5 ) $ choose $ map phr [ waters, arms, dress, simile ]
-        action = perhaps ( 2, 5 ) $ choose $ map prephr [ arms, dress ]
-        attr = perhaps ( 2, 5 ) $ phr waters
-
-
+host :: Vocab -> TextGenCh
+host v = choose [ s1, s2, s3, s4 ]
+  where s1 = list [ word "From", place v, word "came", band ]
+        s2 = list [ place v, word "sent", band ] 
+        s3 = list [ band, camefrom, place v ]
+        s4 = list [ doing, number v, warriors v, mwhodrink, camefrom, place v ]
+        band = list [ number v, warriors v, whodo ]
+        whodo = perhaps ( 3, 5 ) $ choose $ map phr [
+          whodrink v, waving v, wearing v, shining v
+        ]
+        doing = perhaps ( 2, 5 ) $ choose $ map prephr [ waving v, wearing v ]
+        mwhodrink = perhaps ( 2, 5 ) $ phr $ whodrink v
+        camefrom = choose $ map word [ "came from", "arrived from" ]
 
 
 phr phrase = list [ word ",", phrase, word "," ]
