@@ -1,7 +1,9 @@
 ankled
 armed
 armoured
+arsed
 backed
+balled
 beaten
 beating
 begotten
@@ -11,6 +13,7 @@ blooded
 bodied
 boned
 booted
+bouncing
 bound
 born
 broke
@@ -25,6 +28,7 @@ clad
 cracking
 crossed
 dark
+dealing
 doomed
 drenched
 dressed
@@ -56,6 +60,7 @@ hungry
 infested
 jawed
 jointed
+jumping
 kempt
 kissed
 kneed
@@ -92,4 +97,6 @@ throated
 tongued
 voiced
 vowed
+weary
+worn
 wristed
