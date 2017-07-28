@@ -14,3 +14,13 @@ To install amightyhost, check it out with git, cd to the repo and:
     > stack install
     > ~/.local/bin/amightyhost-exe ./data
 
+
+## Release notes
+
+### 1.2
+
+Uses textgen's streamlined vocab handler
+
+### 1.1
+
+First complete release

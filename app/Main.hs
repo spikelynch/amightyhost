@@ -1,4 +1,19 @@
-import TextGen ( TextGen, runTextGen, word, choose, list, randrep, perhaps, smartjoin, upcase, loadOptions)
+import TextGen (
+  TextGen,
+  Vocab,
+  TextGenCh,
+  runTextGen,
+  word,
+  aan,
+  weighted,
+  choose,
+  list,
+  randrep,
+  perhaps,
+  smartjoin,
+  upcase,
+  loadVocab
+  )
 
 import Control.Monad (forM)
 import Control.Monad.Loops (iterateUntil)
@@ -17,77 +32,134 @@ nlines = 200
 default_max_length :: Int
 default_max_length = 140
 
+--
+-- A NUMBER of
+--
 
-abode a = list [ sof, a ] 
-  where sof = choose $ map word [ "abode of", "haunt of", "country of", "land of", "home of", "place of", "realm of" ]
+-- TODO: have "a hundred", "a dozen" but "a score of"
 
+number :: TextGenCh
+number = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
 
-theyhunt a = list [ word "where they", anverb, word "the", a ]
-  where anverb = choose $ map word [ "hunt", "eat", "fight", "worship", "dread" ]
-
-
-trees ta t = list [ perhaps ( 1, 2 ) ta, t ]
-
-
-
-whodrink wadj rivers = list [ word "who drink the", wadj, word "waters of the", rivers ]
-
-
-flourish = choose $ map word [ "brandishing", "waving", "flourishing", "carrying", "armed with", "bearing", "humping", "hoisting", "loading", "tossing", "shouldering" ] 
-
-wavingtheir weapons = list [ flourish, perhaps (3, 5 ) $ word "their", weapons ]
-
-dressedin colours clothes = list [ participle, perhaps ( 1, 2 ) colours, clothes ]
-  where participle = choose $ map word [ "wearing", "clad in", "dressed in", "sporting" ]
+numbers :: TextGenCh
+numbers = choose $ map word [
+  "several",
+  "two", "three", "four", "five", "six", "seven", "eight", "nine",
+  "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
+  "sixteen", "seventeen", "eighteen", "nineteen"
+  ]
 
 
-shininglike armour shinies = list [ word "their", armour, participle, shinies ]
-  where participle = choose $ map word [ "shining like", "gleaming like", "glinting like", "glistening like" ]
+--
+-- ADJECTIVE-PARTICIPLING WARRIORS
+--
+
+warriors :: Vocab -> TextGenCh
+warriors v = list [ randrep ( 0, 2 ) epithet, v "heroes" ]
+  where epithet = list [ v "hero_adj", word "-", v "hero_noun" ]
+
+
+--
+-- WHO DRINK the WATERS of the RIVER
+--
+
+whodrink :: Vocab -> TextGenCh
+whodrink v = list [
+  v "water_drink", v "water_adj", word "waters of the", v "waterways"
+  ]
+
+--
+-- WAVING their WEAPONS
+--
+waving :: Vocab -> TextGenCh
+waving v = list [
+  v "flourish", perhaps ( 3, 5 ) $ word "their", v "weapons"
+  ]
+
+--
+-- WEARING COLOURED GARMENTS
+--
+
+wearing :: Vocab -> TextGenCh
+wearing v = list [ v "wearing", perhaps ( 1, 2 ) (v "colours"), v "clothes" ]
+
+--
+-- their ARMOUR SHINING like (a LOT of) SHINY THINGS
+
+shining :: Vocab -> TextGenCh
+shining v = list [ word "their", v "armour", v "shining", shinies ]
+  where shinies = choose [ v "shinies", manyshinies ]
+        manyshinies = aan $ list [ number, v "shinies" ]
+        number = choose $ map word [ "hundred", "thousand", "myriad" ] 
 
 
 
-topos_animal sing plural = list [ word ",", opts, word "," ]
-  where opts = choose [ abode plural, abode plural, theyhunt sing ]
+--
+-- PLACES
+--
 
-topos_forest tree tree_adj grove = list [ word "the", adj, trees, grove, word "of the" ]
-  where adj = perhaps ( 0, 1 ) tree_adj
-        trees = perhaps ( 2, 3 ) tree
+place :: Vocab -> TextGenCh
+place v = weighted [
+  ( 2, v "places" ),
+  ( 2, animal v ),
+  ( 1, desert v ),
+  ( 1, forest v ),
+  ( 1, mountains v )
+  ]
 
+-- PLACE, ABODE of ANIMALS
+-- PLACE, where they VERB the ANIMAL
 
-topos_mountains m m_adj peaks = list [ word "the", adj, peaks, word "of", m ]
-  where adj = perhaps ( 0, 1 ) m_adj
+animal :: Vocab -> TextGenCh
+animal v = list [ v "places", word ",", choose [ abode, activity ], word "," ]
+  where abode = list [ v "abode", v "animals_plural" ]
+        activity = list [
+          word "where they", v "hunt", word "the", v "animals_sing"
+          ]
 
+-- the BOSKY SLIPPERY ELM GROVES of the FOREST
+  
+forest :: Vocab -> TextGenCh
+forest v = list [
+  word "the", adj, trees, v "groves", word "of the", v "forests"
+  ]
+  where adj = perhaps ( 1, 2 ) $ v "tree_adj"
+        trees = perhaps ( 2, 3 ) $ v "trees"
 
-topos_desert d d_adj d_sands = list [ word "the", d_adj, d_sands, word "of the", d ]
+-- the TOWERING STACKS of the MOUNTAIN RANGE
 
-numbers = choose $ map word [ "several", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" ]
+mountains :: Vocab -> TextGenCh
+mountains v = list [ word "the", adj, v "peaks", word "of", v "mountains" ]
+  where adj = perhaps ( 0, 1 ) $ v "mountain_adj"
 
-howmany = list [ numbers, choose $ map word [ "score", "hundred", "dozen" ] ]
+-- the ACHING FLATS of the DESERT
 
+desert :: Vocab -> TextGenCh
+desert v = list [
+  word "the", v "desert_adj", v "sands", word "of the", v "desert"
+  ]
 
+--
+-- SENTENCES
+--
+-- From PLACE came N WARRIORS WHO (DRINK|CARRY|WEAR|SHINE)
+-- PLACE sent N WARRIORS WHO (DRINK|CARRY|WEAR|SHINE)
+-- N WARRIORS WHO (DRINK|CARRY|WEAR|SHINE) came from PLACE
+-- (CARRY|WEAR)ING, N WARRIORS (WHO DRINK) arrived from PLACE 
 
-epithet a n = randrep ( 0, 2 ) $ list [ a, word "-", n ]
-
-
--- From PLACE came N WARRIORS, DOING
--- PLACE sent N WARRIORS, DOING
--- N WARRIORS WHODRINK CAME FROM PLACE DOING
-
--- N WARRIORS DOING CAME FROM PLACE
-
--- DOING, WARRIORS, WHODRINK, CAME FROM PLACE
-
-host place warriors waters arms dress simile = choose [ s1, s2, s3, s4 ]
-  where s1 = list [ word "From", place, word "came", band ]
-        s2 = list [ place, word "sent", band ] 
-        s3 = list [ band, word "came from", place ]
-        s4 = list [ action, howmany, warriors, attr, word "arrived from", place ]
-        band = list [ howmany, warriors, whodo ]
-        whodo = perhaps ( 3, 5 ) $ choose $ map phr [ waters, arms, dress, simile ]
-        action = perhaps ( 2, 5 ) $ choose $ map prephr [ arms, dress ]
-        attr = perhaps ( 2, 5 ) $ phr waters
-
-
+host :: Vocab -> TextGenCh
+host v = choose [ s1, s2, s3, s4 ]
+  where s1 = list [ word "From", place v, word "came", band ]
+        s2 = list [ place v, word "sent", band ] 
+        s3 = list [ band, camefrom, place v ]
+        s4 = list [ doing, number, warriors v, mwhodrink, camefrom, place v ]
+        band = list [ number, warriors v, whodo ]
+        whodo = perhaps ( 3, 5 ) $ choose $ map phr [
+          whodrink v, waving v, wearing v, shining v
+          ]
+        doing = perhaps ( 2, 5 ) $ choose $ map prephr [ waving v, wearing v ]
+        mwhodrink = perhaps ( 2, 5 ) $ phr $ whodrink v
+        camefrom = choose $ map word [ "came from", "arrived from" ]
 
 
 phr phrase = list [ word ",", phrase, word "," ]
@@ -97,8 +169,6 @@ prephr phrase = list [ phrase, word "," ]
 getDir (x:xs) = x
 getDir _      = "./"
 
-load d file = loadOptions (d ++ file)
-
 
 maxLength :: [ String ] -> Int
 maxLength (a:b:cs) = case readMaybe b of
@@ -106,46 +176,16 @@ maxLength (a:b:cs) = case readMaybe b of
   Nothing  -> default_max_length
 maxLength _        = default_max_length
 
+
+
+
   
 main :: IO ()
 main = do
   args <- getArgs
-  load <- return $ (\f -> loadOptions ((getDir args) ++ f))
+  v <- loadVocab (getDir args)
   max_length <- return $ maxLength args
-  places <- load "places.txt"
-  water <- load "waterways.txt"
-  wadj <- load "water_adj.txt"
-  animal <- load "animals_sing.txt"
-  animals <- load "animals_plural.txt"
-  trees <- load "trees.txt"
-  tree_adj <- load "tree_adj.txt"
-  forests <- load "forests.txt"
-  groves <- load "groves.txt"
-  mountains <- load "mountains.txt"
-  mountain_adj <- load "mountain_adj.txt"
-  peaks <- load "peaks.txt"
-  deserts <- load "desert.txt"
-  desert_adj <- load "desert_adj.txt"
-  sands <- load "sands.txt"
-  weapons <- load "weapons.txt"
-  heroes <- load "heroes.txt"
-  hero_adj <- load "hero_adj.txt"
-  hero_noun <- load "hero_noun.txt"
-  colours <- load "colours.txt"
-  clothes <- load "clothes.txt"
-  armour <- load "armour.txt"
-  shining <- load "shining.txt"
-  warriors <- return $ list [ epithet hero_adj hero_noun, heroes ]
-  p_animal <- return $ list [ places, topos_animal animal animals ]
-  p_forest <- return $ list [ topos_forest trees tree_adj groves, forests ]
-  p_mountains <- return $ topos_mountains mountains mountain_adj peaks
-  p_desert <- return $ topos_desert deserts desert_adj sands
-  topoi <- return $ choose [ places, places, p_animal, p_animal, p_desert, p_forest, p_mountains ]
-  waters <- return $ whodrink wadj water
-  armedwith <- return $ wavingtheir weapons
-  dress <- return $ dressedin colours clothes
-  shinelike <- return $ shininglike armour shining 
-  bandf <- return $ runTextGen $ host topoi warriors waters armedwith dress shinelike
+  bandf <- return $ runTextGen $ host v
   result <- iterateUntil (\s -> length s <= max_length) $ do 
     band <- getStdRandom bandf
     return $ upcase $ smartjoin band
