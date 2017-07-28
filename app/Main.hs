@@ -124,7 +124,7 @@ forest v = list [
   word "the", adj, trees, v "groves", word "of the", v "forests"
   ]
   where adj = perhaps ( 1, 2 ) $ v "tree_adj"
-        trees = perhaps ( 2, 3 ) $ v "tree"
+        trees = perhaps ( 2, 3 ) $ v "trees"
 
 -- the TOWERING STACKS of the MOUNTAIN RANGE
 
