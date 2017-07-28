@@ -39,11 +39,11 @@ packages:
 - '.'
 - location:
     git: https://github.com/spikelynch/textgen.git
-    commit: 636ff8f7169172db584671bdd347a5c62e76d2cb
+    commit: 70753168db12f229bcd7a8665a9cca095ef756fe
 
 # Dependency packages to be pulled from upstream that are not in the resolver
 # (e.g., acme-missiles-0.3)
-extra-deps: [ ]
+extra-deps: []
 
 # Override default flag values for local packages and extra-deps
 flags: {}

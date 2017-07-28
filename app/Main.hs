@@ -1,4 +1,19 @@
-import TextGen ( TextGen, runTextGen, word, choose, list, randrep, perhaps, smartjoin, upcase, loadOptions)
+import TextGen (
+  TextGen,
+  Vocab,
+  TextGenCh,
+  runTextGen,
+  word,
+  aan,
+  weighted,
+  choose,
+  list,
+  randrep,
+  perhaps,
+  smartjoin,
+  upcase,
+  loadVocab
+  )
 
 import Control.Monad (forM)
 import Control.Monad.Loops (iterateUntil)
@@ -50,7 +65,7 @@ warriors v = list [ randrep ( 0, 2 ) epithet, v "heroes" ]
 
 whodrink :: Vocab -> TextGenCh
 whodrink v = list [
-  v "water_drink", v "water_adj", word "waters of the", v "rivers"
+  v "water_drink", v "water_adj", word "waters of the", v "waterways"
   ]
 
 --
@@ -66,7 +81,7 @@ waving v = list [
 --
 
 wearing :: Vocab -> TextGenCh
-wearing v = list [ v "wearing", perhaps ( 1, 2 ) v "colours", v "clothes" ]
+wearing v = list [ v "wearing", perhaps ( 1, 2 ) (v "colours"), v "clothes" ]
 
 --
 -- their ARMOUR SHINING like (a LOT of) SHINY THINGS
@@ -85,10 +100,10 @@ shining v = list [ word "their", v "armour", v "shining", shinies ]
 
 place :: Vocab -> TextGenCh
 place v = weighted [
-  ( 2, v "places" )
-  ( 2, animal v )
-  ( 1, desert v )
-  ( 1, forest v )
+  ( 2, v "places" ),
+  ( 2, animal v ),
+  ( 1, desert v ),
+  ( 1, forest v ),
   ( 1, mountains v )
   ]
 
@@ -96,7 +111,7 @@ place v = weighted [
 -- PLACE, where they VERB the ANIMAL
 
 animal :: Vocab -> TextGenCh
-animal v = list [ place, word ",", choose [ abode, activity ], word "," ]
+animal v = list [ v "places", word ",", choose [ abode, activity ], word "," ]
   where abode = list [ v "abode", v "animals_plural" ]
         activity = list [
           word "where they", v "hunt", word "the", v "animals_sing"
@@ -121,7 +136,7 @@ mountains v = list [ word "the", adj, v "peaks", word "of", v "mountains" ]
 
 desert :: Vocab -> TextGenCh
 desert v = list [
-  word "the", v "desert_adj", v "sands", word "of the", v "deserts"
+  word "the", v "desert_adj", v "sands", word "of the", v "desert"
   ]
 
 --
@@ -137,11 +152,11 @@ host v = choose [ s1, s2, s3, s4 ]
   where s1 = list [ word "From", place v, word "came", band ]
         s2 = list [ place v, word "sent", band ] 
         s3 = list [ band, camefrom, place v ]
-        s4 = list [ doing, number v, warriors v, mwhodrink, camefrom, place v ]
-        band = list [ number v, warriors v, whodo ]
+        s4 = list [ doing, number, warriors v, mwhodrink, camefrom, place v ]
+        band = list [ number, warriors v, whodo ]
         whodo = perhaps ( 3, 5 ) $ choose $ map phr [
           whodrink v, waving v, wearing v, shining v
-        ]
+          ]
         doing = perhaps ( 2, 5 ) $ choose $ map prephr [ waving v, wearing v ]
         mwhodrink = perhaps ( 2, 5 ) $ phr $ whodrink v
         camefrom = choose $ map word [ "came from", "arrived from" ]
@@ -153,8 +168,6 @@ prephr phrase = list [ phrase, word "," ]
   
 getDir (x:xs) = x
 getDir _      = "./"
-
-load d file = loadOptions (d ++ file)
 
 
 maxLength :: [ String ] -> Int
@@ -172,7 +185,7 @@ main = do
   args <- getArgs
   v <- loadVocab (getDir args)
   max_length <- return $ maxLength args
-  bandf <- return $ runTextGen $ bandOfWarriors v
+  bandf <- return $ runTextGen $ host v
   result <- iterateUntil (\s -> length s <= max_length) $ do 
     band <- getStdRandom bandf
     return $ upcase $ smartjoin band
