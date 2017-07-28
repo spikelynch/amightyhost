@@ -39,16 +39,17 @@ packages:
 - '.'
 - location:
     git: https://github.com/spikelynch/textgen.git
-    commit: ff13cc9
+    commit: 0779be0e2dbf711d0df0fdb68f7a7acba32c99a6
+
 # Dependency packages to be pulled from upstream that are not in the resolver
 # (e.g., acme-missiles-0.3)
-extra-deps: [ ]
+extra-deps: []
 
 # Override default flag values for local packages and extra-deps
 flags: {}
 
 # Extra package databases containing global packages
-extra-package-dbs: []
+# extra-package-dbs: []
 
 # Control whether we use the GHC we find on the path
 # system-ghc: true

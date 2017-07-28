@@ -1,38 +1,10 @@
-amber
-amethysts
-beacons
-brilliants
-cachous
-cat’s eyes
-crystal
-dewdrops
-diamonds
-embers
-emeralds
-fireflies
-flames
-foxfire
-galaxies
-garnets
-glitter
-gold
-the heavens
-ice
-icicles
-mackerel
-moonlight
-nonpareils
-pearls
-raindrops
-rubies
-silver
-spangles
-sparks
-sparks from a bonfire
-stars
-sunshine on the waves
-the moon
-the stars
-the sun
-tinsel
-will-o-the-wisps
+shining like
+gleaming like
+glinting like
+blazing like
+glittering like
+glistering like
+coruscating like
+dazzling like
+glowing like
+burning like
