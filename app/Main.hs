@@ -26,6 +26,17 @@ warriors :: Vocab -> TextGenCh
 warriors v = list [ randrep ( 0, 2 ) epithet, v "heroes" ]
   where epithet = list [ v "hero_adj", word "-", v "hero_noun" ]
 
+
+--
+-- WHO DRINK the WATERS of the RIVER
+--
+
+whodrink :: Vocab -> TextGenCh
+whodrink v = list [
+  v "water_drink", v "water_adj", word "waters of the", v "rivers"
+  ]
+
+
 --
 -- PLACES
 --
@@ -72,12 +83,6 @@ desert v = list [
   ]
 
 
-
-trees ta t = list [ perhaps ( 1, 2 ) ta, t ]
-
-
-
-whodrink wadj rivers = list [ word "who drink the", wadj, word "waters of the", rivers ]
 
 
 flourish = choose $ map word [ "brandishing", "waving", "flourishing", "carrying", "armed with", "bearing", "humping", "hoisting", "loading", "tossing", "shouldering" ] 
