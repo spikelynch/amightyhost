@@ -17,6 +17,10 @@ To install amightyhost, check it out with git, cd to the repo and:
 
 ## Release notes
 
+### 1.3
+
+Added new phrases (war-cries and phenomena) and some more vocab
+
 ### 1.2
 
 Uses textgen's streamlined vocab handler
