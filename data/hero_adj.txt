@@ -10,6 +10,7 @@ bleak
 blonde
 blood
 bloody
+blue
 bluff
 bold
 bottom
@@ -21,6 +22,7 @@ breast
 bright
 broad
 bull
+candy
 cheese
 chest
 clear
@@ -56,6 +58,7 @@ gin
 glad
 glory
 god
+gold
 golden
 great
 hairy
@@ -101,8 +104,10 @@ pale
 pork
 proud
 quick
+ragged
 raven
 red
+road
 rosy
 ruddy
 sad
@@ -111,6 +116,7 @@ shaggy
 slack
 small
 silk
+silver
 soft
 spindle
 star
@@ -133,6 +139,7 @@ tawny
 thick
 thin
 tight
+travel
 triple
 warm
 water
