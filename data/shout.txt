@@ -5,8 +5,10 @@ grumbling
 hollering
 incanting
 moaning
+mouthing
 muttering
 roaring
+saying
 screaming
 shouting
 shrieking
@@ -14,5 +16,7 @@ sighing
 singing
 wailing
 whispering
+uttering
+voicing
 yelling
 yodelling

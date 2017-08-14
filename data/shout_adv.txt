@@ -3,10 +3,12 @@ angrily
 blithely
 boisterously
 bravely
+brazenly
 briskly
 carelessly
 cheerfully
 cheerily
+fearlessly
 fiecely
 gaily
 gladly
@@ -15,6 +17,7 @@ heartily
 heroically
 jauntily
 jovially
+joyfully
 loudly
 lustily
 merrily
