@@ -15,6 +15,7 @@ adversaries
 agents
 agents provocateurs
 agitators
+aides-de-camp
 anarchists
 analysts
 antifas
@@ -32,6 +33,7 @@ barbarians
 bards
 bashi-bazouks
 bastards
+batmen
 bishōnen
 beaux
 beldames
@@ -57,6 +59,7 @@ bushwhackers
 caitiffs
 camisards
 camp followers
+cantinières
 carabinieri
 catamites
 cavalrymen
@@ -181,6 +184,8 @@ klephts
 knights
 lancepesades
 lancers
+lascars
+lascarins
 leathermen
 legionnaires
 levellers
@@ -312,6 +317,7 @@ stormtroopers
 strongmen
 subversives
 suffragettes
+sutlers
 swains
 sweethearts
 swords
