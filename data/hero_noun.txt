@@ -4,6 +4,7 @@ armoured
 arsed
 backed
 balled
+banded
 beaten
 beating
 begotten
@@ -37,6 +38,7 @@ eating
 elbowed
 eyed
 faced
+farting
 famed
 fearing
 fed
@@ -65,6 +67,7 @@ kempt
 kissed
 kneed
 legged
+licking
 limbed
 loined
 loving
@@ -81,10 +84,12 @@ ridden
 seasoned
 shanked
 shod
+shot
 shouldered
 skinned
 slung
 smoking
+sodden
 spirited
 struck
 swilling

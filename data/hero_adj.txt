@@ -6,6 +6,7 @@ bandy
 beef
 beer
 big
+black
 bleak
 blonde
 blood
@@ -43,6 +44,7 @@ dewy
 eagle
 fair
 fame
+far
 fast
 fat
 father
@@ -61,7 +63,9 @@ god
 gold
 golden
 great
+gruff
 hairy
+half
 ham
 hand
 hawk
@@ -121,6 +125,7 @@ soft
 spindle
 star
 steely
+stiff
 stony
 stout
 straight
@@ -139,6 +144,7 @@ tawny
 thick
 thin
 tight
+tough
 travel
 triple
 warm
@@ -147,6 +153,7 @@ weather
 well
 whey
 whip
+white
 wild
 wind
 wine
