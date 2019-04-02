@@ -11,6 +11,7 @@ activists
 adamites
 adjuncts
 adjutants
+admins
 adversaries
 agents
 agents provocateurs
@@ -45,6 +46,7 @@ bravos
 brawlers
 brethren
 brigands
+brokers
 brothers-in-arms
 brutes
 buccaneers
@@ -92,6 +94,7 @@ dacoits
 dames
 dandies
 dastards
+day traders
 demons
 deputies
 dervishes
@@ -119,11 +122,13 @@ foederati
 fops
 foresters
 freebooters
+freelancers
 freemen
 frondeurs
 fuckers
 fuglemen
 furies
+furries
 fusiliers
 gallants
 galoots
@@ -131,11 +136,13 @@ gangsters
 gendarmes
 ghillies
 girls
+go-betweens
 goldbricks
 goliards
 greenhorns
 grenadiers
 grognards
+guards
 guardsmen
 guerillas
 guides
@@ -210,6 +217,7 @@ militiamen
 mimes
 minutemen
 miscreants
+moderators
 monsters
 motherfuckers
 mountebanks
@@ -229,7 +237,9 @@ nobles
 observers
 ogres
 orderlies
+ordinaries
 outlaws
+panders
 paladins
 paratroopers
 partisans
@@ -240,6 +250,7 @@ peons
 perfecti
 picadors
 pilots
+pimps
 pioneers
 pirates
 pistoleers
@@ -251,6 +262,7 @@ postulants
 princes
 privateers
 privates
+project managers
 prostitutes
 protagonists
 quartermasters
@@ -353,12 +365,15 @@ vivandières
 volunteers
 wanderers
 warfighters
+warrant officers
 warriors
 wayfarers
 weekend warriors
 whiggamores
 wildmen
 wingmen
+witches
+wizards
 women
 wrestlers
 yeomen

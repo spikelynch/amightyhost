@@ -15,7 +15,9 @@ cant
 chants
 code words
 colloquy
+comments
 curses
+discourse
 dirges
 epics
 epithets
